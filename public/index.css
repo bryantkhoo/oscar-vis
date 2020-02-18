@@ -1,0 +1,79 @@
+html {
+    background-image: url(logo.png);
+    background-repeat: repeat-x; 
+  }
+
+body {
+    margin:0;
+    background-color:#E1E8ED;
+}
+
+/* Header/Blog Title */
+.header {
+    margin-top: 50px;
+    padding: 30px;
+    text-align: left;
+    background: white;
+    font-family: painting-with-choc-font;
+    font-weight: black;
+    font-size: 4vw;
+}
+
+/* Header/Blog Title */
+.subheader {
+    text-align: left;
+    background: white;
+    font-family: painting-with-choc-font;
+    font-weight: black;
+    font-size: 2vw;
+}
+
+.vis-center-container {
+    margin-top:50px;
+    margin-bottom:50px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.float{
+	position:fixed;
+	width:45px;
+	height:45px;
+	bottom:20px;
+	right:20px;
+	background-color:rgb(56, 133, 146);
+	color:rgb(64, 101, 221);
+	border-radius:50px;
+	text-align:center;
+    box-shadow: 2px 2px 3px #999;
+    outline:none;
+}
+
+@font-face {
+    font-family: 'chopinscript-font';
+    src: url('assets/chopinscript-font/Chopinscript-gxXE.ttf')  format('opentype'),
+         url('assets/chopinscript-font/Chopinscript-jWKj.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'painting-with-choc-font';
+src: url('assets/Paintingwithchocolate-K5mo.ttf')  format('opentype');
+}
+
+.tooltip {		
+    display: flex;
+    justify-content: center;
+    align-items: center;		
+    width: 100px;					
+    height: 45px;					
+    padding: 4px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 6px;			
+    pointer-events: none;			
+}
+
+.svg-content-responsive {
+    display: inline-block;
+  }
