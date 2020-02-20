@@ -1,0 +1,237 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+2,1927,1928,1,ACTRESS,Louise Dresser,A Ship Comes In,False
+3,1927,1928,1,ACTRESS,Janet Gaynor,7th Heaven,True
+4,1927,1928,1,ACTRESS,Gloria Swanson,Sadie Thompson,False
+40,1928,1929,2,ACTRESS,Ruth Chatterton,Madame X,False
+41,1928,1929,2,ACTRESS,Betty Compson,The Barker,False
+42,1928,1929,2,ACTRESS,Jeanne Eagels,The Letter,False
+43,1928,1929,2,ACTRESS,Corinne Griffith,The Divine Lady,False
+44,1928,1929,2,ACTRESS,Bessie Love,The Broadway Melody,False
+45,1928,1929,2,ACTRESS,Mary Pickford,Coquette,True
+79,1929,1930,3,ACTRESS,Nancy Carroll,The Devil's Holiday,False
+80,1929,1930,3,ACTRESS,Ruth Chatterton,Sarah and Son,False
+81,1929,1930,3,ACTRESS,Greta Garbo,Anna Christie,False
+82,1929,1930,3,ACTRESS,Norma Shearer,The Divorcee,True
+83,1929,1930,3,ACTRESS,Norma Shearer,Their Own Desire,False
+84,1929,1930,3,ACTRESS,Gloria Swanson,The Trespasser,False
+120,1930,1931,4,ACTRESS,Marlene Dietrich,Morocco,False
+121,1930,1931,4,ACTRESS,Marie Dressler,Min and Bill,True
+122,1930,1931,4,ACTRESS,Irene Dunne,Cimarron,False
+123,1930,1931,4,ACTRESS,Ann Harding,Holiday,False
+124,1930,1931,4,ACTRESS,Norma Shearer,A Free Soul,False
+162,1931,1932,5,ACTRESS,Marie Dressler,Emma,False
+163,1931,1932,5,ACTRESS,Lynn Fontanne,The Guardsman,False
+164,1931,1932,5,ACTRESS,Helen Hayes,The Sin of Madelon Claudet,True
+207,1932,1933,6,ACTRESS,Katharine Hepburn,Morning Glory,True
+208,1932,1933,6,ACTRESS,May Robson,Lady for a Day,False
+209,1932,1933,6,ACTRESS,Diana Wynyard,Cavalcade,False
+269,1934,1935,7,ACTRESS,Claudette Colbert,It Happened One Night,True
+270,1934,1935,7,ACTRESS,Bette Davis,Of Human Bondage,False
+271,1934,1935,7,ACTRESS,Grace Moore,One Night of Love,False
+272,1934,1935,7,ACTRESS,Norma Shearer,The Barretts of Wimpole Street,False
+335,1935,1936,8,ACTRESS,Elisabeth Bergner,Escape Me Never,False
+336,1935,1936,8,ACTRESS,Claudette Colbert,Private Worlds,False
+337,1935,1936,8,ACTRESS,Bette Davis,Dangerous,True
+338,1935,1936,8,ACTRESS,Katharine Hepburn,Alice Adams,False
+339,1935,1936,8,ACTRESS,Miriam Hopkins,Becky Sharp,False
+340,1935,1936,8,ACTRESS,Merle Oberon,The Dark Angel,False
+425,1936,1937,9,ACTRESS,Irene Dunne,Theodora Goes Wild,False
+426,1936,1937,9,ACTRESS,Gladys George,Valiant Is the Word for Carrie,False
+427,1936,1937,9,ACTRESS,Carole Lombard,My Man Godfrey,False
+428,1936,1937,9,ACTRESS,Luise Rainer,The Great Ziegfeld,True
+429,1936,1937,9,ACTRESS,Norma Shearer,Romeo and Juliet,False
+532,1937,1938,10,ACTRESS,Irene Dunne,The Awful Truth,False
+533,1937,1938,10,ACTRESS,Greta Garbo,Camille,False
+534,1937,1938,10,ACTRESS,Janet Gaynor,A Star Is Born,False
+535,1937,1938,10,ACTRESS,Luise Rainer,The Good Earth,True
+536,1937,1938,10,ACTRESS,Barbara Stanwyck,Stella Dallas,False
+655,1938,1939,11,ACTRESS,Fay Bainter,White Banners,False
+656,1938,1939,11,ACTRESS,Bette Davis,Jezebel,True
+657,1938,1939,11,ACTRESS,Wendy Hiller,Pygmalion,False
+658,1938,1939,11,ACTRESS,Norma Shearer,Marie Antoinette,False
+659,1938,1939,11,ACTRESS,Margaret Sullavan,Three Comrades,False
+794,1939,1940,12,ACTRESS,Bette Davis,Dark Victory,False
+795,1939,1940,12,ACTRESS,Irene Dunne,Love Affair,False
+796,1939,1940,12,ACTRESS,Greta Garbo,Ninotchka,False
+797,1939,1940,12,ACTRESS,Greer Garson,"Goodbye, Mr. Chips",False
+798,1939,1940,12,ACTRESS,Vivien Leigh,Gone with the Wind,True
+937,1940,1941,13,ACTRESS,Bette Davis,The Letter,False
+938,1940,1941,13,ACTRESS,Joan Fontaine,Rebecca,False
+939,1940,1941,13,ACTRESS,Katharine Hepburn,The Philadelphia Story,False
+940,1940,1941,13,ACTRESS,Ginger Rogers,Kitty Foyle,True
+941,1940,1941,13,ACTRESS,Martha Scott,Our Town,False
+1097,1941,1942,14,ACTRESS,Bette Davis,The Little Foxes,False
+1098,1941,1942,14,ACTRESS,Olivia de Havilland,Hold Back the Dawn,False
+1099,1941,1942,14,ACTRESS,Joan Fontaine,Suspicion,True
+1100,1941,1942,14,ACTRESS,Greer Garson,Blossoms in the Dust,False
+1101,1941,1942,14,ACTRESS,Barbara Stanwyck,Ball of Fire,False
+1280,1942,1943,15,ACTRESS,Bette Davis,"Now, Voyager",False
+1281,1942,1943,15,ACTRESS,Greer Garson,Mrs. Miniver,True
+1282,1942,1943,15,ACTRESS,Katharine Hepburn,Woman of the Year,False
+1283,1942,1943,15,ACTRESS,Rosalind Russell,My Sister Eileen,False
+1284,1942,1943,15,ACTRESS,Teresa Wright,The Pride of the Yankees,False
+1466,1943,1944,16,ACTRESS,Jean Arthur,The More the Merrier,False
+1467,1943,1944,16,ACTRESS,Ingrid Bergman,For Whom the Bell Tolls,False
+1468,1943,1944,16,ACTRESS,Joan Fontaine,The Constant Nymph,False
+1469,1943,1944,16,ACTRESS,Greer Garson,Madame Curie,False
+1470,1943,1944,16,ACTRESS,Jennifer Jones,The Song of Bernadette,True
+1648,1944,1945,17,ACTRESS,Ingrid Bergman,Gaslight,True
+1649,1944,1945,17,ACTRESS,Claudette Colbert,Since You Went Away,False
+1650,1944,1945,17,ACTRESS,Bette Davis,Mr. Skeffington,False
+1651,1944,1945,17,ACTRESS,Greer Garson,Mrs. Parkington,False
+1652,1944,1945,17,ACTRESS,Barbara Stanwyck,Double Indemnity,False
+1817,1945,1946,18,ACTRESS,Ingrid Bergman,The Bells of St. Mary's,False
+1818,1945,1946,18,ACTRESS,Joan Crawford,Mildred Pierce,True
+1819,1945,1946,18,ACTRESS,Greer Garson,The Valley of Decision,False
+1820,1945,1946,18,ACTRESS,Jennifer Jones,Love Letters,False
+1821,1945,1946,18,ACTRESS,Gene Tierney,Leave Her to Heaven,False
+1977,1946,1947,19,ACTRESS,Olivia de Havilland,To Each His Own,True
+1978,1946,1947,19,ACTRESS,Celia Johnson,Brief Encounter,False
+1979,1946,1947,19,ACTRESS,Jennifer Jones,Duel in the Sun,False
+1980,1946,1947,19,ACTRESS,Rosalind Russell,Sister Kenny,False
+1981,1946,1947,19,ACTRESS,Jane Wyman,The Yearling,False
+2081,1947,1948,20,ACTRESS,Joan Crawford,Possessed,False
+2082,1947,1948,20,ACTRESS,Susan Hayward,Smash-Up--The Story of a Woman,False
+2083,1947,1948,20,ACTRESS,Dorothy McGuire,Gentleman's Agreement,False
+2084,1947,1948,20,ACTRESS,Rosalind Russell,Mourning Becomes Electra,False
+2085,1947,1948,20,ACTRESS,Loretta Young,The Farmer's Daughter,True
+2186,1948,1949,21,ACTRESS,Ingrid Bergman,Joan of Arc,False
+2187,1948,1949,21,ACTRESS,Olivia de Havilland,The Snake Pit,False
+2188,1948,1949,21,ACTRESS,Irene Dunne,I Remember Mama,False
+2189,1948,1949,21,ACTRESS,Barbara Stanwyck,"Sorry, Wrong Number",False
+2190,1948,1949,21,ACTRESS,Jane Wyman,Johnny Belinda,True
+2295,1949,1950,22,ACTRESS,Jeanne Crain,Pinky,False
+2296,1949,1950,22,ACTRESS,Olivia de Havilland,The Heiress,True
+2297,1949,1950,22,ACTRESS,Susan Hayward,My Foolish Heart,False
+2298,1949,1950,22,ACTRESS,Deborah Kerr,"Edward, My Son",False
+2299,1949,1950,22,ACTRESS,Loretta Young,Come to the Stable,False
+2407,1950,1951,23,ACTRESS,Anne Baxter,All about Eve,False
+2408,1950,1951,23,ACTRESS,Bette Davis,All about Eve,False
+2409,1950,1951,23,ACTRESS,Judy Holliday,Born Yesterday,True
+2410,1950,1951,23,ACTRESS,Eleanor Parker,Caged,False
+2411,1950,1951,23,ACTRESS,Gloria Swanson,Sunset Blvd.,False
+2519,1951,1952,24,ACTRESS,Katharine Hepburn,The African Queen,False
+2520,1951,1952,24,ACTRESS,Vivien Leigh,A Streetcar Named Desire,True
+2521,1951,1952,24,ACTRESS,Eleanor Parker,Detective Story,False
+2522,1951,1952,24,ACTRESS,Shelley Winters,A Place in the Sun,False
+2523,1951,1952,24,ACTRESS,Jane Wyman,The Blue Veil,False
+2637,1952,1953,25,ACTRESS,Shirley Booth,"Come Back, Little Sheba",True
+2638,1952,1953,25,ACTRESS,Joan Crawford,Sudden Fear,False
+2639,1952,1953,25,ACTRESS,Bette Davis,The Star,False
+2640,1952,1953,25,ACTRESS,Julie Harris,The Member of the Wedding,False
+2641,1952,1953,25,ACTRESS,Susan Hayward,With a Song in My Heart,False
+2766,1953,1954,26,ACTRESS,Leslie Caron,Lili,False
+2767,1953,1954,26,ACTRESS,Ava Gardner,Mogambo,False
+2768,1953,1954,26,ACTRESS,Audrey Hepburn,Roman Holiday,True
+2769,1953,1954,26,ACTRESS,Deborah Kerr,From Here to Eternity,False
+2770,1953,1954,26,ACTRESS,Maggie McNamara,The Moon Is Blue,False
+2895,1954,1955,27,ACTRESS,Dorothy Dandridge,Carmen Jones,False
+2896,1954,1955,27,ACTRESS,Judy Garland,A Star Is Born,False
+2897,1954,1955,27,ACTRESS,Audrey Hepburn,Sabrina,False
+2898,1954,1955,27,ACTRESS,Grace Kelly,The Country Girl,True
+2899,1954,1955,27,ACTRESS,Jane Wyman,Magnificent Obsession,False
+3022,1955,1956,28,ACTRESS,Susan Hayward,I'll Cry Tomorrow,False
+3023,1955,1956,28,ACTRESS,Katharine Hepburn,Summertime,False
+3024,1955,1956,28,ACTRESS,Jennifer Jones,Love Is a Many-Splendored Thing,False
+3025,1955,1956,28,ACTRESS,Anna Magnani,The Rose Tattoo,True
+3026,1955,1956,28,ACTRESS,Eleanor Parker,Interrupted Melody,False
+3144,1956,1957,29,ACTRESS,Carroll Baker,Baby Doll,False
+3145,1956,1957,29,ACTRESS,Ingrid Bergman,Anastasia,True
+3146,1956,1957,29,ACTRESS,Katharine Hepburn,The Rainmaker,False
+3147,1956,1957,29,ACTRESS,Nancy Kelly,The Bad Seed,False
+3148,1956,1957,29,ACTRESS,Deborah Kerr,The King and I,False
+3272,1957,1958,30,ACTRESS,Deborah Kerr,"Heaven Knows, Mr. Allison",False
+3273,1957,1958,30,ACTRESS,Anna Magnani,Wild Is the Wind,False
+3274,1957,1958,30,ACTRESS,Elizabeth Taylor,Raintree County,False
+3275,1957,1958,30,ACTRESS,Lana Turner,Peyton Place,False
+3276,1957,1958,30,ACTRESS,Joanne Woodward,The Three Faces of Eve,True
+3372,1958,1959,31,ACTRESS,Susan Hayward,I Want to Live!,True
+3373,1958,1959,31,ACTRESS,Deborah Kerr,Separate Tables,False
+3374,1958,1959,31,ACTRESS,Shirley MacLaine,Some Came Running,False
+3375,1958,1959,31,ACTRESS,Rosalind Russell,Auntie Mame,False
+3376,1958,1959,31,ACTRESS,Elizabeth Taylor,Cat on a Hot Tin Roof,False
+3483,1959,1960,32,ACTRESS,Doris Day,Pillow Talk,False
+3484,1959,1960,32,ACTRESS,Audrey Hepburn,The Nun's Story,False
+3485,1959,1960,32,ACTRESS,Katharine Hepburn,"Suddenly, Last Summer",False
+3486,1959,1960,32,ACTRESS,Simone Signoret,Room at the Top,True
+3487,1959,1960,32,ACTRESS,Elizabeth Taylor,"Suddenly, Last Summer",False
+3602,1960,1961,33,ACTRESS,Greer Garson,Sunrise at Campobello,False
+3603,1960,1961,33,ACTRESS,Deborah Kerr,The Sundowners,False
+3604,1960,1961,33,ACTRESS,Shirley MacLaine,The Apartment,False
+3605,1960,1961,33,ACTRESS,Melina Mercouri,Never on Sunday,False
+3606,1960,1961,33,ACTRESS,Elizabeth Taylor,Butterfield 8,True
+3724,1961,1962,34,ACTRESS,Audrey Hepburn,Breakfast at Tiffany's,False
+3725,1961,1962,34,ACTRESS,Piper Laurie,The Hustler,False
+3726,1961,1962,34,ACTRESS,Sophia Loren,Two Women,True
+3727,1961,1962,34,ACTRESS,Geraldine Page,Summer and Smoke,False
+3728,1961,1962,34,ACTRESS,Natalie Wood,Splendor in the Grass,False
+3848,1962,1963,35,ACTRESS,Anne Bancroft,The Miracle Worker,True
+3849,1962,1963,35,ACTRESS,Bette Davis,What Ever Happened to Baby Jane?,False
+3850,1962,1963,35,ACTRESS,Katharine Hepburn,Long Day's Journey into Night,False
+3851,1962,1963,35,ACTRESS,Geraldine Page,Sweet Bird of Youth,False
+3852,1962,1963,35,ACTRESS,Lee Remick,Days of Wine and Roses,False
+3966,1963,1964,36,ACTRESS,Leslie Caron,The L-Shaped Room,False
+3967,1963,1964,36,ACTRESS,Shirley MacLaine,Irma La Douce,False
+3968,1963,1964,36,ACTRESS,Patricia Neal,Hud,True
+3969,1963,1964,36,ACTRESS,Rachel Roberts,This Sporting Life,False
+3970,1963,1964,36,ACTRESS,Natalie Wood,Love with the Proper Stranger,False
+4090,1964,1965,37,ACTRESS,Julie Andrews,Mary Poppins,True
+4091,1964,1965,37,ACTRESS,Anne Bancroft,The Pumpkin Eater,False
+4092,1964,1965,37,ACTRESS,Sophia Loren,Marriage Italian Style,False
+4093,1964,1965,37,ACTRESS,Debbie Reynolds,The Unsinkable Molly Brown,False
+4094,1964,1965,37,ACTRESS,Kim Stanley,Seance on a Wet Afternoon,False
+4212,1965,1966,38,ACTRESS,Julie Andrews,The Sound of Music,False
+4213,1965,1966,38,ACTRESS,Julie Christie,Darling,True
+4214,1965,1966,38,ACTRESS,Samantha Eggar,The Collector,False
+4215,1965,1966,38,ACTRESS,Elizabeth Hartman,A Patch of Blue,False
+4216,1965,1966,38,ACTRESS,Simone Signoret,Ship of Fools,False
+4337,1966,1967,39,ACTRESS,Anouk Aimee,A Man and a Woman,False
+4338,1966,1967,39,ACTRESS,Ida Kaminska,The Shop on Main Street,False
+4339,1966,1967,39,ACTRESS,Lynn Redgrave,Georgy Girl,False
+4340,1966,1967,39,ACTRESS,Vanessa Redgrave,Morgan!,False
+4341,1966,1967,39,ACTRESS,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,True
+4461,1967,1968,40,ACTRESS,Anne Bancroft,The Graduate,False
+4462,1967,1968,40,ACTRESS,Faye Dunaway,Bonnie and Clyde,False
+4463,1967,1968,40,ACTRESS,Dame Edith Evans,The Whisperers,False
+4464,1967,1968,40,ACTRESS,Audrey Hepburn,Wait until Dark,False
+4465,1967,1968,40,ACTRESS,Katharine Hepburn,Guess Who's Coming to Dinner,True
+4570,1968,1969,41,ACTRESS,Katharine Hepburn,The Lion in Winter,True
+4571,1968,1969,41,ACTRESS,Patricia Neal,The Subject Was Roses,False
+4572,1968,1969,41,ACTRESS,Vanessa Redgrave,Isadora,False
+4573,1968,1969,41,ACTRESS,Barbra Streisand,Funny Girl,True
+4574,1968,1969,41,ACTRESS,Joanne Woodward,"Rachel, Rachel",False
+4678,1969,1970,42,ACTRESS,Genevieve Bujold,Anne of the Thousand Days,False
+4679,1969,1970,42,ACTRESS,Jane Fonda,"They Shoot Horses, Don't They?",False
+4680,1969,1970,42,ACTRESS,Liza Minnelli,The Sterile Cuckoo,False
+4681,1969,1970,42,ACTRESS,Jean Simmons,The Happy Ending,False
+4682,1969,1970,42,ACTRESS,Maggie Smith,The Prime of Miss Jean Brodie,True
+4783,1970,1971,43,ACTRESS,Jane Alexander,The Great White Hope,False
+4784,1970,1971,43,ACTRESS,Glenda Jackson,Women in Love,True
+4785,1970,1971,43,ACTRESS,Ali MacGraw,Love Story,False
+4786,1970,1971,43,ACTRESS,Sarah Miles,Ryan's Daughter,False
+4787,1970,1971,43,ACTRESS,Carrie Snodgress,Diary of a Mad Housewife,False
+4890,1971,1972,44,ACTRESS,Julie Christie,McCabe & Mrs. Miller,False
+4891,1971,1972,44,ACTRESS,Jane Fonda,Klute,True
+4892,1971,1972,44,ACTRESS,Glenda Jackson,Sunday Bloody Sunday,False
+4893,1971,1972,44,ACTRESS,Vanessa Redgrave,"Mary, Queen of Scots",False
+4894,1971,1972,44,ACTRESS,Janet Suzman,Nicholas and Alexandra,False
+4994,1972,1973,45,ACTRESS,Liza Minnelli,Cabaret,True
+4995,1972,1973,45,ACTRESS,Diana Ross,Lady Sings the Blues,False
+4996,1972,1973,45,ACTRESS,Maggie Smith,Travels with My Aunt,False
+4997,1972,1973,45,ACTRESS,Cicely Tyson,Sounder,False
+4998,1972,1973,45,ACTRESS,Liv Ullmann,The Emigrants,False
+5098,1973,1974,46,ACTRESS,Ellen Burstyn,The Exorcist,False
+5099,1973,1974,46,ACTRESS,Glenda Jackson,A Touch of Class,True
+5100,1973,1974,46,ACTRESS,Marsha Mason,Cinderella Liberty,False
+5101,1973,1974,46,ACTRESS,Barbra Streisand,The Way We Were,False
+5102,1973,1974,46,ACTRESS,Joanne Woodward,"Summer Wishes, Winter Dreams",False
+5201,1974,1975,47,ACTRESS,Ellen Burstyn,Alice Doesn't Live Here Anymore,True
+5202,1974,1975,47,ACTRESS,Diahann Carroll,Claudine,False
+5203,1974,1975,47,ACTRESS,Faye Dunaway,Chinatown,False
+5204,1974,1975,47,ACTRESS,Valerie Perrine,Lenny,False
+5205,1974,1975,47,ACTRESS,Gena Rowlands,A Woman under the Influence,False
+5308,1975,1976,48,ACTRESS,Isabelle Adjani,The Story of Adele H.,False
+5309,1975,1976,48,ACTRESS,Ann-Margret,Tommy,False
+5310,1975,1976,48,ACTRESS,Louise Fletcher,One Flew over the Cuckoo's Nest,True
+5311,1975,1976,48,ACTRESS,Glenda Jackson,Hedda,False
+5312,1975,1976,48,ACTRESS,Carol Kane,Hester Street,False

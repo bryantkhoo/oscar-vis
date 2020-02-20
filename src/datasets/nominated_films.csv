@@ -1,0 +1,4834 @@
+,film,nominated,won
+0,A Star Is Born,25,3
+1,Titanic,16,12
+2,Mutiny on the Bounty,15,1
+3,Moulin Rouge,15,4
+4,Cleopatra,14,5
+5,La La Land,14,6
+6,All about Eve,14,6
+7,Little Women,14,3
+8,The Lord of the Rings: The Fellowship of the Ring,13,4
+9,Gone with the Wind,13,8
+10,From Here to Eternity,13,8
+11,The Shape of Water,13,4
+12,Forrest Gump,13,6
+13,Mary Poppins,13,5
+14,Hamlet,13,4
+15,Who's Afraid of Virginia Woolf?,13,5
+16,Shakespeare in Love,13,7
+17,Chicago,13,6
+18,The Curious Case of Benjamin Button,13,3
+19,Gladiator,12,5
+20,My Fair Lady,12,8
+21,The King's Speech,12,4
+22,The Revenant,12,3
+23,True Grit,12,1
+24,Heaven Can Wait,12,1
+25,On the Waterfront,12,8
+26,Mrs. Miniver,12,6
+27,Ben-Hur,12,11
+28,Becket,12,1
+29,Lincoln,12,2
+30,Dances With Wolves,12,7
+31,Schindler's List,12,7
+32,Reds,12,3
+33,Johnny Belinda,12,1
+34,The English Patient,12,9
+35,A Streetcar Named Desire,12,4
+36,The Song of Bernadette,12,4
+37,Oliver!,11,5
+38,Gandhi,11,8
+39,Joker,11,2
+40,The Turning Point,11,0
+41,The Godfather Part II,11,6
+42,Terms of Endearment,11,5
+43,Rebecca,11,2
+44,The Pride of the Yankees,11,1
+45,A Passage to India,11,2
+46,Saving Private Ryan,11,5
+47,West Side Story,11,10
+48,Out of Africa,11,7
+49,Chinatown,11,1
+50,Judgment at Nuremberg,11,2
+51,The Color Purple,11,0
+52,Hugo,11,5
+53,Sunset Blvd.,11,3
+54,Julia,11,3
+55,The Godfather,11,3
+56,The Lord of the Rings: The Return of the King,11,11
+57,The Aviator,11,5
+58,Life of Pi,11,4
+59,Amadeus,11,8
+60,Mr. Smith Goes to Washington,11,1
+61,Sergeant York,11,2
+62,Going My Way,10,7
+63,Bugsy,10,2
+64,Rocky,10,3
+65,On Golden Pond,10,3
+66,How Green Was My Valley,10,5
+67,American Hustle,10,0
+68,Doctor Zhivago,10,5
+69,Star Wars,10,6
+70,A Place in the Sun,10,6
+71,Lawrence of Arabia,10,7
+72,The Artist,10,5
+73,Gangs of New York,10,0
+74,The Life of Emile Zola,10,3
+75,Roma,10,3
+76,Slumdog Millionaire,10,8
+77,Patton,10,7
+78,Tom Jones,10,4
+79,Roman Holiday,10,3
+80,The Apartment,10,5
+81,Mad Max: Fury Road,10,6
+82,Airport,10,1
+83,The Sting,10,7
+84,1917,10,3
+85,The Irishman,10,0
+86,Once upon a Time...in Hollywood,10,2
+87,Anne of the Thousand Days,10,1
+88,Bonnie and Clyde,10,2
+89,Cabaret,10,8
+90,Wilson,10,5
+91,Guess Who's Coming to Dinner,10,2
+92,Braveheart,10,5
+93,"Crouching Tiger, Hidden Dragon",10,4
+94,Giant,10,1
+95,The Favourite,10,1
+96,Master and Commander: The Far Side of the World,10,2
+97,The Sound of Music,10,5
+98,Sayonara,10,4
+99,Gravity,10,7
+100,The Exorcist,10,2
+101,Tootsie,10,1
+102,Network,10,4
+103,For Whom the Bell Tolls,9,1
+104,Avatar,9,3
+105,Good Will Hunting,9,2
+106,The Hustler,9,2
+107,"Goodbye, Mr. Chips",9,1
+108,Close Encounters of the Third Kind,9,2
+109,Gigi,9,9
+110,The Last Emperor,9,9
+111,Les Misérables,9,3
+112,Birdman or (The Unexpected Virtue of Ignorance),9,4
+113,Kramer vs. Kramer,9,5
+114,Howards End,9,3
+115,"They Shoot Horses, Don't They?",9,1
+116,Raiders of the Lost Ark,9,5
+117,12 Years a Slave,9,3
+118,Unforgiven,9,4
+119,The Defiant Ones,9,2
+120,The Hurt Locker,9,6
+121,The Poseidon Adventure,9,2
+122,Peyton Place,9,0
+123,The Little Foxes,9,0
+124,One Flew over the Cuckoo's Nest,9,5
+125,Since You Went Away,9,1
+126,The Deer Hunter,9,5
+127,Driving Miss Daisy,9,4
+128,All That Jazz,9,4
+129,Cimarron,9,3
+130,The Grand Budapest Hotel,9,4
+131,Citizen Kane,9,1
+132,E.T. The Extra-Terrestrial,9,4
+133,The King and I,9,5
+134,The Hours,9,1
+135,Doctor Dolittle,9,2
+136,Apollo 13,9,2
+137,L.A. Confidential,9,2
+138,The Remains of the Day,8,0
+139,No Country for Old Men,8,4
+140,American Beauty,8,5
+141,How the West Was Won,8,3
+142,Moonlight,8,3
+143,Silver Linings Playbook,8,1
+144,Rain Man,8,4
+145,Witness,8,2
+146,Ship of Fools,8,2
+147,Beauty and the Beast,8,2
+148,Milk,8,2
+149,Quo Vadis,8,0
+150,The Dark Knight,8,2
+151,A Room with a View,8,3
+152,The Bridge on the River Kwai,8,7
+153,Platoon,8,4
+154,The French Connection,8,5
+155,Dunkirk,8,3
+156,A Beautiful Mind,8,4
+157,Funny Girl,8,1
+158,A Man for All Seasons,8,6
+159,Born on the Fourth of July,8,2
+160,Casablanca,8,3
+161,Apocalypse Now,8,2
+162,The Imitation Game,8,1
+163,The Sand Pebbles,8,0
+164,The Best Years of Our Lives,8,7
+165,There Will Be Blood,8,2
+166,The Elephant Man,8,0
+167,Coming Home,8,3
+168,The Piano,8,3
+169,Inglourious Basterds,8,1
+170,The Letter,8,0
+171,Vice,8,1
+172,JFK,8,2
+173,Marty,8,4
+174,Yankee Doodle Dandy,8,3
+175,Sabrina,8,1
+176,Wuthering Heights,8,1
+177,Brokeback Mountain,8,3
+178,Fiddler on the Roof,8,3
+179,The Bells of St. Mary's,8,1
+180,Raging Bull,8,2
+181,Dreamgirls,8,2
+182,Ragtime,8,0
+183,The Nun's Story,8,0
+184,The Diary of Anne Frank,8,3
+185,The Towering Inferno,8,3
+186,Arrival,8,1
+187,The Social Network,8,3
+188,The Right Stuff,8,4
+189,Gentleman's Agreement,8,3
+190,Romeo and Juliet,8,2
+191,The Last Picture Show,8,2
+192,The Rose Tattoo,8,3
+193,The Heiress,8,4
+194,An American in Paris,8,6
+195,Prizzi's Honor,8,1
+196,The Patriot,8,1
+197,Inception,8,4
+198,Around the World in 80 Days,8,5
+199,All the President's Men,8,4
+200,Love Is a Many-Splendored Thing,8,3
+201,To Kill a Mockingbird,8,3
+202,Argo,7,3
+203,Black Panther,7,3
+204,The Thin Red Line,7,0
+205,Fargo,7,2
+206,Sense and Sensibility,7,1
+207,King Kong,7,4
+208,The Talk of the Town,7,0
+209,In the Name of the Father,7,0
+210,The Lost Weekend,7,4
+211,The Great Ziegfeld,7,3
+212,Chariots of Fire,7,4
+213,Pepe,7,0
+214,The Prince of Tides,7,0
+215,Aliens,7,2
+216,Dick Tracy,7,3
+217,Double Indemnity,7,0
+218,Come to the Stable,7,0
+219,Million Dollar Baby,7,4
+220,Butch Cassidy and the Sundance Kid,7,4
+221,Lost Horizon,7,2
+222,The Quiet Man,7,2
+223,The Guns of Navarone,7,1
+224,All the King's Men,7,3
+225,Barry Lyndon,7,4
+226,Spellbound,7,1
+227,The Insider,7,0
+228,The Ten Commandments,7,1
+229,Hud,7,3
+230,The Silence of the Lambs,7,5
+231,High Noon,7,4
+232,The Alamo,7,1
+233,"Hello, Dolly!",7,3
+234,Madame Curie,7,0
+235,The Caine Mutiny,7,0
+236,Cold Mountain,7,1
+237,Babe,7,1
+238,Here Comes Mr. Jordan,7,2
+239,Coal Miner's Daughter,7,1
+240,"The Godfather, Part III",7,0
+241,As Good as It Gets,7,2
+242,The Country Girl,7,2
+243,Gaslight,7,2
+244,Dodsworth,7,1
+245,Anthony Adverse,7,4
+246,Bullets over Broadway,7,1
+247,The Killing Fields,7,3
+248,Zorba the Greek,7,3
+249,Thoroughly Modern Millie,7,1
+250,Hawaii,7,0
+251,The Lives of a Bengal Lancer,7,1
+252,The Pianist,7,3
+253,Atonement,7,1
+254,Love Story,7,1
+255,The Lion in Winter,7,3
+256,Broadcast News,7,0
+257,Separate Tables,7,2
+258,Midnight Cowboy,7,3
+259,Elizabeth,7,1
+260,Life Is Beautiful,7,3
+261,Seabiscuit,7,0
+262,Stagecoach,7,2
+263,The Yearling,7,2
+264,Michael Clayton,7,1
+265,Pulp Fiction,7,1
+266,The Cider House Rules,7,2
+267,"Three Billboards outside Ebbing, Missouri",7,2
+268,Places in the Heart,7,2
+269,The Grapes of Wrath,7,2
+270,"Hush...Hush, Sweet Charlotte",7,0
+271,Mississippi Burning,7,1
+272,Dangerous Liaisons,7,3
+273,Babel,7,1
+274,Anatomy of a Murder,7,0
+275,Sons and Lovers,7,1
+276,The Fugitive,7,1
+277,The Fighter,7,2
+278,In the Heat of the Night,7,5
+279,The Mission,7,1
+280,Victor/Victoria,7,1
+281,The Graduate,7,1
+282,Random Harvest,7,0
+283,Hannah and Her Sisters,7,3
+284,Henry V,7,1
+285,Star!,7,0
+286,Shine,7,1
+287,Finding Neverland,7,1
+288,Gosford Park,7,1
+289,Joan of Arc,7,2
+290,The Shawshank Redemption,7,0
+291,The Martian,7,0
+292,You Can't Take It with You,7,2
+293,Mystic River,6,2
+294,Hacksaw Ridge,6,2
+295,Hans Christian Andersen,6,0
+296,The Bad and the Beautiful,6,5
+297,Pan's Labyrinth,6,3
+298,Up,6,3
+299,Memoirs of a Geisha,6,3
+300,"It's a Mad, Mad, Mad, Mad World",6,1
+301,Dog Day Afternoon,6,1
+302,The Philadelphia Story,6,2
+303,Moonstruck,6,3
+304,The Queen,6,1
+305,Fame,6,2
+306,Shane,6,1
+307,One Night of Love,6,2
+308,Darkest Hour,6,2
+309,San Francisco,6,1
+310,Carol,6,0
+311,The Awful Truth,6,1
+312,Champion,6,1
+313,Some Like It Hot,6,1
+314,Who Framed Roger Rabbit,6,3
+315,Midnight Express,6,2
+316,Foreign Correspondent,6,0
+317,Scent of a Woman,6,1
+318,American Sniper,6,1
+319,Parasite,6,4
+320,Witness for the Prosecution,6,0
+321,The Snake Pit,6,1
+322,Room at the Top,6,2
+323,Bridge of Spies,6,1
+324,The Rains Came,6,1
+325,Friendly Persuasion,6,0
+326,Fatal Attraction,6,0
+327,Picnic,6,2
+328,The Way We Were,6,2
+329,Fanny & Alexander,6,4
+330,Mildred Pierce,6,1
+331,Cat on a Hot Tin Roof,6,0
+332,Manchester by the Sea,6,2
+333,Dr. Jekyll and Mr. Hyde,6,1
+334,Moneyball,6,0
+335,Empire of the Sun,6,0
+336,Thelma & Louise,6,1
+337,Nebraska,6,0
+338,Lenny,6,0
+339,WALL-E,6,1
+340,Lion,6,0
+341,The North Star,6,0
+342,Phantom Thread,6,1
+343,Terminator 2: Judgment Day,6,4
+344,An Officer and a Gentleman,6,2
+345,Jojo Rabbit,6,1
+346,Ordinary People,6,4
+347,Good Fellas,6,1
+348,The Wizard of Oz,6,2
+349,Captain Phillips,6,0
+350,Battleground,6,2
+351,The High and the Mighty,6,1
+352,Nicholas and Alexandra,6,2
+353,Dallas Buyers Club,6,3
+354,The Crying Game,6,1
+355,Alexander's Ragtime Band,6,1
+356,A Song to Remember,6,0
+357,Love Affair,6,0
+358,Frida,6,2
+359,Our Town,6,0
+360,Das Boot,6,0
+361,Cyrano de Bergerac,6,2
+362,Spartacus,6,4
+363,Tess,6,3
+364,BlacKkKlansman,6,1
+365,The Long Voyage Home,6,0
+366,Road to Perdition,6,1
+367,Lili,6,1
+368,Meredith Willson's The Music Man,6,1
+369,Up in the Air,6,0
+370,"Good Night, and Good Luck.",6,0
+371,Auntie Mame,6,0
+372,Marriage Story,6,1
+373,Love Me or Leave Me,6,1
+374,The Informer,6,4
+375,In Old Chicago,6,2
+376,Crash,6,3
+377,Precious: Based on the Novel 'Push' by Sapphire,6,2
+378,Hold Back the Dawn,6,0
+379,War Horse,6,0
+380,Ray,6,2
+381,The Jolson Story,6,2
+382,My Man Godfrey,6,0
+383,The Sixth Sense,6,0
+384,The Lord of the Rings: The Two Towers,6,2
+385,Murder on the Orient Express,6,1
+386,Spotlight,6,2
+387,Bound for Glory,6,2
+388,The Unsinkable Molly Brown,6,0
+389,127 Hours,6,0
+390,The More the Merrier,6,1
+391,I Want to Live!,6,1
+392,The Cardinal,6,0
+393,Boyhood,6,1
+394,Working Girl,6,1
+395,Secrets & Lies,5,0
+396,Lilies of the Field,5,1
+397,The Emigrants,5,0
+398,Elmer Gantry,5,3
+399,Interiors,5,0
+400,Frost/Nixon,5,0
+401,The Talented Mr. Ripley,5,0
+402,Earthquake,5,2
+403,Anna and the King of Siam,5,2
+404,The Big Short,5,1
+405,Bedknobs and Broomsticks,5,1
+406,Django Unchained,5,2
+407,National Velvet,5,2
+408,Interstellar,5,1
+409,Fantastic Voyage,5,2
+410,Skyfall,5,2
+411,Born Yesterday,5,1
+412,Days of Wine and Roses,5,1
+413,Return of the Jedi,5,1
+414,Atlantic City,5,0
+415,Glory,5,3
+416,Alfie,5,0
+417,Children of a Lesser God,5,1
+418,Never on Sunday,5,1
+419,Annie Hall,5,4
+420,Brazil,5,0
+421,The Fisher King,5,1
+422,The Theory of Everything,5,1
+423,Jerry Maguire,5,1
+424,It's a Wonderful Life,5,0
+425,Tender Mercies,5,2
+426,My Left Foot,5,2
+427,The Champ,5,2
+428,Hope and Glory,5,0
+429,The Girl with the Dragon Tattoo,5,1
+430,The French Lieutenant's Woman,5,0
+431,Mr. Deeds Goes to Town,5,1
+432,Crossfire,5,0
+433,A Touch of Class,5,1
+434,Jezebel,5,2
+435,Green Book,5,3
+436,Silkwood,5,0
+437,Cat Ballou,5,1
+438,Cries and Whispers,5,1
+439,In the Bedroom,5,0
+440,The River,5,1
+441,The Hindenburg,5,2
+442,The Children's Hour,5,0
+443,Gorillas in the Mist,5,0
+444,North West Mounted Police,5,1
+445,The Descendants,5,1
+446,Lady Sings the Blues,5,0
+447,Evita,5,1
+448,What Ever Happened to Baby Jane?,5,1
+449,The Greatest Show on Earth,5,2
+450,Boys Town,5,2
+451,Capote,5,1
+452,The Reader,5,1
+453,American Graffiti,5,0
+454,Toy Story 3,5,2
+455,The Umbrellas of Cherbourg,5,0
+456,Amour,5,1
+457,Kitty Foyle,5,1
+458,Viva Zapata!,5,1
+459,The Greatest Story Ever Told,5,0
+460,The Departed,5,4
+461,The Longest Day,5,2
+462,M*A*S*H,5,1
+463,Some Came Running,5,0
+464,Breaking Away,5,1
+465,The Wolf of Wall Street,5,0
+466,Death of a Salesman,5,0
+467,Ratatouille,5,1
+468,Nashville,5,1
+469,Ghost,5,2
+470,"Mary, Queen of Scots",5,0
+471,Imitation of Life,5,0
+472,The Human Comedy,5,1
+473,The Great Race,5,1
+474,Lady Bird,5,0
+475,Marie Antoinette,5,1
+476,Tora! Tora! Tora!,5,1
+477,It Happened One Night,5,5
+478,The Goodbye Girl,5,1
+479,David and Bathsheba,5,0
+480,The Dresser,5,0
+481,Hook,5,0
+482,Cover Girl,5,1
+483,Samson and Delilah,5,2
+484,The Age of Innocence,5,1
+485,Fanny,5,0
+486,The Gay Divorcee,5,1
+487,Munich,5,0
+488,Anchors Aweigh,5,1
+489,Great Expectations,5,2
+490,The Private Lives of Elizabeth and Essex,5,0
+491,Of Mice and Men,5,0
+492,Z,5,2
+493,Foxcatcher,5,0
+494,Blood Diamond,5,0
+495,Funny Lady,5,0
+496,Her,5,1
+497,Darling,5,3
+498,Whiplash,5,3
+499,Camelot,5,3
+500,Erin Brockovich,5,1
+501,Star Wars: The Force Awakens,5,0
+502,The Great Dictator,5,0
+503,Walk the Line,5,1
+504,The Verdict,5,0
+505,With a Song in My Heart,5,1
+506,The Miracle Worker,5,2
+507,Laura,5,1
+508,Julius Caesar,5,1
+509,A Patch of Blue,5,1
+510,Merrily We Live,5,0
+511,The Agony and the Ecstasy,5,0
+512,Four Daughters,5,0
+513,7th Heaven,5,3
+514,Captain Blood,5,0
+515,Yentl,5,1
+516,Flower Drum Song,5,0
+517,One Hundred Men and a Girl,5,1
+518,Amélie,5,0
+519,Seven Brides for Seven Brothers,5,1
+520,War and Peace,5,1
+521,A Farewell to Arms,5,2
+522,Sophie's Choice,5,1
+523,The Sundowners,5,0
+524,The Red Shoes,5,2
+525,Love with the Proper Stranger,5,0
+526,Aladdin,5,2
+527,2010,5,0
+528,Philadelphia,5,2
+529,Bohemian Rhapsody,5,4
+530,Pillow Talk,5,1
+531,Breakfast at Tiffany's,5,2
+532,Traffic,5,4
+533,The Love Parade,5,0
+534,Black Swan,5,1
+535,Chocolat,5,0
+536,Blade Runner 2049,5,2
+537,The Facts of Life,5,1
+538,The Good Earth,5,2
+539,Sideways,5,1
+540,The Bishop's Wife,5,1
+541,The Postman (Il Postino),5,1
+542,The Robe,5,2
+543,Pirates of the Caribbean: The Curse of the Black Pearl,5,0
+544,The Lion King,5,2
+545,I Remember Mama,5,0
+546,Superman,5,1
+547,Zero Dark Thirty,5,1
+548,Doubt,5,0
+549,Federico Fellini's 8-1/2,5,2
+550,Arabian Nights,4,0
+551,Pearl Harbor,4,1
+552,Sunrise,4,3
+553,Top Hat,4,0
+554,The Old Man and the Sea,4,2
+555,First Love,4,0
+556,State Fair,4,1
+557,The Divorcee,4,1
+558,Beasts of the Southern Wild,4,0
+559,A Thousand Clowns,4,1
+560,Topsy-Turvy,4,2
+561,Othello,4,0
+562,The Bad Seed,4,0
+563,Ninotchka,4,0
+564,"Same Time, Next Year",4,0
+565,This above All,4,1
+566,Avalon,4,0
+567,The Diving Bell and the Butterfly,4,0
+568,Letters from Iwo Jima,4,1
+569,The Dirty Dozen,4,1
+570,Lost in Translation,4,1
+571,Day for Night,4,1
+572,The Constant Gardener,4,1
+573,Bram Stoker's Dracula,4,3
+574,Raintree County,4,0
+575,A Man and a Woman,4,2
+576,Air Force,4,1
+577,East of Eden,4,1
+578,The Color of Money,4,1
+579,Georgy Girl,4,0
+580,"Arise, My Love",4,1
+581,Women in Love,4,1
+582,The Adventures of Baron Munchausen,4,0
+583,The Magnificent Ambersons,4,0
+584,Lady for a Day,4,0
+585,Days of Heaven,4,1
+586,I'll Cry Tomorrow,4,1
+587,Finding Nemo,4,1
+588,The Asphalt Jungle,4,0
+589,Quiz Show,4,0
+590,Blossoms in the Dust,4,1
+591,Lust for Life,4,1
+592,Dead Man Walking,4,1
+593,The Sea Hawk,4,0
+594,Die Hard,4,0
+595,Nine,4,0
+596,That Hamilton Woman,4,1
+597,Leaving Las Vegas,4,1
+598,Funny Face,4,0
+599,So Proudly We Hail!,4,0
+600,First Man,4,1
+601,Midnight in Paris,4,1
+602,Lifeboat,4,0
+603,Armageddon,4,0
+604,The Incredibles,4,2
+605,Summer and Smoke,4,0
+606,Inherit the Wind,4,0
+607,Call Me by Your Name,4,1
+608,Captains Courageous,4,1
+609,Arrowsmith,4,0
+610,The Abyss,4,1
+611,The Madness of King George,4,1
+612,Kotch,4,0
+613,The Full Monty,4,1
+614,Anastasia,4,1
+615,A Midsummer Night's Dream,4,2
+616,Leave Her to Heaven,4,1
+617,The Killers,4,0
+618,Kismet,4,0
+619,Bob & Carol & Ted & Alice,4,0
+620,The Green Mile,4,0
+621,Summer of '42,4,1
+622,Sunrise at Campobello,4,0
+623,Pennies from Heaven,4,0
+624,Ford v Ferrari,4,2
+625,City of God,4,0
+626,The Empire Strikes Back,4,2
+627,Pride & Prejudice,4,0
+628,The Untouchables,4,1
+629,Sunday Bloody Sunday,4,0
+630,The Fabulous Baker Boys,4,0
+631,Norma Rae,4,2
+632,Five Easy Pieces,4,0
+633,Ball of Fire,4,0
+634,The Sunshine Boys,4,1
+635,Back to the Future,4,1
+636,Skippy,4,1
+637,Jaws,4,3
+638,The Kids Are All Right,4,0
+639,The Wonderful World of the Brothers Grimm,4,1
+640,"Monsters, Inc.",4,1
+641,Mary Poppins Returns,4,0
+642,A Few Good Men,4,0
+643,Dead Poets Society,4,1
+644,The Wiz,4,0
+645,Black Hawk Down,4,2
+646,Far from Heaven,4,0
+647,Paper Moon,4,1
+648,If I Were King,4,0
+649,Cavalcade,4,3
+650,The Man Who Would Be King,4,0
+651,Star Trek IV: The Voyage Home,4,0
+652,The Help,4,1
+653,Twelve O'Clock High,4,2
+654,Ran,4,1
+655,Les Miserables,4,0
+656,The Night of the Iguana,4,1
+657,Juno,4,1
+658,Lemony Snicket's A Series of Unfortunate Events,4,1
+659,America America,4,1
+660,Men in Black,4,1
+661,Top Gun,4,1
+662,Blackboard Jungle,4,0
+663,The African Queen,4,1
+664,The Affairs of Cellini,4,0
+665,G. I. Joe,4,0
+666,Star Wars: The Last Jedi,4,0
+667,Phantom of the Opera,4,2
+668,Miracle on 34th Street,4,3
+669,Notes on a Scandal,4,0
+670,Birdman of Alcatraz,4,0
+671,Kiss of the Spider Woman,4,1
+672,Porgy and Bess,4,1
+673,Shampoo,4,1
+674,The Great Gatsby,4,4
+675,Executive Suite,4,0
+676,The Rose,4,0
+677,The Hurricane,4,1
+678,Morocco,4,0
+679,Wake Island,4,0
+680,The Fortune Cookie,4,1
+681,Detective Story,4,0
+682,The Search,4,1
+683,Sounder,4,0
+684,None but the Lonely Heart,4,1
+685,The Wings of the Dove,4,0
+686,Scrooge,4,0
+687,The Razor's Edge,4,1
+688,The China Syndrome,4,0
+689,Kundun,4,0
+690,Star Trek,4,1
+691,In Cold Blood,4,0
+692,Seven Beauties,4,0
+693,A Double Life,4,2
+694,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,4,0
+695,Mad about Music,4,0
+696,Missing,4,1
+697,Pal Joey,4,0
+698,Love Letters,4,0
+699,In Old Arizona,4,1
+700,Get Out,4,1
+701,Stage Door,4,0
+702,The Last Samurai,4,0
+703,Oklahoma!,4,2
+704,A Clockwork Orange,4,0
+705,The Accidental Tourist,4,1
+706,Almost Famous,4,1
+707,Adaptation,4,1
+708,Wonder Man,4,1
+709,Dead End,4,0
+710,The Danish Girl,4,1
+711,All Quiet on the Western Front,4,2
+712,Mudbound,4,0
+713,Cross Creek,4,0
+714,Life with Father,4,0
+715,Green Dolphin Street,4,1
+716,The Five Pennies,4,0
+717,Anna Karenina,4,1
+718,Flashdance,4,1
+719,Viva Villa!,4,1
+720,Philomena,4,0
+721,Baby Doll,4,0
+722,The Natural,4,0
+723,2001: A Space Odyssey,4,1
+724,The Treasure of the Sierra Madre,4,3
+725,Cool Hand Luke,4,1
+726,Psycho,4,0
+727,Jungle Book,4,0
+728,Watch on the Rhine,4,1
+729,Hell or High Water,4,0
+730,Arthur,4,2
+731,The Big House,4,2
+732,Mr. Turner,4,0
+733,The Matrix,4,4
+734,Carrie,4,0
+735,My Cousin Rachel,4,0
+736,The Russians Are Coming The Russians Are Coming,4,0
+737,Rear Window,4,0
+738,Sleuth,4,0
+739,The Eddy Duchin Story,4,0
+740,Fences,4,1
+741,Little Miss Sunshine,4,2
+742,Ryan's Daughter,4,2
+743,The Citadel,4,0
+744,Meet Me in St. Louis,4,0
+745,Travels with My Aunt,4,1
+746,Spring Parade,4,0
+747,Annie Get Your Gun,4,1
+748,Nixon,4,0
+749,La Dolce Vita,4,1
+750,The Keys of the Kingdom,4,0
+751,"Rachel, Rachel",4,0
+752,Cinderella,4,0
+753,Amistad,4,0
+754,The Grifters,4,0
+755,The Thin Man,4,0
+756,Pygmalion,4,1
+757,Pirates of the Caribbean: Dead Man's Chest,4,1
+758,Alice in Wonderland,4,2
+759,Guys and Dolls,4,0
+760,Algiers,4,0
+761,An Affair to Remember,4,0
+762,Sudden Fear,4,0
+763,Taxi Driver,4,0
+764,Room,4,1
+765,The Story of Louis Pasteur,4,3
+766,Sands of Iwo Jima,4,0
+767,District 9,4,0
+768,The Thief of Bagdad,4,3
+769,The Adventures of Robin Hood,4,3
+770,Winter's Bone,4,0
+771,High Society,3,0
+772,Cinderella Liberty,3,0
+773,An Unmarried Woman,3,0
+774,"I, Tonya",3,1
+775,Kings Row,3,0
+776,Grand Prix,3,3
+777,The Two Popes,3,0
+778,Brief Encounter,3,0
+779,The Truman Show,3,0
+780,The Maltese Falcon,3,0
+781,Army Girl,3,0
+782,Emma,3,1
+783,Divorce--Italian Style,3,1
+784,Harry Potter and the Sorcerer's Stone,3,0
+785,Saludos Amigos,3,0
+786,Total Recall,3,1
+787,If Beale Street Could Talk,3,1
+788,Star Trek - The Motion Picture,3,0
+789,Thousands Cheer,3,0
+790,Brooklyn,3,0
+791,The Princess and the Frog,3,0
+792,Mister Roberts,3,1
+793,Jackie,3,0
+794,The Great Victor Herbert,3,0
+795,El Cid,3,0
+796,Logan's Run,3,1
+797,Man of Conquest,3,0
+798,Indiana Jones and the Last Crusade,3,1
+799,Three Smart Girls,3,0
+800,Interrupted Melody,3,1
+801,Holiday Inn,3,1
+802,The Third Man,3,1
+803,Irma La Douce,3,1
+804,The Cowboy and the Lady,3,1
+805,Vera Drake,3,0
+806,Melvin and Howard,3,2
+807,Hollywood Canteen,3,0
+808,The Phantom of the Opera,3,0
+809,The Great Caruso,3,1
+810,California Suite,3,1
+811,Jolson Sings Again,3,0
+812,The Young Lions,3,0
+813,Being John Malkovich,3,0
+814,Casanova Brown,3,0
+815,Barton Fink,3,0
+816,The General Died at Dawn,3,0
+817,War of the Worlds,3,0
+818,Blue Jasmine,3,1
+819,Iris,3,1
+820,A Fish Called Wanda,3,1
+821,Cold War,3,0
+822,Daddy Long Legs,3,0
+823,Sun Valley Serenade,3,0
+824,The Buddy Holly Story,3,1
+825,Body and Soul,3,1
+826,Private Benjamin,3,0
+827,The Paper Chase,3,1
+828,"20,000 Leagues under the Sea",3,2
+829,The Great Waltz,3,1
+830,The Bourne Ultimatum,3,3
+831,Cry Freedom,3,0
+832,Hidden Figures,3,0
+833,Suez,3,0
+834,Darling Lili,3,0
+835,Rebel without a Cause,3,0
+836,Career,3,0
+837,Poltergeist,3,0
+838,The Stunt Man,3,0
+839,Wild Is the Wind,3,0
+840,Gambit,3,0
+841,A River Runs through It,3,1
+842,The Professionals,3,0
+843,The Spy Who Loved Me,3,0
+844,Souls at Sea,3,0
+845,Crimson Tide,3,0
+846,The Gospel According to St. Matthew,3,0
+847,Mother Wore Tights,3,1
+848,Calamity Jane,3,1
+849,Sahara,3,0
+850,Cinderella Man,3,0
+851,Sweet Charity,3,0
+852,"Greystoke: The Legend of Tarzan, Lord of the Apes",3,0
+853,The Passion of the Christ,3,0
+854,Star Wars Episode I: The Phantom Menace,3,0
+855,An Education,3,0
+856,The Chocolate Soldier,3,0
+857,Backdraft,3,0
+858,12 Angry Men,3,0
+859,The Black Stallion,3,1
+860,Richard III,3,0
+861,Father of the Bride,3,0
+862,The Glenn Miller Story,3,1
+863,Sundays and Cybele,3,1
+864,Revolutionary Road,3,0
+865,Educating Rita,3,0
+866,The Conversation,3,0
+867,Cliffhanger,3,0
+868,Only When I Laugh,3,0
+869,The Divine Lady,3,1
+870,Bambi,3,0
+871,Toy Story,3,0
+872,The Little Mermaid,3,2
+873,The Hateful Eight,3,1
+874,Stalag 17,3,1
+875,Boogie Nights,3,0
+876,"Suddenly, Last Summer",3,0
+877,1941,3,0
+878,Enchanted April,3,0
+879,La Cage aux Folles,3,0
+880,The War of the Worlds,3,1
+881,Tom Sawyer,3,0
+882,Gods and Monsters,3,1
+883,"Come Back, Little Sheba",3,1
+884,Wonder Boys,3,1
+885,Albert Nobbs,3,0
+886,Unbroken,3,0
+887,Butterflies Are Free,3,1
+888,La Vie en Rose,3,2
+889,Three Coins in the Fountain,3,2
+890,Father Goose,3,1
+891,Sweet Bird of Youth,3,1
+892,Transformers: Dark of the Moon,3,0
+893,The Young Philadelphians,3,0
+894,In America,3,0
+895,Bad Day at Black Rock,3,0
+896,House of Sand and Fog,3,0
+897,Journey to the Center of the Earth,3,0
+898,My Favorite Wife,3,0
+899,Pinky,3,0
+900,"Now, Voyager",3,1
+901,RoboCop,3,1
+902,North by Northwest,3,0
+903,The Hunt for Red October,3,1
+904,Tinker Tailor Soldier Spy,3,0
+905,The Picture of Dorian Gray,3,1
+906,Apocalypto,3,0
+907,The Big Chill,3,0
+908,The Pied Piper,3,0
+909,Hotel Rwanda,3,0
+910,The Naked City,3,2
+911,The Westerner,3,1
+912,David Copperfield,3,0
+913,Bad Girl,3,2
+914,Sicario,3,0
+915,Down Argentine Way,3,0
+916,The Brave One,3,1
+917,Girl with a Pearl Earring,3,0
+918,Lady in the Dark,3,0
+919,The Battle of Algiers,3,0
+920,Lovers and Other Strangers,3,1
+921,Pleasantville,3,0
+922,WarGames,3,0
+923,Voyage of the Damned,3,0
+924,Spider-Man 2,3,1
+925,A Letter to Three Wives,3,2
+926,Alice Doesn't Live Here Anymore,3,1
+927,Malcolm X,3,0
+928,Marooned,3,1
+929,Red,3,0
+930,The Player,3,0
+931,The Ballad of Buster Scruggs,3,0
+932,A Free Soul,3,1
+933,Brigadoon,3,0
+934,Legends of the Fall,3,1
+935,Children of Men,3,0
+936,The Band Wagon,3,0
+937,Exodus,3,1
+938,Les Girls,3,1
+939,The Tree of Life,3,0
+940,Quills,3,0
+941,The Adventures of Mark Twain,3,0
+942,Five Graves to Cairo,3,0
+943,That Touch of Mink,3,0
+944,Ivanhoe,3,0
+945,King Solomon's Mines,3,2
+946,A Certain Smile,3,0
+947,This Is the Army,3,1
+948,Changeling,3,0
+949,Written on the Wind,3,1
+950,The Charge of the Light Brigade,3,1
+951,Deliverance,3,0
+952,Can You Ever Forgive Me?,3,0
+953,Blazing Saddles,3,0
+954,Enchanted,3,0
+955,The Front Page,3,0
+956,Transformers,3,0
+957,I Never Sang for My Father,3,0
+958,"Objective, Burma!",3,0
+959,Somebody Up There Likes Me,3,2
+960,Caged,3,0
+961,Amarcord,3,1
+962,Field of Dreams,3,0
+963,Harry Potter and the Deathly Hallows Part 2,3,0
+964,Dr. Seuss' How the Grinch Stole Christmas,3,1
+965,In the Line of Fire,3,0
+966,Absence of Malice,3,0
+967,The Hobbit: The Desolation of Smaug,3,0
+968,Tucker The Man and His Dream,3,0
+969,Crimes of the Heart,3,0
+970,Baby Driver,3,0
+971,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",3,1
+972,Faces,3,0
+973,Holiday,3,0
+974,The Southerner,3,0
+975,Reversal of Fortune,3,1
+976,Broken Arrow,3,0
+977,South Pacific,3,1
+978,Disraeli,3,1
+979,Song of the Open Road,3,0
+980,The Invaders,3,1
+981,The Young in Heart,3,0
+982,The Moon Is Blue,3,0
+983,Woodstock,3,1
+984,The Collector,3,0
+985,The Polar Express,3,0
+986,The Hobbit: An Unexpected Journey,3,0
+987,The Broadway Melody,3,1
+988,Test Pilot,3,0
+989,The Big Fisherman,3,0
+990,The Merry Widow,3,1
+991,Pocketful of Miracles,3,0
+992,A Soldier's Story,3,0
+993,The Black Swan,3,1
+994,The Dark Angel,3,1
+995,Young Winston,3,0
+996,Batman Forever,3,0
+997,Sweeney Todd The Demon Barber of Fleet Street,3,1
+998,"Captain Newman, M.D.",3,0
+999,Angels with Dirty Faces,3,0
+1000,The Master,3,0
+1001,The Magnificent Seven,3,0
+1002,Sundown,3,0
+1003,Speed,3,2
+1004,Equus,3,0
+1005,Into the Woods,3,0
+1006,Carefree,3,0
+1007,You Were Never Lovelier,3,0
+1008,There's No Business Like Show Business,3,0
+1009,Bombshell,3,1
+1010,Star Wars: The Rise of Skywalker,3,0
+1011,"Enemies, A Love Story",3,0
+1012,Little Children,3,0
+1013,Flying Tigers,3,0
+1014,Magnolia,3,0
+1015,Shanghai Express,3,1
+1016,Peggy Sue Got Married,3,0
+1017,Reap the Wild Wind,3,1
+1018,"Cousin, Cousine",3,0
+1019,"Take a Letter, Darling",3,0
+1020,Jurassic Park,3,3
+1021,Dark Victory,3,0
+1022,Suspicion,3,1
+1023,To Catch a Thief,3,1
+1024,Crimes and Misdemeanors,3,0
+1025,The Absent Minded Professor,3,0
+1026,Runaway Train,3,0
+1027,The Young Victoria,3,1
+1028,Inside Daisy Clover,3,0
+1029,Billy Elliot,3,0
+1030,Chaplin,3,0
+1031,Agnes of God,3,0
+1032,Sleepy Hollow,3,1
+1033,"All This, and Heaven Too",3,0
+1034,The Hunchback of Notre Dame,3,0
+1035,"Gaily, Gaily",3,0
+1036,Gypsy,3,0
+1037,The Man with the Golden Arm,3,0
+1038,Save the Tiger,3,1
+1039,The Boys from Brazil,3,0
+1040,I Am a Fugitive from a Chain Gang,3,0
+1041,Strike Up the Band,3,1
+1042,Crazy Heart,3,2
+1043,A Chorus Line,3,0
+1044,Awakenings,3,0
+1045,The Last Detail,3,0
+1046,Sometimes a Great Notion,2,0
+1047,Universe,2,0
+1048,Bulldog Drummond,2,0
+1049,Grand Canyon,2,1
+1050,The Blue Veil,2,0
+1051,Fantastic Mr. Fox,2,0
+1052,Tchaikovsky,2,0
+1053,The Illusionist,2,0
+1054,What a Way to Go!,2,0
+1055,The Howards of Virginia,2,0
+1056,The Sweet Hereafter,2,0
+1057,Air Force One,2,0
+1058,Call Me Madam,2,1
+1059,Catch Me If You Can,2,0
+1060,The Manchurian Candidate,2,0
+1061,Heartbreak Ridge,2,0
+1062,La Strada,2,1
+1063,Cars,2,0
+1064,Ironweed,2,0
+1065,The Three Caballeros,2,0
+1066,Independence Day,2,1
+1067,Despicable Me 2,2,0
+1068,The Candidate,2,1
+1069,Blow-Up,2,0
+1070,Broadway Melody of 1936,2,0
+1071,The Slipper and the Rose--The Story of Cinderella,2,0
+1072,Never Look Away,2,0
+1073,Harry and Tonto,2,1
+1074,Blade Runner,2,0
+1075,Born Free,2,2
+1076,How to Train Your Dragon,2,0
+1077,Annie,2,0
+1078,My Week with Marilyn,2,0
+1079,The Goldwyn Follies,2,0
+1080,They Were Expendable,2,0
+1081,Klute,2,1
+1082,Mary Queen of Scots,2,0
+1083,Butterfield 8,2,1
+1084,Flags of Our Fathers,2,0
+1085,Susan Slept Here,2,0
+1086,Mourning Becomes Electra,2,0
+1087,A Hard Day's Night,2,0
+1088,Anna and the King,2,0
+1089,The Messenger,2,0
+1090,Sentinels of Silence,2,2
+1091,The Barretts of Wimpole Street,2,0
+1092,The Omen,2,1
+1093,The Flight of the Phoenix,2,0
+1094,Running on Empty,2,0
+1095,The Thomas Crown Affair,2,1
+1096,The Mirror Has Two Faces,2,0
+1097,Farewell My Concubine,2,0
+1098,Harry Potter and the Deathly Hallows Part 1,2,0
+1099,Stage Door Canteen,2,0
+1100,Seven Days in May,2,0
+1101,Cast Away,2,0
+1102,Indochine,2,1
+1103,Deepwater Horizon,2,0
+1104,Basic Instinct,2,0
+1105,Iron Man,2,0
+1106,Journey into Spring,2,0
+1107,Neighbours,2,1
+1108,Tommy,2,0
+1109,Voice in the Wind,2,0
+1110,About Schmidt,2,0
+1111,A Little Romance,2,1
+1112,Florence Foster Jenkins,2,0
+1113,Cocoon,2,2
+1114,Marriage Italian Style,2,0
+1115,"O Brother, Where Art Thou?",2,0
+1116,Inherent Vice,2,0
+1117,Harriet,2,0
+1118,Two for the Seesaw,2,0
+1119,The Last of the Mohicans,2,1
+1120,Pocahontas,2,2
+1121,The Well,2,0
+1122,A Tree Grows in Brooklyn,2,1
+1123,The Duchess,2,1
+1124,A.I. Artificial Intelligence,2,0
+1125,10,2,0
+1126,Juarez,2,0
+1127,My Night at Maud's,2,0
+1128,When Worlds Collide,2,1
+1129,United 93,2,0
+1130,The People vs. Larry Flynt,2,0
+1131,Pelle the Conqueror,2,1
+1132,Lorenzo's Oil,2,0
+1133,Bye Bye Birdie,2,0
+1134,Pollock,2,1
+1135,White Wilderness,2,1
+1136,Star Trek VI The Undiscovered Country,2,0
+1137,The Square,2,0
+1138,Ex Machina,2,1
+1139,The Prisoner of Zenda,2,0
+1140,Passion Fish,2,0
+1141,Twister,2,0
+1142,Ladies in Retirement,2,0
+1143,Genevieve,2,0
+1144,Isle of Dogs,2,0
+1145,Interview with the Vampire,2,0
+1146,Away from Her,2,0
+1147,Sweet and Lowdown,2,0
+1148,The Private Life of Henry VIII,2,1
+1149,Sweethearts,2,0
+1150,Parenthood,2,0
+1151,Central Station,2,0
+1152,Airport '77,2,0
+1153,A Place to Stand,2,1
+1154,Spider-Man,2,0
+1155,Snow White and the Huntsman,2,0
+1156,Tron,2,0
+1157,Smash-Up--The Story of a Woman,2,0
+1158,The Green Years,2,0
+1159,Transamerica,2,0
+1160,The Grandmaster,2,0
+1161,Bright Victory,2,0
+1162,Conquest,2,0
+1163,San Antonio,2,0
+1164,Tales of Hoffmann,2,0
+1165,The Assassination of Jesse James by the Coward Robert Ford,2,0
+1166,Dumbo,2,1
+1167,White Nights,2,1
+1168,Elizabeth: The Golden Age,2,1
+1169,The Bostonians,2,0
+1170,Frozen River,2,0
+1171,Finian's Rainbow,2,0
+1172,The Reivers,2,0
+1173,The Incredible Sarah,2,0
+1174,Black Narcissus,2,2
+1175,Indiana Jones and the Temple of Doom,2,1
+1176,The Perfect Storm,2,0
+1177,Julie,2,0
+1178,Alien,2,1
+1179,The Usual Suspects,2,2
+1180,Born to Dance,2,0
+1181,Arizona,2,0
+1182,A Damsel in Distress,2,1
+1183,Frances,2,0
+1184,Little Dorrit,2,0
+1185,Stella Dallas,2,0
+1186,The Iron Lady,2,2
+1187,Broadway Danny Rose,2,0
+1188,The Last Angry Man,2,0
+1189,Selma,2,1
+1190,Wings,2,2
+1191,The Barefoot Contessa,2,1
+1192,Bitter Sweet,2,0
+1193,Gunfight at the O.K. Corral,2,0
+1194,Mighty Aphrodite,2,1
+1195,David and Lisa,2,0
+1196,Camille Claudel,2,0
+1197,The Farmer's Daughter,2,1
+1198,Batman Returns,2,0
+1199,Salvador,2,0
+1200,The Solid Gold Cadillac,2,1
+1201,The Harvey Girls,2,1
+1202,Song of the South,2,1
+1203,A History of Violence,2,0
+1204,Can't Help Singing,2,0
+1205,The Muppet Movie,2,0
+1206,Sherlock Holmes,2,0
+1207,The Shanghai Gesture,2,0
+1208,Little Shop of Horrors,2,0
+1209,The Producers,2,1
+1210,Intermezzo,2,0
+1211,The Buccaneer,2,0
+1212,The End of the Affair,2,0
+1213,Hilary and Jackie,2,0
+1214,To Be or Not to Be,2,0
+1215,A New Kind of Love,2,0
+1216,Belle of the Yukon,2,0
+1217,Pain and Glory,2,0
+1218,Portrait of Jennie,2,1
+1219,The Firm,2,0
+1220,The Contender,2,0
+1221,Desiree,2,0
+1222,Flight,2,0
+1223,Waikiki Wedding,2,1
+1224,Martin Luther,2,0
+1225,Affliction,2,1
+1226,Guardians of the Galaxy,2,0
+1227,The Wind and the Lion,2,0
+1228,Hit Parade of 1941,2,0
+1229,The Best of Everything,2,0
+1230,Lone Survivor,2,0
+1231,Planet of the Apes,2,0
+1232,The Sky's the Limit,2,0
+1233,The Witches of Eastwick,2,0
+1234,Here Comes the Groom,2,1
+1235,The Guardsman,2,0
+1236,Blockade,2,0
+1237,The Great Santini,2,0
+1238,'Round Midnight,2,1
+1239,Morituri,2,0
+1240,An Inconvenient Truth,2,2
+1241,Gulliver's Travels,2,0
+1242,The Subject Was Roses,2,1
+1243,Shrek,2,1
+1244,Woman of the Year,2,1
+1245,Black Rain,2,0
+1246,Dive Bomber,2,0
+1247,Alice Adams,2,0
+1248,The Discreet Charm of the Bourgeoisie,2,1
+1249,Address Unknown,2,0
+1250,The Barbarian Invasions,2,1
+1251,Blue Skies,2,0
+1252,Bon Voyage!,2,0
+1253,The Shoes of the Fisherman,2,0
+1254,Training Day,2,1
+1255,Closer,2,0
+1256,Summertime,2,0
+1257,Wild,2,0
+1258,One of Our Aircraft Is Missing,2,0
+1259,Abe Lincoln in Illinois,2,0
+1260,Prince of Foxes,2,0
+1261,The Mask of Zorro,2,0
+1262,The Last Command,2,1
+1263,U-571,2,1
+1264,Kagemusha (The Shadow Warrior),2,0
+1265,The Village,2,0
+1266,Shirley Valentine,2,0
+1267,Autumn Sonata,2,0
+1268,The Garden of Allah,2,0
+1269,The Brothers Karamazov,2,0
+1270,Winterset,2,0
+1271,The Boys from Syracuse,2,0
+1272,Destination Moon,2,1
+1273,The White Parade,2,0
+1274,Something to Shout About,2,0
+1275,This Sporting Life,2,0
+1276,The Big Sky,2,0
+1277,Jet Carrier,2,0
+1278,Young Frankenstein,2,0
+1279,Cromwell,2,1
+1280,The Frogmen,2,0
+1281,The Prince of Egypt,2,1
+1282,The Portrait of a Lady,2,0
+1283,Into the Wild,2,0
+1284,Mardi Gras,2,0
+1285,The Chorus (Les Choristes),2,0
+1286,Rosemary's Baby,2,1
+1287,The Dark Wave,2,0
+1288,Kubo and the Two Strings,2,0
+1289,The Little Prince,2,0
+1290,Beau Geste,2,0
+1291,Ghosts of Mississippi,2,0
+1292,Last Tango in Paris,2,0
+1293,Star Spangled Rhythm,2,0
+1294,Is Paris Burning?,2,0
+1295,Rambling Rose,2,0
+1296,Contact,2,0
+1297,All That Money Can Buy,2,1
+1298,A Separation,2,1
+1299,That Obscure Object of Desire,2,0
+1300,"Au Revoir Les Enfants (Goodbye, Children)",2,0
+1301,Captains of the Clouds,2,0
+1302,Tom & Viv,2,0
+1303,Pete 'n' Tillie,2,0
+1304,The Triplets of Belleville,2,0
+1305,The Bodyguard,2,0
+1306,A Little Night Music,2,1
+1307,Buck Privates,2,0
+1308,The Taming of the Shrew,2,0
+1309,Rogue One: A Star Wars Story,2,0
+1310,Toy Story 4,2,1
+1311,Home Alone,2,0
+1312,Show Boat,2,0
+1313,Dragon Seed,2,0
+1314,Only Angels Have Wings,2,0
+1315,Road to Morocco,2,0
+1316,The President's Lady,2,0
+1317,Bite the Bullet,2,0
+1318,Centennial Summer,2,0
+1319,Sleepless in Seattle,2,0
+1320,Face to Face,2,0
+1321,Manhattan,2,0
+1322,Under the Volcano,2,0
+1323,Vivacious Lady,2,0
+1324,Being There,2,1
+1325,Hit Parade of 1943,2,0
+1326,Boys Don't Cry,2,1
+1327,Fellini's Casanova,2,1
+1328,Decision before Dawn,2,0
+1329,Eternal Sunshine of the Spotless Mind,2,1
+1330,Hoffa,2,0
+1331,Harry Potter and the Prisoner of Azkaban,2,0
+1332,Restoration,2,2
+1333,Five Fingers,2,0
+1334,Mighty Joe Young,2,1
+1335,Queen Bee,2,0
+1336,The Heart Is a Lonely Hunter,2,0
+1337,A Special Day,2,0
+1338,Willow,2,0
+1339,What Dreams May Come,2,1
+1340,The Prime of Miss Jean Brodie,2,1
+1341,Rhapsody in Blue,2,0
+1342,In Which We Serve,2,0
+1343,Blood and Sand,2,1
+1344,Our Dancing Daughters,2,0
+1345,Altered States,2,0
+1346,Ice Station Zebra,2,0
+1347,You Can Count on Me,2,0
+1348,Four Weddings and a Funeral,2,0
+1349,The Crowd,2,0
+1350,Come and Get It,2,1
+1351,The Rainmaker,2,0
+1352,Biutiful,2,0
+1353,Serpico,2,0
+1354,A Man Called Ove,2,0
+1355,Mister Buddwing,2,0
+1356,Honeyland,2,0
+1357,Topper Returns,2,0
+1358,A Very Long Engagement,2,0
+1359,Mrs. Brown,2,0
+1360,Flame of Barbary Coast,2,0
+1361,Sling Blade,2,1
+1362,Thirty Seconds over Tokyo,2,1
+1363,The Fallen Idol,2,0
+1364,Duel in the Sun,2,0
+1365,La Ronde,2,0
+1366,Red River,2,0
+1367,Higher and Higher,2,0
+1368,12 Monkeys,2,0
+1369,Shrek 2,2,0
+1370,It's Always Fair Weather,2,0
+1371,Toys,2,0
+1372,The Day of the Dolphin,2,0
+1373,Syriana,2,1
+1374,Swing Time,2,1
+1375,Talk to Her,2,1
+1376,Ladyhawke,2,0
+1377,Robin and the 7 Hoods,2,0
+1378,Cowboy,2,0
+1379,Teenage Rebel,2,0
+1380,Splendor in the Grass,2,1
+1381,Fantastic Beasts and Where to Find Them,2,1
+1382,The Proud and Profane,2,0
+1383,The Savages,2,0
+1384,Big,2,0
+1385,"Bell, Book and Candle",2,0
+1386,Hoosiers,2,0
+1387,Michael Collins,2,0
+1388,Drums along the Mohawk,2,0
+1389,Hustle & Flow,2,1
+1390,Wag the Dog,2,0
+1391,The Four Days of Naples,2,0
+1392,All-American Co-Ed,2,0
+1393,The Invisible Woman,2,0
+1394,Vertigo,2,0
+1395,A Simple Plan,2,0
+1396,The Snows of Kilimanjaro,2,0
+1397,Waterloo Bridge,2,0
+1398,Babes in Toyland,2,0
+1399,The Jazz Singer,2,0
+1400,Footloose,2,0
+1401,The Thief,2,0
+1402,The Americanization of Emily,2,0
+1403,Minstrel Man,2,0
+1404,Moana,2,0
+1405,It Happened Tomorrow,2,0
+1406,Shadowlands,2,0
+1407,The Wild Bunch,2,0
+1408,Starting Over,2,0
+1409,Husbands and Wives,2,0
+1410,Fried Green Tomatoes,2,0
+1411,The Lone Ranger,2,0
+1412,Ghostbusters,2,0
+1413,The Silver Chalice,2,0
+1414,Nobody's Fool,2,0
+1415,The Bridges at Toko-Ri,2,1
+1416,The Crucible,2,0
+1417,The Spy Who Came In from the Cold,2,0
+1418,Topper,2,0
+1419,Dragonslayer,2,0
+1420,My Life as a Dog,2,0
+1421,Beyond Silence,2,0
+1422,The Corn Is Green,2,0
+1423,When My Baby Smiles at Me,2,0
+1424,Freud,2,0
+1425,...And Justice for All,2,0
+1426,The Virgin Spring,2,1
+1427,The Shop on Main Street,2,1
+1428,Ed Wood,2,2
+1429,Mr. Skeffington,2,0
+1430,RBG,2,0
+1431,Knights of the Round Table,2,0
+1432,Anna Christie,2,0
+1433,The Wrestler,2,0
+1434,Madame X,2,0
+1435,Steve Jobs,2,0
+1436,Up in Arms,2,0
+1437,The Devil Wears Prada,2,0
+1438,Invictus,2,0
+1439,Jonathan Livingston Seagull,2,0
+1440,Woman in the Dunes,2,0
+1441,Harvey,2,1
+1442,The Motorcycle Diaries,2,1
+1443,Passengers,2,0
+1444,The Gold Rush,2,0
+1445,Naughty Marietta,2,1
+1446,The Jungle Book,2,1
+1447,The Sea Inside,2,1
+1448,Postcards from the Edge,2,0
+1449,Madame Bovary,2,0
+1450,The Bold and the Brave,2,0
+1451,The Prestige,2,0
+1452,Young Bess,2,0
+1453,Shaft,2,1
+1454,The Fly,2,2
+1455,On the Beach,2,0
+1456,Murphy's Romance,2,0
+1457,Carmen Jones,2,0
+1458,Kiss of Death,2,0
+1459,Mogambo,2,0
+1460,Back Street,2,0
+1461,To Each His Own,2,1
+1462,Con Air,2,0
+1463,My Gal Sal,2,1
+1464,The Face of Lincoln,2,1
+1465,Memento,2,0
+1466,Primary Colors,2,0
+1467,North Country,2,0
+1468,Twilight of Honor,2,0
+1469,Under Siege,2,0
+1470,Tango,2,1
+1471,Second Chorus,2,0
+1472,Coming to America,2,0
+1473,The Imaginarium of Doctor Parnassus,2,0
+1474,Monster's Ball,2,1
+1475,The White Ribbon,2,0
+1476,Resurrection,2,0
+1477,Tonight and Every Night,2,0
+1478,Victoria & Abdul,2,0
+1479,Svengali,2,0
+1480,A Woman under the Influence,2,0
+1481,Orlando,2,0
+1482,"Summer Wishes, Winter Dreams",2,0
+1483,Flirtation Walk,2,0
+1484,The Day of the Locust,2,0
+1485,Romance on the High Seas,2,0
+1486,Breaking the Sound Barrier,2,1
+1487,Navajo,2,0
+1488,Kon-Tiki,2,1
+1489,21 Grams,2,0
+1490,Bridesmaids,2,0
+1491,Zelig,2,0
+1492,The Quiet One,2,0
+1493,3:10 to Yuma,2,0
+1494,Investigation of a Citizen above Suspicion,2,1
+1495,On the Riviera,2,0
+1496,Pirates of the Caribbean: At World's End,2,0
+1497,Boom Town,2,0
+1498,Hondo,2,0
+1499,The Black Hole,2,0
+1500,The World According to Garp,2,0
+1501,The Gorgeous Hussy,2,0
+1502,The Golden Compass,2,1
+1503,Why Girls Leave Home,2,0
+1504,"Reuben, Reuben",2,0
+1505,Broken Lance,2,1
+1506,A Medal for Benny,2,0
+1507,The Cotton Club,2,0
+1508,The Bridge of San Luis Rey,2,1
+1509,Ali,2,0
+1510,The Blind Side,2,1
+1511,Bullitt,2,1
+1512,The Magnificent Yankee,2,0
+1513,Aloma of the South Seas,2,0
+1514,The Parent Trap,2,0
+1515,The Great White Hope,2,0
+1516,The Competition,2,0
+1517,Shadow of the Vampire,2,0
+1518,The Flame and the Arrow,2,0
+1519,"Lady, Let's Dance",2,0
+1520,Maytime,2,0
+1521,In Old Oklahoma,2,0
+1522,One Million B.C.,2,0
+1523,Morgan!,2,0
+1524,The Seven-per-cent Solution,2,0
+1525,The Lavender Hill Mob,2,1
+1526,Walter Wanger's Vogues of 1938,2,0
+1527,The Trip to Bountiful,2,1
+1528,A Civil Action,2,0
+1529,Can-Can,2,0
+1530,Babes in Arms,2,0
+1531,A Serious Man,2,0
+1532,Theodora Goes Wild,2,0
+1533,Clear and Present Danger,2,0
+1534,A Little Princess,2,0
+1535,42nd Street,2,0
+1536,The Happy Ending,2,0
+1537,American Gangster,2,0
+1538,Mrs. Parkington,2,0
+1539,The Devil and Miss Jones,2,0
+1540,The Unbearable Lightness of Being,2,0
+1541,The Adventures of Don Juan,2,1
+1542,The Emperor Waltz,2,0
+1543,Devil Take Us,2,0
+1544,Singin' in the Rain,2,0
+1545,Judy,2,1
+1546,Hangmen Also Die,2,0
+1547,The Andromeda Strain,2,0
+1548,Charade,2,1
+1549,Silverado,2,0
+1550,Pete's Dragon,2,0
+1551,Above and Beyond,2,0
+1552,Gold Diggers of 1935,2,1
+1553,The Princess and the Pirate,2,0
+1554,The Official Story,2,1
+1555,Pinocchio,2,2
+1556,Coco,2,2
+1557,Alibi,2,0
+1558,What's Love Got to Do with It,2,0
+1559,Wanted,2,0
+1560,Extremely Loud & Incredibly Close,2,0
+1561,The Big Country,2,1
+1562,La Traviata,2,0
+1563,That Certain Age,2,0
+1564,The Sterile Cuckoo,2,0
+1565,You'll Never Get Rich,2,0
+1566,Inside Llewyn Davis,2,0
+1567,The Slender Thread,2,0
+1568,The Magic Machines,2,1
+1569,Looking for Mr. Goodbar,2,0
+1570,My Foolish Heart,2,0
+1571,The Heartbreak Kid,2,0
+1572,Collateral,2,0
+1573,A Tale of Two Cities,2,0
+1574,Do the Right Thing,2,0
+1575,A Thousand and One Nights,2,0
+1576,The Hospital,2,1
+1577,The Battle of Gettysburg,2,0
+1578,The Garden of the Finzi Continis,2,1
+1579,Easy Rider,2,0
+1580,A Foreign Affair,2,0
+1581,Notorious,2,0
+1582,Juliet of the Spirits,2,0
+1583,The Valley of Decision,2,0
+1584,Flying with Music,2,0
+1585,The Oscar,2,0
+1586,Through a Glass Darkly,2,1
+1587,"Hello, Frisco, Hello",2,1
+1588,55 Days at Peking,2,0
+1589,The Dark Command,2,0
+1590,When Ladies Meet,2,0
+1591,Mrs. Henderson Presents,2,0
+1592,The Secret of Santa Vittoria,2,0
+1593,Boyz N the Hood,2,0
+1594,"Heaven Knows, Mr. Allison",2,0
+1595,Louisiana Purchase,2,0
+1596,Lloyds of London,2,0
+1597,The Blue Bird,2,0
+1598,The Last Station,2,0
+1599,The Concert,2,0
+1600,The Odd Couple,2,0
+1601,Frozen,2,2
+1602,Silver Queen,2,0
+1603,Malèna,2,0
+1604,Houseboat,2,0
+1605,Inside Out,2,1
+1606,August: Osage County,2,0
+1607,Mannequin,2,0
+1608,The Dead,2,0
+1609,King Rat,2,0
+1610,Night Must Fall,2,0
+1611,Out of Sight,2,0
+1612,Music of the Heart,2,0
+1613,Cape Fear,2,0
+1614,Ida,2,1
+1615,Radio Days,2,0
+1616,The Time Machine,2,1
+1617,The Post,2,0
+1618,Teacher's Pet,2,0
+1619,Jack Johnson,1,0
+1620,Paradise Now,1,0
+1621,Salaam Bombay!,1,0
+1622,Shut Up...I'm Crying,1,0
+1623,The Smiling Lieutenant,1,0
+1624,The Blue Dahlia,1,0
+1625,Mon Oncle D'Amerique,1,0
+1626,One Survivor Remembers,1,1
+1627,the end,1,0
+1628,Quest for Camelot,1,0
+1629,Invisible Agent,1,0
+1630,Coney Island,1,0
+1631,Private Smith of the U.S.A.,1,0
+1632,Antonia's Line,1,1
+1633,The Toast of New Orleans,1,0
+1634,Claude Lanzmann: Spectres of the Shoah,1,0
+1635,Bear Country,1,1
+1636,Listen to Britain,1,0
+1637,Bowling for Columbine,1,1
+1638,Split Cherry Tree,1,0
+1639,When the Day Breaks,1,0
+1640,Van Gogh,1,1
+1641,Lifted,1,0
+1642,The Conquest of Everest,1,0
+1643,Richard Jewell,1,0
+1644,Lethal Weapon,1,0
+1645,Course Completed,1,0
+1646,The Screw (La Vis),1,0
+1647,The Sullivans,1,0
+1648,The Sin of Madelon Claudet,1,1
+1649,Toward Independence,1,1
+1650,Aquamania,1,0
+1651,East Lynne,1,0
+1652,Entre Nous,1,0
+1653,Hallelujah,1,0
+1654,Tribute,1,0
+1655,Once,1,1
+1656,Ayn Rand: A Sense of Life,1,0
+1657,Golden Girl,1,0
+1658,"Yes, Giorgio",1,0
+1659,Suzanne Farrell: Elusive Muse,1,0
+1660,Ryan,1,1
+1661,"Goodbye, Columbus",1,0
+1662,The True Glory,1,1
+1663,Rashomon,1,0
+1664,As It Is in Heaven,1,0
+1665,Zus & Zo,1,0
+1666,Swan Song,1,0
+1667,Sadie Thompson,1,0
+1668,Ballon Vole (Play Ball!),1,0
+1669,What Happened to Santiago,1,0
+1670,Way Out West,1,0
+1671,The Pigeon That Took Rome,1,0
+1672,The Old Mill,1,1
+1673,Nudnik #2,1,0
+1674,Army Champions,1,0
+1675,So You Want to Be on the Radio,1,0
+1676,Beaufort,1,0
+1677,Holiday Romance,1,0
+1678,She Done Him Wrong,1,0
+1679,Coup de Torchon ('Clean Slate'),1,0
+1680,The Young Girls of Rochefort,1,0
+1681,Passport to Nowhere,1,0
+1682,Undefeated,1,1
+1683,Double Feature,1,0
+1684,Too Many Husbands,1,0
+1685,Copy Shop,1,0
+1686,Black Orpheus,1,1
+1687,Li'l Abner,1,0
+1688,The Chicken (Le Poulet),1,1
+1689,In the Wee Wee Hours...,1,0
+1690,Thank God It's Friday,1,1
+1691,Project Hope,1,1
+1692,Samoa,1,0
+1693,Ballad of a Soldier,1,0
+1694,Swooner Crooner,1,0
+1695,A Note of Triumph: The Golden Age of Norman Corwin,1,1
+1696,The Brink's Job,1,0
+1697,The Devil Dancer;,1,0
+1698,Dynamite,1,0
+1699,Night People,1,0
+1700,Underworld,1,1
+1701,Imagination,1,0
+1702,Hotel Terminus: The Life and Times of Klaus Barbie,1,1
+1703,Iphigenia,1,0
+1704,Bob's Birthday,1,1
+1705,Letter from Livingston,1,0
+1706,The Big Carnival,1,0
+1707,My Country 'Tis of Thee,1,0
+1708,Atomic Power,1,0
+1709,She Loves Me Not,1,0
+1710,The Moon and Sixpence,1,0
+1711,A Quiet Place,1,0
+1712,Dogtooth,1,0
+1713,Adventure in the Bronx,1,0
+1714,That's Life,1,0
+1715,"Ready, Willing and Able",1,0
+1716,I'm Not There,1,0
+1717,Dr. Ehrlich's Magic Bullet,1,0
+1718,The Organizer,1,0
+1719,Butch and Sundance: The Early Days,1,0
+1720,London Can Take It,1,0
+1721,Stand by Me,1,0
+1722,In the Region of Ice,1,1
+1723,Kleingeld (Small Change),1,0
+1724,The Seven Little Foys,1,0
+1725,Madron,1,0
+1726,The Race for Space,1,0
+1727,The Royal Tenenbaums,1,0
+1728,Two Soldiers,1,1
+1729,Wings Up,1,0
+1730,Cartel Land,1,0
+1731,3rd Ave. El,1,0
+1732,Alive in the Deep,1,0
+1733,Manipulation,1,1
+1734,Bosom Friends,1,0
+1735,CaveDigger,1,0
+1736,Icarus,1,1
+1737,Young Sherlock Holmes,1,0
+1738,Up in Mabel's Room,1,0
+1739,Legend,1,0
+1740,Broadway Melody of 1936;,1,1
+1741,A Man Thing (Meska Sprawa),1,0
+1742,Audioscopiks,1,0
+1743,Buzkashi Boys,1,0
+1744,Sister Rose's Passion,1,0
+1745,Goliath II,1,0
+1746,Harry Potter and the Half-Blood Prince,1,0
+1747,Silent Nights,1,0
+1748,Journey of Hope,1,1
+1749,Before Sunset,1,0
+1750,Coraline,1,0
+1751,Beyond the Lights,1,0
+1752,Return to Glennascaul,1,0
+1753,Monsieur Lazhar,1,0
+1754,Manhattan Merry-Go-Round,1,0
+1755,7:35 in the Morning (7:35 de la Mañana),1,0
+1756,Twin Towers,1,1
+1757,Bao,1,1
+1758,Unstoppable,1,0
+1759,For the Birds,1,1
+1760,Miss Sadie Thompson,1,0
+1761,The Mark of Zorro,1,0
+1762,The Nest,1,0
+1763,"Farewell, My Lovely",1,0
+1764,The Look of Silence,1,0
+1765,Pear Cider and Cigarettes,1,0
+1766,Rehearsing a Dream,1,0
+1767,Peter Ibbetson,1,0
+1768,War for the Planet of the Apes,1,0
+1769,Harry Potter and the Goblet of Fire,1,0
+1770,Nights and Days,1,0
+1771,The Three Faces of Eve,1,1
+1772,Ouverture,1,0
+1773,Two Women,1,1
+1774,What's Eating Gilbert Grape,1,0
+1775,The Magic Pear Tree,1,0
+1776,Cheyenne Autumn,1,0
+1777,Mexicali Shmoes,1,0
+1778,The Mating Season,1,0
+1779,Mother,1,0
+1780,One in a Million,1,0
+1781,The Finest Hours,1,0
+1782,Windy Day,1,0
+1783,The House on Chelouche Street,1,0
+1784,Genghis Blues,1,0
+1785,Danger under the Sea,1,0
+1786,John Muir's High Sierra,1,0
+1787,Knife in the Water,1,0
+1788,The Man Who Shot Liberty Valance,1,0
+1789,The Kite Runner,1,0
+1790,Bomber,1,0
+1791,Inside Job,1,1
+1792,Plymouth Adventure,1,1
+1793,Spirited Away,1,1
+1794,Man of La Mancha,1,0
+1795,Omnibus,1,1
+1796,Something's Gotta Give,1,0
+1797,Knock on Wood,1,0
+1798,The Story of Dr. Wassell,1,0
+1799,Divided We Fall,1,0
+1800,The Silent World,1,1
+1801,Waterworld,1,0
+1802,The Goddess,1,0
+1803,A Cry in the Dark,1,0
+1804,Glengarry Glen Ross,1,0
+1805,A Simple Story,1,0
+1806,Nowhere in Africa,1,1
+1807,The Wolf Men,1,0
+1808,Trolls,1,0
+1809,Lone Star,1,0
+1810,Library of Congress,1,0
+1811,Family Gathering,1,0
+1812,The Private War of Major Benson,1,0
+1813,The Clan of the Cave Bear,1,0
+1814,The Promoter,1,0
+1815,Forbidden Passage,1,0
+1816,Barney's Version,1,0
+1817,Water Birds,1,1
+1818,Mondays at Racine,1,0
+1819,Crash Dive,1,1
+1820,Butter Lamp (La Lampe Au Beurre De Yak),1,0
+1821,The Devil Came at Night,1,0
+1822,A Stitch for Time,1,0
+1823,In the Loop,1,0
+1824,Open City,1,0
+1825,"Girl, Interrupted",1,1
+1826,The Other Side of Sunday,1,0
+1827,The Lovely Bones,1,0
+1828,Thoth,1,1
+1829,The Numbers Start with the River,1,0
+1830,Manhattan Melodrama,1,1
+1831,Patch Adams,1,0
+1832,Detouring America,1,0
+1833,Star Wars Episode II Attack of the Clones,1,0
+1834,Addams Family Values,1,0
+1835,Youth in Crisis,1,0
+1836,Say One for Me,1,0
+1837,Mona Lisa Descending a Staircase,1,1
+1838,A Royal Affair,1,0
+1839,Before the Mountain Was Moved,1,0
+1840,Woman of the Town,1,0
+1841,Black and White in Color,1,1
+1842,Quicker 'N a Wink,1,1
+1843,Pentecost,1,0
+1844,The Crush,1,0
+1845,La Maison en Petits Cubes,1,1
+1846,Snow Capers,1,0
+1847,The Girl with the Pistol,1,0
+1848,Chopin's Musical Moments,1,0
+1849,My Financial Career,1,0
+1850,Grand Hotel,1,1
+1851,Johnny Doughboy,1,0
+1852,O Quatrilho,1,0
+1853,A Matter of Loaf and Death,1,0
+1854,The Boxtrolls,1,0
+1855,Look for the Silver Lining,1,0
+1856,Trading Places,1,0
+1857,Viva Italia!,1,0
+1858,The House on 92nd Street,1,1
+1859,The Lego Movie,1,0
+1860,To Forget Venice,1,0
+1861,The Magic Fluke,1,0
+1862,"Bror, Min Bror (Teis and Nico)",1,0
+1863,Killing in the Name,1,0
+1864,The Wizard of the Strings,1,0
+1865,Thirty Million Letters,1,0
+1866,Pigskin Parade,1,0
+1867,Arthur Rubinstein - The Love of Life,1,1
+1868,The Royal Family of Broadway,1,0
+1869,His Butler's Sister,1,0
+1870,Humdrum,1,0
+1871,Mysterious Castles of Clay,1,0
+1872,Roller Derby Girl,1,0
+1873,An American Werewolf in London,1,1
+1874,The Prizefighter and the Lady,1,0
+1875,Napoleon and Samantha,1,0
+1876,St. Louis Superman,1,0
+1877,A Man Called Peter,1,0
+1878,Open Doors,1,0
+1879,Pitääkö Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?),1,0
+1880,You're a Big Boy Now,1,0
+1881,Declaration of Independence,1,1
+1882,The Pickwick Papers,1,0
+1883,With These Hands,1,0
+1884,Interviews with My Lai Veterans,1,1
+1885,Joe's Violin,1,0
+1886,Beverly Hills Cop,1,0
+1887,The Promise,1,0
+1888,Once upon a Honeymoon,1,0
+1889,This Mechanical Age,1,1
+1890,The Bolero,1,1
+1891,School in the Mailbox,1,0
+1892,How to Avoid Friendship,1,0
+1893,Raju,1,0
+1894,Two Girls and a Sailor,1,0
+1895,The Lost Thing,1,1
+1896,The Witness - From the Balcony of Room 306,1,0
+1897,The Year of Living Dangerously,1,1
+1898,School of Assassins,1,0
+1899,That Forsyte Woman,1,0
+1900,Volcano:  An Inquiry into the Life and Death of Malcolm Lowry,1,0
+1901,Kisses for My President,1,0
+1902,My Sweet Little Village,1,0
+1903,Juke Box Jamboree,1,0
+1904,Rocketman,1,1
+1905,Gods of Metal,1,0
+1906,The Rescuers,1,0
+1907,Life with Feathers,1,0
+1908,Memorable,1,0
+1909,The Vanishing Prairie,1,1
+1910,Dedalo,1,0
+1911,Blue Sky,1,1
+1912,Red Garters,1,0
+1913,Yeats Country,1,0
+1914,Puss in Boots,1,0
+1915,Rango,1,1
+1916,Gullah Tales,1,0
+1917,Esposados,1,0
+1918,Land of My Mother,1,0
+1919,In the Year of the Pig,1,0
+1920,A Bug's Life,1,0
+1921,Music by Prudence,1,1
+1922,My Architect,1,0
+1923,Avengers: Endgame,1,0
+1924,Athletes of the Saddle,1,0
+1925,The Lively Set,1,0
+1926,Prelude to War,1,1
+1927,Jagged Edge,1,0
+1928,Rocky III,1,0
+1929,Steel Magnolias,1,0
+1930,Three Comrades,1,0
+1931,Heaven's Gate,1,0
+1932,Junebug,1,0
+1933,The Thieving Magpie (La Gazza Ladra),1,0
+1934,"Of Time, Tombs and Treasure",1,0
+1935,Strangers on a Train,1,0
+1936,Comrade X,1,0
+1937,I Want You,1,0
+1938,Casino,1,0
+1939,Life Line,1,0
+1940,Nine Lives,1,0
+1941,Adam,1,0
+1942,The Trespasser,1,0
+1943,Give Me Liberty,1,1
+1944,The Personals: Improvisations on Romance in the Golden Years,1,1
+1945,Super Size Me,1,0
+1946,None Shall Escape,1,0
+1947,Death in Venice,1,0
+1948,Katyn,1,0
+1949,Ice-Capades,1,0
+1950,Journey into Life: The World of the Unborn,1,0
+1951,Hatch Up Your Troubles,1,0
+1952,Visit to a Small Planet,1,0
+1953,For Scent-Imental Reasons,1,1
+1954,The Last Days,1,1
+1955,Jimmy Neutron: Boy Genius,1,0
+1956,Sleeping Beauty,1,0
+1957,Brother Sun Sister Moon,1,0
+1958,The Gruffalo,1,0
+1959,Rebel in Paradise,1,0
+1960,Rio,1,0
+1961,Monsieur Pointu,1,0
+1962,Fat City,1,0
+1963,Across the Universe,1,0
+1964,Trevor,1,1
+1965,Garden Party,1,0
+1966,Hoa-Binh,1,0
+1967,The Narrow Margin,1,0
+1968,An American Dream,1,0
+1969,The Best Things in Life Are Free,1,0
+1970,Kate & Leopold,1,0
+1971,Son of Saul,1,1
+1972,Babes on Broadway,1,0
+1973,War/Dance,1,0
+1974,Departures,1,1
+1975,Rhapsody in Rivets,1,0
+1976,The Lost Patrol,1,0
+1977,When Abortion Was Illegal: Untold Stories,1,0
+1978,The Labor Front,1,0
+1979,Experiment Perilous,1,0
+1980,The John Glenn Story,1,0
+1981,The Garden,1,0
+1982,Escape Me Never,1,0
+1983,The Public Enemy,1,0
+1984,Carmen,1,0
+1985,Khovanshchina,1,0
+1986,Trumbo,1,0
+1987,Ernst & Lyset,1,0
+1988,Little Belgium,1,0
+1989,The Muppets,1,1
+1990,Songwriter,1,0
+1991,Umberto D.,1,0
+1992,Live for Life,1,0
+1993,Shark Tale,1,0
+1994,For Better or for Worse,1,0
+1995,My Mother Dreams the Satan's Disciples in New York,1,1
+1996,Solo,1,0
+1997,I Lost My Body,1,0
+1998,Journey into Self,1,1
+1999,China's Unnatural Disaster: The Tears of Sichuan Province,1,0
+2000,Confidence,1,0
+2001,The Wetback Hound,1,1
+2002,In Our Water,1,0
+2003,"The Time, the Place and the Girl",1,0
+2004,The New World,1,0
+2005,Great,1,1
+2006,Mary Shelley's Frankenstein,1,0
+2007,4 Little Girls,1,0
+2008,La Venganza,1,0
+2009,Buster,1,0
+2010,That Thing You Do!,1,0
+2011,"Oh, My Nerves",1,0
+2012,Alvorada (Brazil's Changing Face),1,0
+2013,Don't Mess with Bill,1,0
+2014,A Cage of Nightingales,1,0
+2015,The Panama Deception,1,1
+2016,Pride and Prejudice,1,1
+2017,The Edge of Democracy,1,0
+2018,I'll Get By,1,0
+2019,The Man in the White Suit,1,0
+2020,One-Eyed Men Are Kings,1,1
+2021,What's New Pussycat?,1,0
+2022,People of the Wind,1,0
+2023,The Big Broadcast of 1938,1,1
+2024,The Birdcage,1,0
+2025,Vicky Cristina Barcelona,1,1
+2026,Chasing Ice,1,0
+2027,Sand,1,0
+2028,The Scent of Green Papaya,1,0
+2029,Dummy Ache,1,0
+2030,In & Out,1,0
+2031,Hungarians,1,0
+2032,It Happens Every Spring,1,0
+2033,With Babies and Banners: Story of the Women's Emergency Brigade,1,0
+2034,Casbah,1,0
+2035,Benji,1,0
+2036,Omar,1,0
+2037,Road to Rio,1,0
+2038,Outside the Law (Hors-la-loi),1,0
+2039,Trees and Jamaica Daddy,1,0
+2040,How to Play Football,1,0
+2041,Thunderbolt and Lightfoot,1,0
+2042,For Me and My Gal,1,0
+2043,One-Eyed Jacks,1,0
+2044,A Majority of One,1,0
+2045,The Little Orphan,1,1
+2046,The Fixer,1,0
+2047,The Incredible Machine,1,0
+2048,Saraband,1,0
+2049,Lover Come Back,1,0
+2050,Room on the Broom,1,0
+2051,I Even Met Happy Gypsies,1,0
+2052,Love Struck,1,0
+2053,A Shocking Accident,1,1
+2054,Ten Gentlemen from West Point,1,0
+2055,The Snowman,1,0
+2056,Mighty Mouse in Gypsy Life,1,0
+2057,Stolen Kisses,1,0
+2058,Becky Sharp,1,0
+2059,The Little Match Girl,1,0
+2060,The Climax,1,0
+2061,The Tortoise and the Hare,1,1
+2062,A Place to Live,1,0
+2063,"The Adventures of Priscilla, Queen of the Desert",1,1
+2064,A Woman of Affairs;,1,0
+2065,Hers to Hold,1,0
+2066,A Ship Comes In,1,0
+2067,A Mighty Wind,1,0
+2068,The Rookie Bear,1,0
+2069,First Reformed,1,0
+2070,The Princess Bride,1,0
+2071,An Encounter with Faces,1,0
+2072,Full Metal Jacket,1,0
+2073,Whoopee!,1,0
+2074,Angels over Broadway,1,0
+2075,The West Point Story,1,0
+2076,The Odds Against,1,0
+2077,The Horse Whisperer,1,0
+2078,King of Burlesque,1,0
+2079,The Nasty Girl,1,0
+2080,The Gunfighter,1,0
+2081,So Ends Our Night,1,0
+2082,Scrooged,1,0
+2083,7 Faces of Dr. Lao,1,0
+2084,Special Effects,1,0
+2085,Lorenzo,1,0
+2086,A Time Out of War,1,1
+2087,The Karate Kid,1,0
+2088,'38',1,0
+2089,Gold,1,0
+2090,Crisis Hotline: Veterans Press 1,1,1
+2091,"Bread, Love and Dreams",1,0
+2092,See What I Say,1,0
+2093,Spider-Man: Into the Spider-Verse,1,1
+2094,Prisoners,1,0
+2095,Murmur of the Heart,1,0
+2096,Report from the Aleutians,1,0
+2097,The Pleasure Seekers,1,0
+2098,Major and Minor Miracles,1,0
+2099,The Wind Rises,1,0
+2100,Tequila Sunrise,1,0
+2101,Peter & the Wolf,1,1
+2102,The Kansan,1,0
+2103,High over the Borders,1,0
+2104,This Charming Man (Der Er En Yndig Mand),1,1
+2105,Street Fight,1,0
+2106,The L-Shaped Room,1,0
+2107,Dirty Pretty Things,1,0
+2108,Rasputin and the Empress,1,0
+2109,Spectre,1,1
+2110,Raise the Red Lantern,1,0
+2111,Seeds of Destiny,1,1
+2112,Days of Glory (Indigènes),1,0
+2113,Bulworth,1,0
+2114,Farinelli: Il Castrato,1,0
+2115,The Seeing Eye,1,0
+2116,The Family,1,0
+2117,A Sport Is Born,1,0
+2118,Afterglow,1,0
+2119,Possessions,1,0
+2120,Appointment for Love,1,0
+2121,When Magoo Flew,1,1
+2122,Monument to the Dream,1,0
+2123,A Chef in Love,1,0
+2124,The Twilight Samurai,1,0
+2125,One Day Crossing,1,0
+2126,Zootopia,1,1
+2127,La Fiesta de Santa Barbara,1,0
+2128,Cabin in the Sky,1,0
+2129,And to Think I Saw It on Mulberry Street,1,0
+2130,images,1,0
+2131,This Is Cinerama,1,0
+2132,A Chairy Tale,1,0
+2133,The Wild Bunch: An Album in Montage,1,0
+2134,Work Experience,1,1
+2135,A Christmas Carol,1,1
+2136,Blackfly,1,0
+2137,A Year toward Tomorrow,1,1
+2138,A Boy and His Dog,1,1
+2139,Zelary,1,0
+2140,Matewan,1,0
+2141,No Way Out,1,0
+2142,Jim: The James Foley Story,1,0
+2143,The Cat Came Back,1,0
+2144,So Much for So Little,1,1
+2145,People Soup,1,0
+2146,The Grass Is Always Greener,1,0
+2147,Royal Scotland,1,0
+2148,Boys and Girls,1,1
+2149,The Great Lie,1,1
+2150,Breathing Lessons: The Life and Work of Mark O'Brien,1,1
+2151,George and Rosemary,1,0
+2152,Mandy's Grandmother,1,0
+2153,Heavenly Creatures,1,0
+2154,Suzy,1,0
+2155,Sally,1,0
+2156,All Things Fair,1,0
+2157,Long Day's Journey into Night,1,0
+2158,Sewing Woman,1,0
+2159,Screen Souvenirs,1,0
+2160,She Wore a Yellow Ribbon,1,1
+2161,One Day in September,1,1
+2162,Rogue Cop,1,0
+2163,Magnificent Obsession,1,0
+2164,Passport to Pimlico,1,0
+2165,Life Times Nine,1,0
+2166,Destino,1,0
+2167,The Redwoods,1,1
+2168,The Confession,1,0
+2169,B. F.'s Daughter,1,0
+2170,Hot Millions,1,0
+2171,Weekends,1,0
+2172,Greetings Bait!,1,0
+2173,"Sorry, Wrong Number",1,0
+2174,Hedda,1,0
+2175,The Red Balloon,1,1
+2176,Hitchhike to Happiness,1,0
+2177,Beauty and the Beach,1,0
+2178,The Mississippi Gambler,1,0
+2179,The Flame of New Orleans,1,0
+2180,Sure Cures,1,0
+2181,Fearless,1,0
+2182,Job's Revolt,1,0
+2183,Kahl,1,0
+2184,My Brilliant Career,1,0
+2185,Solo: A Star Wars Story,1,0
+2186,Beyond Imagining: Margaret Anderson and the 'Little Review',1,0
+2187,And Now My Love,1,0
+2188,Which Way Home,1,0
+2189,A City Called Copenhagen,1,0
+2190,Bloodbrothers,1,0
+2191,Monster,1,1
+2192,So Dear to My Heart,1,0
+2193,Hiawatha's Rabbit Hunt,1,0
+2194,Last Men in Aleppo,1,0
+2195,Your Face,1,0
+2196,The Cry of Reason - Beyers Naudé: An Afrikaner Speaks Out,1,0
+2197,"What Happened, Miss Simone?",1,0
+2198,Hereafter,1,0
+2199,Hypothese Beta,1,0
+2200,Incendies,1,0
+2201,Casals Conducts: 1964,1,1
+2202,Life of a Thoroughbred,1,0
+2203,Floating Free,1,0
+2204,Christmas Holiday,1,0
+2205,White Eagle,1,0
+2206,The Ninth Circle,1,0
+2207,Hero,1,0
+2208,The Train,1,0
+2209,The Hoaxters,1,0
+2210,Redemption,1,0
+2211,The Purple Rose of Cairo,1,0
+2212,Strange Invaders,1,0
+2213,The Last Tycoon,1,0
+2214,The Boy Friend,1,0
+2215,Fiesta,1,0
+2216,"The Farm: Angola, U.S.A.",1,0
+2217,Jane Eyre,1,0
+2218,One Foot in Heaven,1,0
+2219,The Stranger,1,0
+2220,It's So Nice to Have a Wolf around the House,1,0
+2221,Coco before Chanel,1,0
+2222,Real Steel,1,0
+2223,That Girl from Paris,1,0
+2224,Mystery Street,1,0
+2225,Timber Toppers,1,0
+2226,Winnie the Pooh and Tigger Too,1,0
+2227,Lassie Come Home,1,0
+2228,A Way Out of the Wilderness,1,0
+2229,Short Cuts,1,0
+2230,Nocturnal Animals,1,0
+2231,Valmont,1,0
+2232,The War at Home,1,0
+2233,Land of Promise,1,0
+2234,The Lobster,1,0
+2235,Traveling Hopefully,1,0
+2236,The Croods,1,0
+2237,Damn Yankees,1,0
+2238,Watani: My Homeland,1,0
+2239,A Time for Justice,1,1
+2240,Three Orphan Kittens,1,1
+2241,The New Spirit,1,0
+2242,The Loves of Carmen,1,0
+2243,At the Edge of Conquest: The Journey of Chief Wai-Wai,1,0
+2244,Walking,1,0
+2245,Babe: Pig in the City,1,0
+2246,Damage,1,0
+2247,The Desert Song,1,0
+2248,Berkeley Square,1,0
+2249,Evolution,1,0
+2250,Adam Clayton Powell,1,0
+2251,Before Night Falls,1,0
+2252,Five Times Five,1,0
+2253,Election,1,0
+2254,Your National Gallery,1,0
+2255,Moontide,1,0
+2256,The Harder They Fall,1,0
+2257,Bismarck Convoy Smashed,1,0
+2258,The Lunch Date,1,1
+2259,White Banners,1,0
+2260,Victory through Air Power,1,0
+2261,Dawn of the Planet of the Apes,1,0
+2262,No Time for Love,1,0
+2263,The Decline of the American Empire,1,0
+2264,Son of the Bride,1,0
+2265,Always a New Beginning,1,0
+2266,1848,1,0
+2267,Star Trek Into Darkness,1,0
+2268,Wolfgang,1,0
+2269,All Nothing,1,0
+2270,Iron Man 3,1,0
+2271,Torero!,1,0
+2272,Feast,1,1
+2273,1776,1,0
+2274,Wild at Heart,1,0
+2275,Homage to Chagall--The Colours of Love,1,0
+2276,Lillian Russell,1,0
+2277,Turkish Delight,1,0
+2278,The Man in the Glass Booth,1,0
+2279,The Periwig-Maker,1,0
+2280,Capernaum,1,0
+2281,Speed for Thespians,1,0
+2282,Hell's Angels,1,0
+2283,The Star Witness,1,0
+2284,The Pink Blueprint,1,0
+2285,The True Story of the Civil War,1,1
+2286,So You Want to Be in Pictures,1,0
+2287,140 Days under the World,1,0
+2288,The Pumpkin Eater,1,0
+2289,Into the Arms of Strangers: Stories of the Kindertransport,1,1
+2290,Banjo on My Knee,1,0
+2291,Seawards the Great Ships,1,1
+2292,Mask,1,1
+2293,More about Nostradamus,1,0
+2294,Robert Frost: A Lover's Quarrel with the World,1,1
+2295,I Am Sam,1,0
+2296,Madeline,1,0
+2297,Virunga,1,0
+2298,A Place in the World,1,0
+2299,The Profession of Arms,1,0
+2300,"I, Robot",1,0
+2301,The Cruel Sea,1,0
+2302,Mouse and Garden,1,0
+2303,Me and My Moulton,1,0
+2304,Harry and the Butler,1,0
+2305,Glen Campbell...I'll Be Me,1,0
+2306,Hitting a New High,1,0
+2307,My Cousin Vinny,1,1
+2308,The Commitments,1,0
+2309,Sister,1,0
+2310,Ulysses,1,0
+2311,Body Team 12,1,0
+2312,Never Give Up: The 20th Century Odyssey of Herbert Zipper,1,0
+2313,Paperman,1,1
+2314,After the Axe,1,0
+2315,The Face of Genius,1,0
+2316,Fish Fry,1,0
+2317,Giuseppina,1,1
+2318,Hail the Conquering Hero,1,0
+2319,El Amor Brujo,1,0
+2320,Boomerang!,1,0
+2321,Squatter's Rights,1,0
+2322,Mr. Saturday Night,1,0
+2323,Time Piece,1,0
+2324,Alaska: Spirit of the Wild,1,0
+2325,Tulips Shall Grow,1,0
+2326,Taras Bulba,1,0
+2327,The Amazing Mrs. Holliday,1,0
+2328,Six Degrees of Separation,1,0
+2329,Mister 880,1,0
+2330,Rippling Romance,1,0
+2331,My Best Friend's Wedding,1,0
+2332,Journey to the Outer Limits,1,0
+2333,Glass,1,1
+2334,The Mighty River,1,0
+2335,The Cow,1,0
+2336,I Never Forget a Face,1,0
+2337,Grasshoppers (Cavallette),1,0
+2338,Here Come the Waves,1,0
+2339,The Further Adventures of Uncle Sam: Part Two,1,0
+2340,Lonelyhearts,1,0
+2341,Blue Valentine,1,0
+2342,The Wolfman,1,1
+2343,Fellini Satyricon,1,0
+2344,24-Hour Alert,1,0
+2345,The Great McGinty,1,1
+2346,Royal Wedding,1,0
+2347,Kings Point,1,0
+2348,Fourteen Hours,1,0
+2349,Warrior,1,0
+2350,Fall Line,1,0
+2351,Where Mountains Float,1,0
+2352,Every Child,1,1
+2353,Bunny,1,1
+2354,City of Wax,1,1
+2355,The Deep,1,0
+2356,All about My Mother,1,1
+2357,Dirty Wars,1,0
+2358,The Egg and I,1,0
+2359,Dance Lexie Dance,1,0
+2360,Speaking of Animals and Their Families,1,1
+2361,Yankee Doodle Mouse,1,1
+2362,General Spanky,1,0
+2363,The Singing Nun,1,0
+2364,You're a Sweetheart,1,0
+2365,Thunderbolt,1,0
+2366,Moonbird,1,1
+2367,Closed Mondays,1,1
+2368,Angel and Big Joe,1,1
+2369,Le Maillon et la Chaine (The Link and the Chain),1,0
+2370,Switzerland,1,0
+2371,Billy the Kid,1,0
+2372,Robin Hood: Prince of Thieves,1,0
+2373,Macario,1,0
+2374,Iraq in Fragments,1,0
+2375,A Cat in Paris,1,0
+2376,Wild Life,1,0
+2377,Predator,1,0
+2378,Senzeni Na? (What Have We Done?),1,0
+2379,Sallah,1,0
+2380,Design for Death,1,1
+2381,Anna & Bella,1,1
+2382,Paul Robeson: Tribute to an Artist,1,1
+2383,Christo's Valley Curtain,1,0
+2384,Enron: The Smartest Guys in the Room,1,0
+2385,The Other Half of the Sky: A China Memoir,1,0
+2386,Amazon,1,0
+2387,Lady of the Tropics,1,0
+2388,The Last King of Scotland,1,1
+2389,Gate of Hell,1,1
+2390,Harry and the Hendersons,1,1
+2391,Missing Link,1,0
+2392,Ted,1,0
+2393,Four Feathers,1,0
+2394,Venus,1,0
+2395,Psychiatric Nursing,1,0
+2396,The Loud Mouth,1,0
+2397,"Hale County This Morning, This Evening",1,0
+2398,Dillinger,1,0
+2399,Kenji Comes Home,1,0
+2400,Commandos Strike at Dawn,1,0
+2401,Angels and Insects,1,0
+2402,Torch Song,1,0
+2403,Moonrise Kingdom,1,0
+2404,Winter on Fire: Ukraine's Fight for Freedom,1,0
+2405,Task Force,1,0
+2406,Iron Man 2,1,0
+2407,Salt,1,0
+2408,Somebody Waiting,1,0
+2409,The Valiant,1,0
+2410,Papillon,1,0
+2411,The Solar Film,1,0
+2412,Northwest Passage,1,0
+2413,Nightlife,1,0
+2414,tom thumb,1,1
+2415,Beaches,1,0
+2416,No End in Sight,1,0
+2417,The Ox,1,0
+2418,Big Fish,1,0
+2419,"Birds Do It, Bees Do It",1,0
+2420,Swing Shift,1,0
+2421,A Greek Tragedy,1,1
+2422,The Red Danube,1,0
+2423,The Saviour,1,0
+2424,Obsession,1,0
+2425,The Neighbors' Window,1,1
+2426,White Bim Black Ear,1,0
+2427,Calgary Stampede,1,0
+2428,Kiss Me Kate,1,0
+2429,Dear Basketball,1,1
+2430,Knives Out,1,0
+2431,John Henry and the Inky Poo,1,0
+2432,Take the High Ground,1,0
+2433,Tabasco Road,1,0
+2434,Orchestra Wives,1,0
+2435,Tell the Truth and Run: George Seldes and the American Press,1,0
+2436,Avant Que De Tout Perdre (Just before Losing Everything),1,0
+2437,Fauve,1,0
+2438,Joyeux Noël,1,0
+2439,Romance of Radium,1,0
+2440,The Four Poster,1,0
+2441,Revanche,1,0
+2442,Under Fire,1,0
+2443,Sunbonnet Sue,1,0
+2444,The Private Life of the Gannets,1,1
+2445,A Time to Love and a Time to Die,1,0
+2446,Mandragola,1,0
+2447,I Dream Too Much,1,0
+2448,Ferdinand,1,0
+2449,Hi Diddle Diddle,1,0
+2450,The Family That Dwelt Apart,1,0
+2451,The Hasty Heart,1,0
+2452,I Am Not Your Negro,1,0
+2453,Raven's End,1,0
+2454,Silent Village,1,0
+2455,Dragonheart,1,0
+2456,The Fantastic Flying Books of Mr. Morris Lessmore,1,1
+2457,Loving,1,0
+2458,Yad Vashem: Preserving the Past to Ensure the Future,1,0
+2459,Dawn Flight,1,0
+2460,The Man Who Wasn't There,1,0
+2461,Blitz Wolf,1,0
+2462,The Dizzy Acrobat,1,0
+2463,Squires of San Quentin,1,0
+2464,Five Star Final,1,0
+2465,Trainspotting,1,0
+2466,Overnight Sensation,1,0
+2467,Swanee River,1,0
+2468,The Pink Phink,1,1
+2469,"Edison, the Man",1,0
+2470,The Mask,1,0
+2471,Plan for Destruction,1,0
+2472,The Maids of Wilko,1,0
+2473,Kind Lady,1,0
+2474,Little Voice,1,0
+2475,A City Decides,1,0
+2476,Saratoga Trunk,1,0
+2477,Karama Has No Walls,1,0
+2478,Ajami,1,0
+2479,The Town,1,0
+2480,Hollywood Revue,1,0
+2481,The Tempest,1,0
+2482,Climbing the Matterhorn,1,1
+2483,Desert Victory,1,1
+2484,Daybreak in Udi,1,1
+2485,The Formula,1,0
+2486,One True Thing,1,0
+2487,Gopher Broke,1,0
+2488,McCabe & Mrs. Miller,1,0
+2489,Why Can't We Be a Family Again?,1,0
+2490,The Tanks Are Coming,1,0
+2491,The Passover Plot,1,0
+2492,Oisin,1,0
+2493,Gadgets Galore,1,0
+2494,The Captain's Paradise,1,0
+2495,Victor,1,0
+2496,Anna Christie;,1,0
+2497,Christopher Robin,1,0
+2498,CitizenFour,1,1
+2499,The Battle of the Bulge...The Brave Rifles,1,0
+2500,I Love You Rosa,1,0
+2501,Quest for Fire,1,1
+2502,The Tin Star,1,0
+2503,Artists and Models,1,0
+2504,The Bridges of Madison County,1,0
+2505,Generation on the Wind,1,0
+2506,20 Feet from Stardom,1,1
+2507,Y Tu Mamá También,1,0
+2508,A Story of Healing,1,1
+2509,Annie Was a Wonder,1,0
+2510,Transatlantic,1,1
+2511,Eastern Promises,1,0
+2512,Nefta Football Club,1,0
+2513,Chile: Hasta Cuando?,1,0
+2514,Why Man Creates,1,1
+2515,Father and Daughter,1,1
+2516,Russian Soil,1,0
+2517,The Sea Wolf,1,0
+2518,End Game,1,0
+2519,"One Potato, Two Potato",1,0
+2520,The Man Who Planted Trees,1,1
+2521,Tanks a Million,1,0
+2522,To the Shores of Iwo Jima,1,0
+2523,The Last Metro,1,0
+2524,Ferry Tales,1,0
+2525,Hoop Dreams,1,0
+2526,Facing Your Danger,1,1
+2527,The Story of Three Loves,1,0
+2528,Mandela,1,0
+2529,Typhoon,1,0
+2530,Bang the Drum Slowly,1,0
+2531,The Silent Child,1,1
+2532,Screen Play,1,0
+2533,Il Divo,1,0
+2534,A Morning Stroll,1,0
+2535,Freeheld,1,1
+2536,Coquette,1,1
+2537,Waste Land,1,0
+2538,Revolting Rhymes,1,0
+2539,A Preferred List,1,0
+2540,Head over Heels,1,0
+2541,Heart to Heart,1,0
+2542,Last Days in Vietnam,1,0
+2543,Speedy Gonzales,1,1
+2544,The Racket,1,0
+2545,Black Sheep,1,0
+2546,The Restless Conscience,1,0
+2547,Close to Eden,1,0
+2548,Pieces of Dreams,1,0
+2549,"Lambert, the Sheepish Lion",1,0
+2550,The Big Story,1,0
+2551,Bagdad Cafe,1,0
+2552,Operator 13,1,0
+2553,The Story of Adele H.,1,0
+2554,Troublesome Creek: A Midwestern,1,0
+2555,Home in Indiana,1,0
+2556,"Chau, beyond the Lines",1,0
+2557,Death on the Job,1,0
+2558,The Strange Love of Martha Ivers,1,0
+2559,Marvel's The Avengers,1,0
+2560,Voyage to Next,1,0
+2561,13 Hours: The Secret Soldiers of Benghazi,1,0
+2562,The Sandpiper,1,1
+2563,The Strauss Fantasy,1,0
+2564,Ben's Mill,1,0
+2565,Morning Glory,1,1
+2566,The Shootist,1,0
+2567,Mama Turns a Hundred,1,0
+2568,Gattaca,1,0
+2569,A Portrait of Giselle,1,0
+2570,Panic in the Streets,1,1
+2571,It's Good to Talk,1,0
+2572,Kenojuak,1,0
+2573,Kwaidan,1,0
+2574,The Fifth Element,1,0
+2575,Wee Water Wonders,1,0
+2576,Berkeley in the Sixties,1,0
+2577,Mother Goose Goes Hollywood,1,0
+2578,The Bigger Picture,1,0
+2579,No Man's Land,1,1
+2580,Song of the Flame,1,0
+2581,The White Helmets,1,1
+2582,Partners,1,0
+2583,Papa's Delicate Condition,1,1
+2584,Snows of Aorangi,1,0
+2585,Frenchman's Creek,1,1
+2586,"De Tripas, Corazon",1,0
+2587,The Broken Circle Breakdown,1,0
+2588,Gold Diggers of 1933,1,0
+2589,Bless the Beasts & Children,1,0
+2590,Drag;,1,0
+2591,If You Love This Planet,1,1
+2592,The Long Way Home,1,1
+2593,The Man Who Skied down Everest,1,1
+2594,Pharaoh,1,0
+2595,Of Pups and Puzzles,1,1
+2596,Number One,1,0
+2597,Most (The Bridge),1,0
+2598,Animal Behaviour,1,0
+2599,Valiant Is the Word for Carrie,1,0
+2600,The Sea,1,0
+2601,The Two Mouseketeers,1,1
+2602,The Devil Pays Off,1,0
+2603,The Last Temptation of Christ,1,0
+2604,The Secret of Kells,1,0
+2605,House on Telegraph Hill,1,0
+2606,Skylark,1,0
+2607,Syrup,1,0
+2608,Otello,1,0
+2609,Liberators: Fighting on Two Fronts in World War II,1,0
+2610,The Great Beauty,1,1
+2611,The Baby Maker,1,0
+2612,The Cop;,1,0
+2613,The Boat Is Full,1,0
+2614,Captain from Castile,1,0
+2615,Private Life,1,0
+2616,Sing!,1,0
+2617,Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade,1,0
+2618,Strings,1,0
+2619,Luther Metke at 94,1,0
+2620,Fate Is the Hunter,1,0
+2621,Children of Nature,1,0
+2622,Birds Anonymous,1,1
+2623,The Other Side of Midnight,1,0
+2624,The Pink Panther Strikes Again,1,0
+2625,French Roast,1,0
+2626,The Sting II,1,0
+2627,The Corsican Brothers,1,0
+2628,My Uncle,1,1
+2629,These Three,1,0
+2630,La Salla,1,0
+2631,The Spirit of America,1,0
+2632,Lend a Paw,1,1
+2633,Fifty Percent Grey,1,0
+2634,Arturo Toscanini,1,0
+2635,Before the Rain,1,0
+2636,Torpedo Run,1,0
+2637,Rooty Toot Toot,1,0
+2638,Gone Girl,1,0
+2639,The Morning Spider,1,0
+2640,Chances Are,1,0
+2641,Young at Heart,1,1
+2642,Paramount News Issue #37 (Twentieth Anniversary Issue!  1927.....1947),1,0
+2643,One Fine Day,1,0
+2644,Still Alice,1,1
+2645,Innerspace,1,1
+2646,One Way Passage,1,1
+2647,Captain Eddie,1,0
+2648,Secrets of the Heart,1,0
+2649,Come Fill the Cup,1,0
+2650,Brave,1,1
+2651,"The Running, Jumping and Standing-Still Film",1,0
+2652,Metropolitan,1,0
+2653,Islands of the Sea,1,0
+2654,Man of a Thousand Faces,1,0
+2655,The Amityville Horror,1,0
+2656,Main Street on the March!,1,1
+2657,Tomorrow We Fly,1,0
+2658,"What Next, Corporal Hargrove?",1,0
+2659,War Photographer,1,0
+2660,"$1,000 a Minute",1,0
+2661,The Hunt,1,0
+2662,Brubaker,1,0
+2663,Incendiary Blonde,1,0
+2664,Breakthrough,1,0
+2665,One from the Heart,1,0
+2666,Who's Who in Animal Land,1,1
+2667,Diary of a Mad Housewife,1,0
+2668,The Lady in Number 6: Music Saved My Life,1,1
+2669,The World Is Rich,1,0
+2670,Here Comes the Navy,1,0
+2671,Death on the Nile,1,1
+2672,Come Blow Your Horn,1,0
+2673,Waltz with Bashir,1,0
+2674,The Devil's Holiday,1,0
+2675,The House of the Seven Gables,1,0
+2676,The Unseen,1,0
+2677,The Last Farm,1,0
+2678,Mike's New Car,1,0
+2679,Marshall,1,0
+2680,The Little Witch,1,0
+2681,The Great War,1,0
+2682,The Adventures of Tintin,1,0
+2683,Shok,1,0
+2684,The Visitor,1,0
+2685,God of Love,1,1
+2686,Racing Extinction,1,0
+2687,Our Time Is Up,1,0
+2688,Young Americans,1,0
+2689,The Magic of Lassie,1,0
+2690,Churchill's Island,1,1
+2691,The Baader Meinhof Complex,1,0
+2692,Wings over Honolulu,1,0
+2693,Triangle,1,0
+2694,City of Gold,1,0
+2695,King of the Zombies,1,0
+2696,He Makes Me Feel Like Dancin',1,1
+2697,Hunger,1,0
+2698,Operation Vittles,1,0
+2699,Gregor's Greatest Invention,1,0
+2700,The Secret Land,1,1
+2701,Technological Threat,1,0
+2702,Vanilla Sky,1,0
+2703,Joe,1,0
+2704,Johann Mouse,1,1
+2705,It Should Happen to You,1,0
+2706,Million Dollar Mermaid,1,0
+2707,Election Night (Valgaften),1,1
+2708,Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott,1,0
+2709,Sun Come Up,1,0
+2710,No Hunting,1,0
+2711,Street Angel,1,0
+2712,Watu Wote/All of Us,1,0
+2713,After the Thin Man,1,0
+2714,Fight Club,1,0
+2715,The Luck of the Irish,1,0
+2716,First Winter,1,0
+2717,The Star Maker,1,0
+2718,Badgered,1,0
+2719,Life,1,0
+2720,"Africa, Prelude to Victory",1,0
+2721,Trader Horn,1,0
+2722,The End of the Game,1,1
+2723,Servant of a Nation,1,0
+2724,Background,1,0
+2725,"Oh Brother, My Brother",1,0
+2726,"What, No Men!",1,0
+2727,Ad Astra,1,0
+2728,The Ides of March,1,0
+2729,Jimmy the C,1,0
+2730,Shenandoah,1,0
+2731,Strong Island,1,0
+2732,The Klan: A Legacy of Hate in America,1,0
+2733,Operation Petticoat,1,0
+2734,The Constant Nymph,1,0
+2735,A Night at the Movies,1,0
+2736,The Rising Tide,1,0
+2737,Borrowed Time,1,0
+2738,Timbuktu,1,0
+2739,Best Friends,1,0
+2740,Humoresque,1,0
+2741,A Grand Day Out,1,0
+2742,The Children of Theatre Street,1,0
+2743,Incident in New Baghdad,1,0
+2744,The Squid and the Whale,1,0
+2745,The Big Snit,1,0
+2746,Sinbad the Sailor,1,0
+2747,Dcera (Daughter),1,0
+2748,Sarah and Son,1,0
+2749,Breaking the Waves,1,0
+2750,Barefoot in the Park,1,0
+2751,Bride of Frankenstein,1,0
+2752,A Beautiful Day in the Neighborhood,1,0
+2753,Ice Age,1,0
+2754,The Field,1,0
+2755,I Never Promised You a Rose Garden,1,0
+2756,Stand and Deliver,1,0
+2757,Smokey and the Bandit,1,0
+2758,Bridge of Time,1,0
+2759,Son of Paleface,1,0
+2760,The Fox,1,0
+2761,Eskimo,1,1
+2762,Alice's Restaurant,1,0
+2763,Marathon Man,1,0
+2764,Pride of the Marines,1,0
+2765,The Swarm,1,0
+2766,Second Fiddle,1,0
+2767,Meet the Parents,1,0
+2768,The Painted Door,1,0
+2769,The Cell,1,0
+2770,Earl Carroll Vanities,1,0
+2771,Prison Terminal: The Last Days of Private Jack Hall,1,0
+2772,The Milagro Beanfield War,1,1
+2773,Rip Van Winkle,1,0
+2774,Nails,1,0
+2775,Toni Erdmann,1,0
+2776,Visas and Virtue,1,1
+2777,Searching for Bobby Fischer,1,0
+2778,Love Me Forever,1,0
+2779,Kung Fu Panda,1,0
+2780,Kick Me,1,0
+2781,Allied,1,0
+2782,Four Devils;,1,0
+2783,For All Mankind,1,0
+2784,Caravan,1,0
+2785,Nelly's Folly,1,0
+2786,Treasure Planet,1,0
+2787,Recycled Life,1,0
+2788,Knickerbocker Holiday,1,0
+2789,Nibbles,1,0
+2790,"Oh, God!",1,0
+2791,A Jury of Her Peers,1,0
+2792,Letters from Marusia,1,0
+2793,Sunrise over Tiananmen Square,1,0
+2794,"Stop, Look and Listen",1,0
+2795,Geri's Game,1,1
+2796,Goodie-Two-Shoes,1,0
+2797,A Hatful of Rain,1,0
+2798,From A to Z-Z-Z-Z,1,0
+2799,Children Without,1,0
+2800,The Shadow of Hate,1,0
+2801,Nightcrawler,1,0
+2802,The Affairs of Susan,1,0
+2803,Autism Is a World,1,0
+2804,Breaking the Habit,1,0
+2805,"My Family, Mi Familia",1,0
+2806,Maverick,1,0
+2807,The Hot Rock,1,0
+2808,They Planted a Stone,1,0
+2809,Gagarin,1,0
+2810,Munro,1,1
+2811,The Day of the Jackal,1,0
+2812,The Man Who Walked Alone,1,0
+2813,Down on the Waterfront,1,0
+2814,Hank Aaron: Chasing the Dream,1,0
+2815,Fifty Shades of Grey,1,0
+2816,Balalaika,1,0
+2817,Down on the Farm,1,0
+2818,Elle,1,0
+2819,The House without a Name,1,0
+2820,Toy Story 2,1,0
+2821,Trouble Indemnity,1,0
+2822,Number Our Days,1,1
+2823,The Pointer,1,0
+2824,Battle Cry,1,0
+2825,Girls' School,1,0
+2826,Moon Rockets,1,0
+2827,Just Another Missing Kid,1,1
+2828,Bachelor Mother,1,0
+2829,Get Out Your Handkerchiefs,1,1
+2830,The Crusades,1,0
+2831,The Perils of Pauline,1,0
+2832,Our Very Own,1,0
+2833,Captain Kidd,1,0
+2834,Fight of the Wild Stallions,1,0
+2835,The Yellow Star - The Persecution of the Jews in Europe 1933-45,1,0
+2836,Wall Street,1,1
+2837,Blues Highway,1,0
+2838,The Lady Objects,1,0
+2839,Mandela: Long Walk to Freedom,1,0
+2840,Vitelloni,1,0
+2841,One Who Came Back,1,0
+2842,The Last Campaign of Governor Booth Gardner,1,0
+2843,Saturday Night Fever,1,0
+2844,Princess O'Rourke,1,1
+2845,Sister Kenny,1,0
+2846,By Courier,1,0
+2847,Bombalera,1,0
+2848,Cosmic Voyage,1,0
+2849,The Voorman Problem,1,0
+2850,My Sister Eileen,1,0
+2851,The Paradine Case,1,0
+2852,Beetlejuice,1,1
+2853,Radio Bikini,1,0
+2854,Grandad of Races,1,1
+2855,Batman,1,1
+2856,Jesus Christ Superstar,1,0
+2857,Kinsey,1,0
+2858,Paix Sur Les Champs,1,0
+2859,Beep Prepared,1,0
+2860,Mephisto,1,1
+2861,Busy Little Bears,1,1
+2862,Ride the Pink Horse,1,0
+2863,My Beautiful Laundrette,1,0
+2864,A Funny Thing Happened on the Way to the Forum,1,1
+2865,The Man on Lincoln's Nose,1,0
+2866,The Entertainer,1,0
+2867,The Taste of Others,1,0
+2868,Bugsy Malone,1,0
+2869,The Janitor,1,0
+2870,The Sand Castle,1,1
+2871,Mohammad - Messenger of God,1,0
+2872,Marjorie Morningstar,1,0
+2873,Arthur and Lillie,1,0
+2874,Gigot,1,0
+2875,Mural on Our Street,1,0
+2876,College Queen,1,0
+2877,The Birds,1,0
+2878,The Life and Times of Judge Roy Bean,1,0
+2879,The Missing Picture,1,0
+2880,Von Ryan's Express,1,0
+2881,Marguerite,1,0
+2882,Goodnight Miss Ann,1,0
+2883,The Deluge,1,0
+2884,Silver Streak,1,0
+2885,The Stratton Story,1,1
+2886,Down and Out in America,1,1
+2887,Facing Fear,1,0
+2888,Three Russian Girls,1,0
+2889,The Young Land,1,0
+2890,Wild Tales,1,0
+2891,The Silence,1,0
+2892,Desert Wonderland,1,0
+2893,Mulholland Drive,1,0
+2894,The Mysterious Geographic Explorations of Jasper Morello,1,0
+2895,Brave Little Tailor,1,0
+2896,The Colours of My Father: A Portrait of Sam Borenstein,1,0
+2897,The Children of Leningradsky,1,0
+2898,Rooftops of New York,1,0
+2899,The Hellstrom Chronicle,1,1
+2900,The Scoundrel,1,1
+2901,Blake,1,0
+2902,Combat Report,1,0
+2903,August Rush,1,0
+2904,Sisyphus,1,0
+2905,Sorrell and Son,1,0
+2906,Sticky My Fingers...Fleet My Feet,1,0
+2907,In the Name of the People,1,0
+2908,The Other Side of the Mountain,1,0
+2909,Las Vegas Nights,1,0
+2910,The Go-Between,1,0
+2911,Six-Sided Triangle,1,0
+2912,Go for Broke!,1,0
+2913,Deliver Us from Evil,1,0
+2914,Animal Kingdom,1,0
+2915,Banning,1,0
+2916,Three Little Words,1,0
+2917,Bear Story,1,1
+2918,Stuart Little,1,0
+2919,The Eruption of Mount St. Helens,1,0
+2920,To Die in Madrid,1,0
+2921,Amphibious Fighters,1,1
+2922,Placido,1,0
+2923,Tender Is the Night,1,0
+2924,Casino Royale,1,0
+2925,Music in Manhattan,1,0
+2926,Swiss Family Robinson,1,0
+2927,The Death of Kevin Carter: Casualty of the Bang Bang Club,1,0
+2928,Shoe-Shine,1,0
+2929,King of Jazz,1,1
+2930,The Best Little Whorehouse in Texas,1,0
+2931,Blue Velvet,1,0
+2932,Joy,1,0
+2933,Creed,1,0
+2934,The Invisible Man Returns,1,0
+2935,Evil,1,0
+2936,Chimps: So Like Us,1,0
+2937,Turkey the Bridge,1,0
+2938,It Started with Eve,1,0
+2939,Ernest & Celestine,1,0
+2940,Endless Love,1,0
+2941,The End of the Road,1,0
+2942,God Is the Bigger Elvis,1,0
+2943,Dancing Pirate,1,0
+2944,Speaking in Strings,1,0
+2945,Loveless,1,0
+2946,World of Kids,1,1
+2947,Crack USA: County under Siege,1,0
+2948,The Barber of Birmingham: Foot Soldier of the Civil Rights Movement,1,0
+2949,A War,1,0
+2950,The Mikado,1,0
+2951,Kill or Be Killed,1,0
+2952,The Cave,1,0
+2953,On the Twelfth Day...,1,0
+2954,The Adventures of Tom Sawyer,1,0
+2955,Bus Stop,1,0
+2956,Valley of the Dolls,1,0
+2957,Tanna,1,0
+2958,Electra,1,0
+2959,More,1,0
+2960,"One, Two, Three",1,0
+2961,Babette's Feast,1,1
+2962,Diamonds Are Forever,1,0
+2963,Cats' Play,1,0
+2964,A Little Vicious,1,0
+2965,Small Talk,1,0
+2966,Hellzapoppin',1,0
+2967,Tanghi Argentini,1,0
+2968,The Nights of Cabiria,1,1
+2969,Heavenly Music,1,1
+2970,Hercules,1,0
+2971,The Story of the Weeping Camel,1,0
+2972,The Legend of Jimmy Blue Eyes,1,0
+2973,Blindscape,1,0
+2974,Margin Call,1,0
+2975,Topper Takes a Trip,1,0
+2976,The Rains of Ranchipur,1,0
+2977,The Sign of the Cross,1,0
+2978,The Johnstown Flood,1,1
+2979,Roommates,1,0
+2980,Minority Report,1,0
+2981,The Fall of the Roman Empire,1,0
+2982,Bullhead,1,0
+2983,Benjy,1,1
+2984,Song of the Sea,1,0
+2985,Gravity Is My Enemy,1,1
+2986,The Sessions,1,0
+2987,Survival City,1,1
+2988,Wild Strawberries,1,0
+2989,The Dutch Tradition,1,0
+2990,Rob Roy,1,0
+2991,Roberta,1,0
+2992,Secret Command,1,0
+2993,When Willie Comes Marching Home,1,0
+2994,For Your Eyes Only,1,0
+2995,Of Human Bondage,1,0
+2996,Siam,1,0
+2997,A Long Way from Nowhere,1,0
+2998,Wells Fargo,1,0
+2999,Match Point,1,0
+3000,Redux Riding Hood,1,0
+3001,Educated Fish,1,0
+3002,Three Kisses,1,0
+3003,The Mummy,1,0
+3004,Carnal Knowledge,1,0
+3005,Promises to Keep,1,0
+3006,El Salvador: Another Vietnam,1,0
+3007,Molly's Pilgrim,1,1
+3008,The Canterbury Tales,1,0
+3009,Dune,1,0
+3010,Poetic Justice,1,0
+3011,The Legend of Rock-a-bye Point,1,0
+3012,Day One,1,0
+3013,The Case of Sergeant Grischa,1,0
+3014,A King's Story,1,0
+3015,Small Town Girl,1,0
+3016,The Truce,1,0
+3017,12:01 PM,1,0
+3018,Life Overtakes Me,1,0
+3019,Hunky and Spunky,1,0
+3020,Moonrise,1,0
+3021,Union Maids,1,0
+3022,When Marnie Was There,1,0
+3023,The Europeans,1,0
+3024,On the Town,1,1
+3025,To Be Alive!,1,1
+3026,Dirty Dancing,1,1
+3027,It's Everybody's War,1,0
+3028,The Great Cognito,1,0
+3029,War Witch,1,0
+3030,Wartime Romance,1,0
+3031,Portugal,1,0
+3032,She Married a Cop,1,0
+3033,Tropic Holiday,1,0
+3034,For Sama,1,0
+3035,Meet John Doe,1,0
+3036,"Krakatoa, East of Java",1,0
+3037,Piper,1,1
+3038,Manson,1,0
+3039,That Mothers Might Live,1,1
+3040,The Face of Jesus,1,0
+3041,Bird,1,1
+3042,Helicopter Canada,1,0
+3043,Three Is a Family,1,0
+3044,The Jaywalker,1,0
+3045,The Breadwinner,1,0
+3046,The Hawaiians,1,0
+3047,Making Overtures--The Story of a Community Orchestra,1,0
+3048,The Legend of John Henry,1,0
+3049,El Norte,1,0
+3050,Sagebrush and Silver,1,0
+3051,My Geisha,1,0
+3052,The Member of the Wedding,1,0
+3053,Flamenco at 5:15,1,1
+3054,The Critic,1,1
+3055,On Any Sunday,1,0
+3056,Half Nelson,1,0
+3057,Hedd Wyn,1,0
+3058,The Dove,1,0
+3059,Prelude,1,0
+3060,Jesus of Montreal,1,0
+3061,Little Caesar,1,0
+3062,Pretty Baby,1,0
+3063,Jammin' the Blues,1,0
+3064,Somewhere in Time,1,0
+3065,Harvest,1,0
+3066,"Rich, Young and Pretty",1,0
+3067,Against All Odds,1,0
+3068,A Gathering of Eagles,1,0
+3069,The Last Truck: Closing of a GM Plant,1,0
+3070,"Edward, My Son",1,0
+3071,Chernobyl Heart,1,1
+3072,Clay or The Origin of Species,1,0
+3073,With the Marines at Tarawa,1,1
+3074,The Conformist,1,0
+3075,Life at the Zoo,1,0
+3076,Maleficent: Mistress of Evil,1,0
+3077,Love Field,1,0
+3078,Krakatoa,1,1
+3079,Under the Sun,1,0
+3080,Sis Hopkins,1,0
+3081,"Hail, Caesar!",1,0
+3082,So You Think You're Not Guilty,1,0
+3083,The RA Expeditions,1,0
+3084,Witness to War: Dr. Charlie Clements,1,1
+3085,"Brooklyn, U.S.A.",1,0
+3086,Whale Rider,1,0
+3087,Le Plaisir,1,0
+3088,Fighting for Our Lives,1,0
+3089,Salim Baba,1,0
+3090,The ChubbChubbs!,1,1
+3091,All the Brothers Were Valiant,1,0
+3092,Holiday Land,1,0
+3093,Promises,1,0
+3094,Sunny,1,0
+3095,The Caretakers,1,0
+3096,Culture,1,0
+3097,Thanks a Million,1,0
+3098,How War Came,1,0
+3099,Keats and His Nightingale: A Blind Date,1,0
+3100,A Voice Is Born: The Story of Niklos Gafni,1,0
+3101,Doing Time: Life inside the Big House,1,0
+3102,About a Boy,1,0
+3103,Doctor Strange,1,0
+3104,The Whisperers,1,0
+3105,Don't Tell,1,0
+3106,Pigs Is Pigs,1,0
+3107,Defiance,1,0
+3108,Donald's Crime,1,0
+3109,Bitter Rice,1,0
+3110,The Nightmare before Christmas,1,0
+3111,When Dinosaurs Ruled the Earth,1,0
+3112,Tropic Thunder,1,0
+3113,K-Z,1,0
+3114,Dancemaker,1,0
+3115,Debonair Dancers,1,0
+3116,In Old Arizona;,1,0
+3117,Whistling Smith,1,0
+3118,Loves of a Blonde,1,0
+3119,Mongol,1,0
+3120,Mirai,1,0
+3121,Frances Steloff: Memoirs of a Bookseller,1,0
+3122,The Great Muppet Caper,1,0
+3123,Tarzan,1,1
+3124,Ralph Breaks the Internet,1,0
+3125,Crazylegs,1,0
+3126,New Boy,1,0
+3127,"Two Cars, One Night",1,0
+3128,Breaker Morant,1,0
+3129,Traffic Stop,1,0
+3130,Time Freak,1,0
+3131,Beginners,1,1
+3132,Naked Yoga,1,0
+3133,"Touché, Pussy Cat",1,0
+3134,Learning to Skateboard in a Warzone (If You're a Girl),1,1
+3135,The Enchanted Cottage,1,0
+3136,Murder on a Sunday Morning,1,1
+3137,When Harry Met Sally...,1,0
+3138,Robin Hood,1,0
+3139,Asad,1,0
+3140,First Edition,1,0
+3141,Unchained,1,0
+3142,Chagall,1,1
+3143,Romancing the Stone,1,0
+3144,Up Close and Personal,1,0
+3145,Bicentennial Man,1,0
+3146,Sorcerer,1,0
+3147,Le Mozart des Pickpockets (The Mozart of Pickpockets),1,1
+3148,The Furies,1,0
+3149,Music for the Movies: Bernard Herrmann,1,0
+3150,The Salt of the Earth,1,0
+3151,Scratch-As-Catch-Can,1,0
+3152,Movie Pests,1,0
+3153,The Earrings of Madame de...,1,0
+3154,"Give 'em Hell, Harry!",1,0
+3155,Green Card,1,0
+3156,The Book Thief,1,0
+3157,Prisoner of Paradise,1,0
+3158,Las Madres--The Mothers of Plaza de Mayo,1,0
+3159,George Grosz' Interregnum,1,0
+3160,Music Box,1,0
+3161,The Selfish Giant,1,0
+3162,George Washington Slept Here,1,0
+3163,Frog Story,1,0
+3164,Star Wars: Episode III Revenge of the Sith,1,0
+3165,Joanna,1,0
+3166,Cutie and the Boxer,1,0
+3167,Thar She Blows!,1,0
+3168,Singing Guns,1,0
+3169,Burnt by the Sun,1,1
+3170,Wrong Way Butch,1,0
+3171,No Time for Nuts,1,0
+3172,The Creation,1,0
+3173,The Molly Maguires,1,0
+3174,Même les Pigeons Vont au Paradis (Even Pigeons Go to Heaven),1,0
+3175,Days of Waiting,1,1
+3176,Closely Watched Trains,1,1
+3177,Eraser,1,0
+3178,Tumbleweeds,1,0
+3179,Canhead,1,0
+3180,Home-Made Car,1,0
+3181,Dangerous,1,1
+3182,Edith+Eddie,1,0
+3183,The V.I.P.s,1,1
+3184,Daylight,1,0
+3185,Of Human Hearts,1,0
+3186,Binta and the Great Idea (Binta Y La Gran Idea),1,0
+3187,We Refuse to Die,1,0
+3188,Angela's Ashes,1,0
+3189,Breaking the Language Barrier,1,0
+3190,Legacy,1,0
+3191,The Violin,1,0
+3192,Guest in the House,1,0
+3193,Drive,1,0
+3194,Swedes in America,1,0
+3195,Sandy Claws,1,0
+3196,Golden Boy,1,0
+3197,The Navy Comes Through,1,0
+3198,Taxi to the Dark Side,1,1
+3199,Longtime Companion,1,0
+3200,Going Places,1,0
+3201,The Monk and the Fish,1,0
+3202,Purple Rain,1,1
+3203,An Essay on Matisse,1,0
+3204,Phantom of the Paradise,1,0
+3205,Music for Millions,1,0
+3206,Hatari!,1,0
+3207,Tortilla Flat,1,0
+3208,The Bachelor Party,1,0
+3209,At Night,1,0
+3210,The Spirit of St. Louis,1,0
+3211,Robin Hoodlum,1,0
+3212,Ice Castles,1,0
+3213,Deconstructing Harry,1,0
+3214,Double or Nothing,1,0
+3215,Christ among the Primitives,1,0
+3216,On the Bowery,1,0
+3217,Herb Alpert and the Tijuana Brass Double Feature,1,1
+3218,Seven Thieves,1,0
+3219,Big City Blues,1,0
+3220,The First Piano Quartette,1,0
+3221,5 Broken Cameras,1,0
+3222,The Spoilers,1,0
+3223,The Revolving Door,1,0
+3224,Monster House,1,0
+3225,Monsieur Verdoux,1,0
+3226,Amy,1,1
+3227,Kings of the Turf,1,0
+3228,Chang,1,0
+3229,The Doorway to Hell,1,0
+3230,Sweet and Low-Down,1,0
+3231,Complaints of a Dutiful Daughter,1,0
+3232,Oh My Darling,1,0
+3233,Bells Are Ringing,1,0
+3234,Dangerous Moves,1,1
+3235,The Killing Ground,1,0
+3236,Casanova '70,1,0
+3237,No Sad Songs for Me,1,0
+3238,Anonymous,1,0
+3239,Self Defense--For Cowards,1,0
+3240,Night and Day,1,0
+3241,Caravans,1,0
+3242,Camille,1,0
+3243,Defending Our Lives,1,1
+3244,Teresa,1,0
+3245,The Naked Prey,1,0
+3246,Transformers: Revenge of the Fallen,1,0
+3247,Wild in the Streets,1,0
+3248,Women at War,1,0
+3249,The Enemy Below,1,1
+3250,Helium,1,1
+3251,It's Tough to Be a Bird,1,1
+3252,La Luna,1,0
+3253,Willy Wonka and the Chocolate Factory,1,0
+3254,Snow,1,0
+3255,Click,1,0
+3256,Ferdinand the Bull,1,1
+3257,All Is Lost,1,0
+3258,Rabbit à la Berlin,1,0
+3259,Soldiers in Hiding,1,0
+3260,Speedy,1,0
+3261,Mr. Dodd Takes the Air,1,0
+3262,13th,1,0
+3263,Princeton: A Search for Answers,1,1
+3264,White Rhapsody,1,0
+3265,In Bruges,1,0
+3266,Affair in Trinidad,1,0
+3267,Stutterer,1,1
+3268,Young Guns II,1,0
+3269,Serengeti Shall Not Die,1,1
+3270,The Danish Poet,1,1
+3271,The Judge,1,0
+3272,The Man Who Knew Too Much,1,1
+3273,Kama Sutra Rides Again,1,0
+3274,A Boy Named Charlie Brown,1,0
+3275,Los Tarantos,1,0
+3276,Sweet Dreams,1,0
+3277,Tup Tup,1,0
+3278,Swingtime in the Movies,1,0
+3279,What's the Matter with Helen?,1,0
+3280,Every Day's a Holiday,1,0
+3281,The Damned,1,0
+3282,Beneath the 12-Mile Reef,1,0
+3283,One Man Band,1,0
+3284,First Steps,1,1
+3285,Prince of the City,1,0
+3286,Sam,1,0
+3287,Bright Star,1,0
+3288,Molly's Game,1,0
+3289,Portrait of Imogen,1,0
+3290,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,1,0
+3291,A Space to Grow,1,0
+3292,Walk Run Cha-Cha,1,0
+3293,The Flight of the Gossamer Condor,1,1
+3294,The Mermaid,1,0
+3295,Qivitoq,1,0
+3296,The Alaskan Eskimo,1,1
+3297,Tristana,1,0
+3298,Children of Heaven,1,0
+3299,From Mao to Mozart: Isaac Stern in China,1,1
+3300,Queen Margot,1,0
+3301,A Gun in His Hand,1,0
+3302,Christmas Cracker,1,0
+3303,The New Tenants,1,1
+3304,Open Heart,1,0
+3305,The Spanish Main,1,0
+3306,Anomalisa,1,0
+3307,Step Lively,1,0
+3308,Pulcinella,1,0
+3309,Screen Snapshots' 50th Anniversary of Motion Pictures,1,0
+3310,Leisure,1,1
+3311,"Lacombe, Lucien",1,0
+3312,The Living City,1,0
+3313,Should Wives Work?,1,0
+3314,Wasp,1,1
+3315,Khartoum,1,0
+3316,Footnote,1,0
+3317,Mission to Moscow,1,0
+3318,When Tomorrow Comes,1,1
+3319,Water--Friend or Enemy,1,0
+3320,The Muppets Take Manhattan,1,0
+3321,Surf's Up,1,0
+3322,The Really Big Family,1,0
+3323,Unstrung Heroes,1,0
+3324,Bachelor in Paradise,1,0
+3325,Johnny Flynton,1,0
+3326,Sanjay's Super Team,1,0
+3327,Recollections of Pavlovsk,1,0
+3328,When Life Departs,1,0
+3329,Bridget Jones's Diary,1,0
+3330,The Nutty Professor,1,1
+3331,Adolescence,1,0
+3332,Drunk Driving,1,0
+3333,The Bridge,1,0
+3334,Maya Lin: A Strong Clear Vision,1,1
+3335,Gaby - A True Story,1,0
+3336,I Met the Walrus,1,0
+3337,Dark Eyes,1,0
+3338,I Won't Play,1,1
+3339,Mahogany,1,0
+3340,Miracle Fish,1,0
+3341,Outland,1,0
+3342,Auf der Strecke (On the Line),1,0
+3343,"My Son, My Son!",1,0
+3344,Shanghai Triad,1,0
+3345,The Paleface,1,1
+3346,Ju Dou,1,0
+3347,King Gimp,1,1
+3348,The Day after Trinity,1,0
+3349,Ready Player One,1,0
+3350,Exit through the Gift Shop,1,0
+3351,Off the Edge,1,0
+3352,Shall We Dance,1,0
+3353,My Big Fat Greek Wedding,1,0
+3354,It Started in Naples,1,0
+3355,Maleficent,1,0
+3356,Scared Straight!,1,1
+3357,Chariots of the Gods,1,0
+3358,Karl Hess: Toward Liberty,1,1
+3359,Guest Wife,1,0
+3360,The Olympics in Mexico,1,0
+3361,The Uninvited,1,0
+3362,The Merry Wives of Windsor Overture,1,1
+3363,In Beaver Valley,1,1
+3364,The Bespoke Overcoat,1,1
+3365,Guard Dog,1,0
+3366,A Girl in the River: The Price of Forgiveness,1,1
+3367,The Fighting Seabees,1,0
+3368,Everybody Famous!,1,0
+3369,It Happened on Fifth Avenue,1,0
+3370,The Street,1,0
+3371,Le Volcan Interdit (The Forbidden Volcano),1,0
+3372,The Accused,1,1
+3373,Dear Rosie,1,0
+3374,Strategic Air Command,1,0
+3375,Wild by Law,1,0
+3376,Immortal Love,1,0
+3377,Walls of Fire,1,0
+3378,Runaway Brain,1,0
+3379,The Magnificent Brute,1,0
+3380,The Milky Way,1,1
+3381,Helen Keller in Her Story,1,1
+3382,A Place in the Land,1,0
+3383,"Hiroshima, Mon Amour",1,0
+3384,Thursday's Children,1,1
+3385,American Dream,1,1
+3386,Smart as a Fox,1,0
+3387,Troy,1,0
+3388,The Invisible War,1,0
+3389,The Cat Concerto,1,1
+3390,Vacation from Marriage,1,1
+3391,Pina,1,0
+3392,The Karate Kid Part II,1,0
+3393,Nature's Half Acre,1,1
+3394,The Boss Baby,1,0
+3395,Famous Fred,1,0
+3396,The Best Man,1,0
+3397,Helmer & Son,1,0
+3398,In the Valley of Elah,1,0
+3399,Big Broadcast of 1936;,1,0
+3400,The Living Sea,1,0
+3401,Ruggles of Red Gap,1,0
+3402,Lydia,1,0
+3403,The Stratford Adventure,1,0
+3404,The Florida Project,1,0
+3405,Pete Kelly's Blues,1,0
+3406,Jackass Presents: Bad Grandpa,1,0
+3407,The American President,1,0
+3408,The Pope of Greenwich Village,1,0
+3409,The Big Sick,1,0
+3410,Water,1,0
+3411,You Light Up My Life,1,1
+3412,High Schools,1,0
+3413,(A) Torzija [(A) Torsion],1,0
+3414,The Joker Is Wild,1,1
+3415,Pigs in a Polka,1,0
+3416,Paris 36,1,0
+3417,Koryo Celadon,1,0
+3418,Country Strong,1,0
+3419,Logorama,1,1
+3420,Suicide Squad,1,1
+3421,Il Supplente (The Substitute),1,0
+3422,Two for the Road,1,0
+3423,The Man without a Country,1,0
+3424,Boundin',1,0
+3425,The Jury Goes Round 'N' Round,1,0
+3426,Lady Be Good,1,1
+3427,Silver into Gold,1,0
+3428,The Drag,1,0
+3429,Story of a Dog,1,0
+3430,Man on Wire,1,1
+3431,Anna,1,0
+3432,The Rogue Song,1,0
+3433,The Battle of Midway,1,1
+3434,Eyes of the Navy,1,0
+3435,Inocente,1,1
+3436,Let My People Go,1,0
+3437,On the Ropes,1,0
+3438,Beyond the Line of Duty,1,1
+3439,ParaNorman,1,0
+3440,Throw Momma from the Train,1,0
+3441,Sound of Sunshine - Sound of Rain,1,0
+3442,Irish Eyes Are Smiling,1,0
+3443,Sandakan No. 8,1,0
+3444,Going to Blazes,1,0
+3445,Destination Tokyo,1,0
+3446,Twice in a Lifetime,1,0
+3447,The Barker,1,0
+3448,X-Men: Days of Future Past,1,0
+3449,Always in My Heart,1,0
+3450,Rugged Bear,1,0
+3451,The 81st Blow,1,0
+3452,Spaces: The Architecture of Paul Rudolph,1,0
+3453,Little Isles of Freedom,1,0
+3454,The Three Musketeers,1,0
+3455,Kavi,1,0
+3456,Journey into Medicine,1,0
+3457,Claudelle Inglish,1,0
+3458,Chase of Death,1,0
+3459,Best Boy,1,1
+3460,The Gazebo,1,0
+3461,In the Nuclear Shadow: What Can the Children Tell Us?,1,0
+3462,Happy New Year,1,0
+3463,Four Stones for Kanemitsu,1,0
+3464,The Music Teacher,1,0
+3465,Mercy Island,1,0
+3466,Gerald McBoing-Boing on Planet Moo,1,0
+3467,Twist of Faith,1,0
+3468,Presto,1,0
+3469,Those Magnificent Men in Their Flying Machines,1,0
+3470,Camila,1,0
+3471,Follow the Boys,1,0
+3472,The Criminal Code,1,0
+3473,Goldfinger,1,1
+3474,I Am Love,1,0
+3475,Dr. Jekyll and Mr. Mouse,1,0
+3476,The Caddy,1,0
+3477,Paradise Lost 3: Purgatory,1,0
+3478,In Darkness,1,0
+3479,Topkapi,1,1
+3480,Embrace of the Serpent,1,0
+3481,That Lady in Ermine,1,0
+3482,The Pirates! Band of Misfits,1,0
+3483,Norbit,1,0
+3484,Manon on the Asphalt,1,0
+3485,'Crocodile' Dundee,1,0
+3486,The Medium,1,0
+3487,Sensations of 1945,1,0
+3488,Time Stood Still,1,0
+3489,Marvin's Room,1,0
+3490,Marines in the Making,1,0
+3491,Rise of the Planet of the Apes,1,0
+3492,Knife Skills,1,0
+3493,Children of Paradise,1,0
+3494,City Slickers,1,1
+3495,A Dry White Season,1,0
+3496,What Price Hollywood?,1,0
+3497,Married to the Mob,1,0
+3498,In Harm's Way,1,0
+3499,Smilin' Through,1,0
+3500,So This Is Harris,1,1
+3501,How to Survive a Plague,1,0
+3502,The Tide of Traffic,1,0
+3503,The New Land,1,0
+3504,Gasland,1,0
+3505,Winged Migration,1,0
+3506,House of Flying Daggers,1,0
+3507,Star Trek Beyond,1,0
+3508,Soldiers of the Sky,1,0
+3509,Yojimbo,1,0
+3510,Skaterdater,1,0
+3511,March of the Penguins,1,1
+3512,Two Tickets to Broadway,1,0
+3513,Wrestling Swordfish,1,1
+3514,December 7th,1,1
+3515,Agee,1,0
+3516,Nell,1,0
+3517,West Bank Story,1,1
+3518,Blind Vaysha,1,0
+3519,"Two Days, One Night",1,0
+3520,Cadillac Dreams,1,0
+3521,The Naked Eye,1,0
+3522,"Tall, Dark and Handsome",1,0
+3523,Everything in This Country Must,1,0
+3524,The Magic Flute,1,0
+3525,Penny Serenade,1,0
+3526,Storm over Bengal,1,0
+3527,The Vagabond King,1,0
+3528,The Dutch Master,1,0
+3529,Icarus Montgolfier Wright,1,0
+3530,Das Rad,1,0
+3531,Walky Talky Hawky,1,0
+3532,Cinema Paradiso,1,1
+3533,Forbidden Games,1,0
+3534,The Bible,1,0
+3535,Ersatz (The Substitute),1,1
+3536,The Appointments of Dennis Jennings,1,1
+3537,Varsity Show,1,0
+3538,Rhythm on the River,1,0
+3539,Colors Straight Up,1,0
+3540,Fly Away Home,1,0
+3541,New Americans,1,0
+3542,Balzac,1,0
+3543,Blues in the Night,1,0
+3544,The Doonesbury Special,1,0
+3545,The War Room,1,0
+3546,The Four Musketeers,1,0
+3547,Black Legion,1,0
+3548,The Fighting Lady,1,1
+3549,Saint Matthew Passion,1,0
+3550,On Body and Soul,1,0
+3551,Them!,1,0
+3552,Searching for Sugar Man,1,1
+3553,Boogaloo and Graham,1,0
+3554,Samba-Mania,1,0
+3555,Cashback,1,0
+3556,Three,1,0
+3557,The Chalk Garden,1,0
+3558,Daisy Miller,1,0
+3559,Night Train,1,0
+3560,Designing Woman,1,1
+3561,Joan of Paris,1,0
+3562,Fires of Kuwait,1,0
+3563,Pluto's Blue Note,1,0
+3564,Heartbeeps,1,0
+3565,Sons of Liberty,1,1
+3566,American History X,1,0
+3567,Hester Street,1,0
+3568,Two Arabian Knights,1,1
+3569,The Happiest Millionaire,1,0
+3570,Winnie the Pooh and the Blustery Day,1,1
+3571,Prologue,1,0
+3572,City Out of Wilderness,1,0
+3573,Rose Kennedy: A Life to Remember,1,0
+3574,Mister Mugg,1,0
+3575,Teenage Father,1,1
+3576,Battle of Berlin,1,0
+3577,"Tom, Dick and Harry",1,0
+3578,Tuba Atlantic,1,0
+3579,A Rage to Live,1,0
+3580,The Courage to Care,1,0
+3581,Alsino and the Condor,1,0
+3582,Pirates,1,0
+3583,Little Johnny Jet,1,0
+3584,Bronx Cheers,1,0
+3585,Cavalcade of Dance with Veloz and Yolanda,1,0
+3586,D-Day Remembered,1,0
+3587,Na Wewe,1,0
+3588,The Pig,1,0
+3589,Rainbow War,1,0
+3590,Maria Full of Grace,1,0
+3591,The Ugly Duckling,1,1
+3592,Islands in the Stream,1,0
+3593,Americas in Transition,1,0
+3594,Splash,1,0
+3595,The Truth about Mother Goose,1,0
+3596,Dersu Uzala,1,1
+3597,All Out for 'V',1,0
+3598,Code Gray: Ethical Dilemmas in Nursing,1,0
+3599,Ausreisser (The Runaway),1,0
+3600,Moscow Does Not Believe in Tears,1,1
+3601,Mister Magoo's Puddle Jumper,1,1
+3602,Poster Girl,1,0
+3603,Sicko,1,0
+3604,Jacques-Yves Cousteau's World without Sun,1,1
+3605,89mm od Europy (89mm from Europe),1,0
+3606,"Deadly Deception: General Electric, Nuclear Weapons and Our Environment",1,1
+3607,The Pirate,1,0
+3608,The Collector of Bedford Street,1,0
+3609,A Day in the Life of Bonnie Consolo,1,0
+3610,High Time,1,0
+3611,The Legendary Champions,1,0
+3612,Nurse Edith Cavell,1,0
+3613,The Golden Fish,1,1
+3614,Ridin' the Rails,1,0
+3615,The Desert Rats,1,0
+3616,Lady and Gent,1,0
+3617,Forever Amber,1,0
+3618,The Wrong Trousers,1,1
+3619,Darwin's Nightmare,1,0
+3620,Strange Fruit,1,0
+3621,Dust of Life,1,0
+3622,The Horse with the Flying Tail,1,1
+3623,Desert Killer,1,0
+3624,The Hanging Tree,1,0
+3625,The Cove,1,1
+3626,Operation Homecoming: Writing the Wartime Experience,1,0
+3627,The Pedestrian,1,0
+3628,Moscow Moods,1,0
+3629,Captain Fantastic,1,0
+3630,Between the Tides,1,0
+3631,O.J.: Made in America,1,1
+3632,Unfaithful,1,0
+3633,This Woman Is Mine,1,0
+3634,Fire at Sea,1,0
+3635,Champagne for Two,1,0
+3636,Dolphins,1,0
+3637,The Woman in the Window,1,0
+3638,Wallace & Gromit in The Curse of the Were-Rabbit,1,1
+3639,Mysteries of the Deep,1,0
+3640,Edward Scissorhands,1,0
+3641,Toys in the Attic,1,0
+3642,Le Bal,1,0
+3643,To the Shores of Tripoli,1,0
+3644,Flat Top,1,0
+3645,Bombardier,1,0
+3646,Blackwood,1,0
+3647,Perri,1,0
+3648,Good News,1,0
+3649,Volver a Empezar ('To Begin Again'),1,1
+3650,Children of Mars,1,0
+3651,General Della Rovere,1,0
+3652,United States Marine Band,1,0
+3653,Foul Play,1,0
+3654,Shoplifters,1,0
+3655,Beyond the Forest,1,0
+3656,Ama Girls,1,1
+3657,"Reci, Reci, Reci... (Words, Words, Words)",1,0
+3658,Paint Your Wagon,1,0
+3659,Private Worlds,1,0
+3660,Time Is Running Out,1,0
+3661,Don't Talk,1,0
+3662,Saria,1,0
+3663,Blithe Spirit,1,1
+3664,Brother Bear,1,0
+3665,"Life, Animated",1,0
+3666,My Nephew Emmett,1,0
+3667,Bravery in the Field,1,0
+3668,You Can't Win,1,0
+3669,The Chicken from Outer Space,1,0
+3670,Gerald McBoing-Boing,1,1
+3671,Lieberman in Love,1,1
+3672,History of the World in Three Minutes Flat,1,0
+3673,Prometheus,1,0
+3674,The Policeman,1,0
+3675,The Stone Carvers,1,1
+3676,Seal Island,1,1
+3677,"Over There, 1914-18",1,0
+3678,Negative Space,1,0
+3679,How to Marry a Millionaire,1,0
+3680,Skyscraper,1,0
+3681,To Live or Let Die,1,0
+3682,Timecode,1,0
+3683,Probes in Space,1,0
+3684,Marie-Louise,1,1
+3685,Hitchcock,1,0
+3686,Heroin(e),1,0
+3687,Johnny Come Lately,1,0
+3688,Front Line,1,0
+3689,"Sing, Baby, Sing",1,0
+3690,Portrait of Chieko,1,0
+3691,The Red Lanterns,1,0
+3692,Hollow Man,1,0
+3693,Chip An' Dale,1,0
+3694,Just for You,1,0
+3695,See You at the Pillar,1,0
+3696,Country,1,0
+3697,The Human Dutch,1,0
+3698,Barbary Coast,1,0
+3699,They Knew What They Wanted,1,0
+3700,Get a Horse!,1,0
+3701,Birthday Boy,1,0
+3702,Frozen II,1,0
+3703,Jim Dine: A Self-Portrait on the Walls,1,0
+3704,The Milk of Sorrow,1,0
+3705,It's a Great Feeling,1,0
+3706,Havana,1,0
+3707,The Merry Old Soul,1,0
+3708,Rambo: First Blood Part II,1,0
+3709,La Corona (The Crown),1,0
+3710,Against Wind and Tide: A Cuban Odyssey,1,0
+3711,The Way Back,1,0
+3712,The Straight Story,1,0
+3713,Good Will to Men,1,0
+3714,Primal Fear,1,0
+3715,Jackie Brown,1,0
+3716,4.1 Miles,1,0
+3717,Wet Blanket Policy,1,0
+3718,The Man in the Iron Mask,1,0
+3719,"Fine Food, Fine Pastries, Open 6 to 9",1,0
+3720,Pan,1,0
+3721,Hell and High Water,1,0
+3722,Day of the Painter,1,1
+3723,Rachel Getting Married,1,0
+3724,The Affair of the Necklace,1,0
+3725,The Dawns Here Are Quiet,1,0
+3726,Possessed,1,0
+3727,Czechoslovakia 1968,1,1
+3728,This Love of Ours,1,0
+3729,The Garden Spider (Epeira Diadema),1,0
+3730,High Stakes in the East,1,0
+3731,W.E.,1,0
+3732,The Right to Love,1,0
+3733,Memorial: Letters from American Soldiers,1,0
+3734,Murderball,1,0
+3735,Gold Diggers of 1937,1,0
+3736,"Murder, Inc.",1,0
+3737,Automania 2000,1,0
+3738,King: A Filmed Record...Montgomery to Memphis,1,0
+3739,Scottsboro: An American Tragedy,1,0
+3740,I Married a Witch,1,0
+3741,Billy Rose's Jumbo,1,0
+3742,A Different Approach,1,0
+3743,"Agueda Martinez: Our People, Our Country",1,0
+3744,Tit for Tat,1,0
+3745,Sunset,1,0
+3746,A Sister,1,0
+3747,Albert Schweitzer,1,1
+3748,Sweethearts?,1,0
+3749,The Garden of Eden,1,0
+3750,The Bead Game,1,0
+3751,Is It Always Right to Be Right?,1,1
+3752,Clockmaker,1,0
+3753,Persepolis,1,0
+3754,The Lady in Waiting,1,0
+3755,Space Cowboys,1,0
+3756,The Wife,1,0
+3757,Little Terrorist,1,0
+3758,Parvaneh,1,0
+3759,Blue Thunder,1,0
+3760,Crashing the Water Barrier,1,1
+3761,Dad,1,0
+3762,Testament,1,0
+3763,Encounters at the End of the World,1,0
+3764,The Sheepman,1,0
+3765,The Men in Her Life,1,0
+3766,Paris--Underground,1,0
+3767,Siege,1,0
+3768,Cactus Flower,1,1
+3769,The Blood of Yingzhou District,1,1
+3770,The Dark at the Top of the Stairs,1,0
+3771,Character,1,1
+3772,The Insult,1,0
+3773,The Men,1,0
+3774,Shadow of a Doubt,1,0
+3775,Days of Glory,1,0
+3776,Robert Kennedy Remembered,1,1
+3777,Period of Adjustment,1,0
+3778,Grandma Moses,1,0
+3779,Georgia,1,0
+3780,Holy Matrimony,1,0
+3781,The Betrayal (Nerakhoon),1,0
+3782,Hollywood on Trial,1,0
+3783,Changing Our Minds: The Story of Dr. Evelyn Hooker,1,0
+3784,The Gang's All Here,1,0
+3785,Waldo Salt: A Screenwriter's Journey,1,0
+3786,Fiddlefest--Roberta Tzavaras and Her East Harlem Violin Program,1,0
+3787,Camera Thrills,1,0
+3788,The California Reich,1,0
+3789,Moscow Strikes Back,1,1
+3790,Young Mr. Lincoln,1,0
+3791,Jolly Little Elves,1,0
+3792,Resisting Enemy Interrogation,1,0
+3793,Tubby the Tuba,1,0
+3794,Help! My Snowman's Burning Down,1,0
+3795,The Three Little Pigs,1,1
+3796,Cheers for Miss Bishop,1,0
+3797,Pretty Woman,1,0
+3798,Three Men and a Cradle,1,0
+3799,One Small Step,1,0
+3800,Ali Baba Goes to Town,1,0
+3801,The 500 Hats of Bartholomew Cubbins,1,0
+3802,Say Goodbye,1,0
+3803,Employees Only,1,0
+3804,Mr. Hulot's Holiday,1,0
+3805,Operation Thunderbolt,1,0
+3806,The Rock,1,0
+3807,The Fallen Sparrow,1,0
+3808,The Wild and the Brave,1,0
+3809,The War against Mrs. Hadley,1,0
+3810,Brooklyn Bridge,1,0
+3811,Sredni Vashtar,1,0
+3812,Gates of Paris,1,0
+3813,The Eleanor Roosevelt Story,1,1
+3814,Stubble Trouble,1,0
+3815,Phaedra,1,0
+3816,Quest,1,1
+3817,Janie,1,0
+3818,Pat and Mike,1,0
+3819,Salty O'Rourke,1,0
+3820,The Actress,1,0
+3821,Music in My Heart,1,0
+3822,Ådalen '31,1,0
+3823,The Foxes of Harrow,1,0
+3824,Seven,1,0
+3825,Building a Building,1,0
+3826,"Captain Carey, U.S.A.",1,1
+3827,James and the Giant Peach,1,0
+3828,A Fantastic Woman,1,1
+3829,Charlie and the Chocolate Factory,1,0
+3830,Close Harmony,1,1
+3831,Muddy River,1,0
+3832,Beloved,1,0
+3833,Tim Burton's Corpse Bride,1,0
+3834,The Ox-Bow Incident,1,0
+3835,High Note,1,0
+3836,Jerry's Cousin,1,0
+3837,Duke of Groove,1,0
+3838,"Good Morning, Vietnam",1,0
+3839,Donald in Mathmagic Land,1,0
+3840,Little Surprises,1,0
+3841,Mr. Holland's Opus,1,0
+3842,Last Day of Freedom,1,0
+3843,The Longest Yard,1,0
+3844,I'll Find a Way,1,1
+3845,The Box,1,1
+3846,My Dearest Señorita,1,0
+3847,For God and Country,1,0
+3848,The Richest Girl in the World,1,0
+3849,Cradle of Genius,1,0
+3850,How to Train Your Dragon: The Hidden World,1,0
+3851,Go into Your Dance;,1,0
+3852,The Atomic City,1,0
+3853,L'Uomo in Grigio (The Man in Gray),1,0
+3854,The Dark Mirror,1,0
+3855,American Shoeshine,1,0
+3856,The House That Ananda Built,1,0
+3857,Two-Minute Warning,1,0
+3858,Jack London,1,0
+3859,Sidney's Family Tree,1,0
+3860,The Black Rose,1,0
+3861,Hanussen,1,0
+3862,Red Grooms: Sunflower in a Hothouse,1,0
+3863,Boy on a Dolphin,1,0
+3864,Street of Chance,1,0
+3865,The Landlord,1,0
+3866,The Dam Busters,1,0
+3867,Vatel,1,0
+3868,Breaking the Ice,1,0
+3869,"The Frog, the Dog and the Devil",1,0
+3870,Quality Street,1,0
+3871,Skin,1,1
+3872,Ballet Robotique,1,0
+3873,Knighty Knight Bugs,1,1
+3874,The Game (Igra),1,0
+3875,Duo,1,0
+3876,Chico & Rita,1,0
+3877,Gloria,1,0
+3878,Star in the Night,1,1
+3879,Letter to a Hero,1,0
+3880,The Calico Dragon,1,0
+3881,Kudzu,1,0
+3882,Language Says It All,1,0
+3883,The Road a Year Long,1,0
+3884,The Seventh Veil,1,1
+3885,Henry & June,1,0
+3886,Brewster's Millions,1,0
+3887,Raoni,1,0
+3888,La Femme et le TGV,1,0
+3889,Three Days of the Condor,1,0
+3890,Lenny Bruce: Swear to Tell the Truth,1,0
+3891,Dodes'ka-Den,1,0
+3892,Brooms,1,0
+3893,Seraglio,1,0
+3894,On Tiptoe: Gentle Steps to Freedom,1,0
+3895,LaLee's Kin: The Legacy of Cotton,1,0
+3896,Buena Vista Social Club,1,0
+3897,The Mark,1,0
+3898,The Pink Panther,1,0
+3899,The Phone Call,1,1
+3900,War Department Report,1,0
+3901,Australia,1,0
+3902,The Reaper (La Parka),1,0
+3903,"Very Nice, Very Nice",1,0
+3904,Don Juan DeMarco,1,0
+3905,Too Young to Kiss,1,0
+3906,Chicks in White Satin,1,0
+3907,The Sniper,1,0
+3908,Bolt,1,0
+3909,Paul Bunyan,1,0
+3910,The Mushroom Club,1,0
+3911,Pickup on South Street,1,0
+3912,Wyatt Earp,1,0
+3913,Smile Pinki,1,1
+3914,Ugetsu,1,0
+3915,Christopher Crumpet,1,0
+3916,Something to Sing About,1,0
+3917,A Guy Named Joe,1,0
+3918,My Favorite Year,1,0
+3919,Smart Money,1,0
+3920,The Kiss,1,0
+3921,The Tale of the Princess Kaguya,1,0
+3922,Winning Your Wings,1,0
+3923,Blood on the Land,1,0
+3924,Selling Out,1,0
+3925,Walk on the Wild Side,1,0
+3926,Never Cry Wolf,1,0
+3927,It's Got Me Again,1,0
+3928,The Lighthouse,1,0
+3929,The Hairy Ape,1,0
+3930,Women in War,1,0
+3931,Point of View,1,0
+3932,Mondo Cane,1,0
+3933,A Time for Burning,1,0
+3934,Menu,1,0
+3935,The Grandfather,1,0
+3936,Betrayal,1,0
+3937,Now You See It,1,0
+3938,Man of Iron,1,0
+3939,Adventures of Robinson Crusoe,1,0
+3940,Adventures in Perception,1,0
+3941,Why Korea?,1,1
+3942,Tupac: Resurrection,1,0
+3943,Give Up Yer Aul Sins,1,0
+3944,Land of Mine,1,0
+3945,The Masters of Disaster,1,0
+3946,The Sandman,1,0
+3947,Riding High,1,0
+3948,The Luckiest Guy in the World,1,0
+3949,The Great Escape,1,0
+3950,The Word,1,0
+3951,Green Grass of Wyoming,1,0
+3952,The Rise and Fall of Legs Diamond,1,0
+3953,Pianissimo,1,0
+3954,The Assault,1,1
+3955,The Balcony,1,0
+3956,The Horse's Mouth,1,0
+3957,Captain Fury,1,0
+3958,20th Century Women,1,0
+3959,"Yesterday, Today and Tomorrow",1,1
+3960,Behind the News,1,0
+3961,Popular Science J-6-2,1,0
+3962,All the Money in the World,1,0
+3963,Wait until Dark,1,0
+3964,Long Night's Journey into Day,1,0
+3965,The White Cliffs of Dover,1,0
+3966,The Paper,1,0
+3967,From Generation to Generation,1,0
+3968,Gunga Din,1,0
+3969,The Boys of Paul Street,1,0
+3970,Fresh Guacamole,1,0
+3971,Avengers: Infinity War,1,0
+3972,The Black Dahlia,1,0
+3973,Climb,1,0
+3974,The Tender Tale of Cinderella Penguin,1,0
+3975,The Rear Gunner,1,0
+3976,Peace on Earth,1,0
+3977,Strawberry and Chocolate,1,0
+3978,Moonraker,1,0
+3979,While I Run This Race,1,0
+3980,The Statue of Liberty,1,0
+3981,Who Are the DeBolts? And Where Did They Get Nineteen Kids?,1,1
+3982,The Country Cousin,1,1
+3983,Tangerines,1,0
+3984,T Is for Tumbleweed,1,0
+3985,The Barkleys of Broadway,1,0
+3986,The Wildest Show in the South: The Angola Prison Rodeo,1,0
+3987,Straight Outta Compton,1,0
+3988,Stand By for Action,1,0
+3989,Under Western Stars,1,0
+3990,Éramos Pocos (One Too Many),1,0
+3991,That's Me,1,0
+3992,World of Tomorrow,1,0
+3993,The Sword in the Stone,1,0
+3994,Star Trek: First Contact,1,0
+3995,April Love,1,0
+3996,Hair Love,1,1
+3997,Billy Budd,1,0
+3998,Restrepo,1,0
+3999,Rejected,1,0
+4000,Canyon Passage,1,0
+4001,Dave,1,0
+4002,Wreck-It Ralph,1,0
+4003,A Night at The Garden,1,0
+4004,The Class,1,0
+4005,I Am a Promise: The Children of Stanton Elementary School,1,1
+4006,The Visit,1,0
+4007,3 Misses,1,0
+4008,Lady of Burlesque,1,0
+4009,Making Waves,1,0
+4010,Tulsa,1,0
+4011,A House Is Not a Home,1,0
+4012,Genocide,1,1
+4013,Kangaroo Court,1,0
+4014,Wat's Pig,1,0
+4015,Aquatic House-Party,1,1
+4016,Give Us the Earth,1,0
+4017,Shanks,1,0
+4018,A Stolen Life,1,0
+4019,Julie & Julia,1,0
+4020,The First Wives Club,1,0
+4021,Mr. & Mrs. Bridge,1,0
+4022,Thank Your Lucky Stars,1,0
+4023,T-Men,1,0
+4024,This Way Up,1,0
+4025,Libel!,1,0
+4026,The Great Heart,1,0
+4027,Kitbull,1,0
+4028,Laughter,1,0
+4029,Tobruk,1,0
+4030,Man Alive!,1,0
+4031,That Man from Rio,1,0
+4032,Blue Grass Gentlemen,1,0
+4033,Sleepers,1,0
+4034,The Naked Spur,1,0
+4035,Henry,1,0
+4036,Song without End (The Story of Franz Liszt),1,1
+4037,The Gifts,1,0
+4038,Capturing the Friedmans,1,0
+4039,Howl's Moving Castle,1,0
+4040,Sing Your Way Home,1,0
+4041,Sound and Fury,1,0
+4042,Faces Places,1,0
+4043,Aya,1,0
+4044,Fury,1,0
+4045,Golden Horses,1,0
+4046,Rhythm in the Ranks,1,0
+4047,No,1,0
+4048,Black Fox,1,1
+4049,Death of a Shadow (Dood van een Schaduw),1,0
+4050,Dive-Hi Champs,1,0
+4051,Children Underground,1,0
+4052,Herring Hunt,1,0
+4053,How to Sleep,1,1
+4054,Little Fugitive,1,0
+4055,Keeper of Promises (The Given Word),1,0
+4056,Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?,1,0
+4057,Tsotsi,1,1
+4058,Pieces of April,1,0
+4059,Feral,1,0
+4060,Harvie Krumpet,1,1
+4061,Seeing Hands,1,0
+4062,The Good German,1,0
+4063,The Cliff Dwellers (formerly titled 'One Plus One'),1,0
+4064,Forty Boys and a Song,1,0
+4065,Libeled Lady,1,0
+4066,Cinderella Horse,1,0
+4067,Half a House,1,0
+4068,Overture,1,0
+4069,Sword Fishing,1,0
+4070,DeKalb Elementary,1,0
+4071,Return of the Seven,1,0
+4072,Happy-Go-Lucky,1,0
+4073,The Ghost and Mrs. Muir,1,0
+4074,Spills and Chills,1,0
+4075,Doubletalk,1,0
+4076,A Wild Hare,1,0
+4077,The Line King: The Al Hirschfeld Story,1,0
+4078,Cruise Control,1,0
+4079,Nine to Five,1,0
+4080,Klaus,1,0
+4081,The Seventh Cross,1,0
+4082,Volver,1,0
+4083,Rabbit Hole,1,0
+4084,The Usual Unidentified Thieves,1,0
+4085,Superman Returns,1,0
+4086,Good-bye Miss Turlock,1,1
+4087,A Day at the Races,1,0
+4088,East-West,1,0
+4089,Hooper,1,0
+4090,Boy and the World,1,0
+4091,Kung Fu Panda 2,1,0
+4092,The Pawnbroker,1,0
+4093,Seance on a Wet Afternoon,1,0
+4094,The Return of Martin Guerre,1,0
+4095,When We Were Kings,1,1
+4096,Unfinished Business,1,0
+4097,Gang Cops,1,0
+4098,Stout Hearts and Willing Hands,1,0
+4099,Bullfighter and the Lady,1,0
+4100,She,1,0
+4101,Terminus,1,0
+4102,Beethoven's 2nd,1,0
+4103,Die Rote Jacke (The Red Jacket),1,0
+4104,The Important Man,1,0
+4105,Mouse Trouble,1,1
+4106,Tin Pan Alley,1,1
+4107,Lethal Weapon 2,1,0
+4108,Wild Wings,1,1
+4109,The Great American Cowboy,1,1
+4110,A Queen Is Crowned,1,0
+4111,The Late Show,1,0
+4112,Meteor,1,0
+4113,The Final Inch,1,0
+4114,The Mudlark,1,0
+4115,My Life as a Zucchini,1,0
+4116,The Tell Tale Heart,1,0
+4117,Being Julia,1,0
+4118,Man in Space,1,0
+4119,Seeing Red,1,0
+4120,Comes a Horseman,1,0
+4121,The Gatekeepers,1,0
+4122,Whiffs,1,0
+4123,Torture Money,1,1
+4124,The Front,1,0
+4125,Desire under the Elms,1,0
+4126,The Apprenticeship of Duddy Kravitz,1,0
+4127,Junior,1,0
+4128,The Little Matchgirl,1,0
+4129,Road to Utopia,1,0
+4130,Witness to Apartheid,1,0
+4131,Good Morning,1,0
+4132,L'Invitation,1,0
+4133,Corvette K-225,1,0
+4134,Ben,1,0
+4135,Bored of Education,1,1
+4136,"Food, Inc.",1,0
+4137,Wives and Lovers,1,0
+4138,Live and Let Die,1,0
+4139,Christmas under Fire,1,0
+4140,They Shall Have Music,1,0
+4141,"We've Come a Long, Long Way",1,0
+4142,Colonel Redl,1,0
+4143,The Forth Road Bridge,1,0
+4144,The Battle over Citizen Kane,1,0
+4145,Eyewitness,1,0
+4146,Donnie Brasco,1,0
+4147,Let's Pollute,1,0
+4148,True Lies,1,0
+4149,Mrs. Doubtfire,1,1
+4150,Poseidon,1,0
+4151,The Journey of Natty Gann,1,0
+4152,A Single Life,1,0
+4153,The Dam Keeper,1,0
+4154,Born into Brothels,1,1
+4155,Dear Heart,1,0
+4156,The Stepmother,1,0
+4157,That Uncertain Feeling,1,0
+4158,Shaun the Sheep Movie,1,0
+4159,A Handful of Dust,1,0
+4160,Tuesday Morning Ride,1,0
+4161,Toy Tinkers,1,0
+4162,A Single Man,1,0
+4163,The Glass Cell,1,0
+4164,Little Big Man,1,0
+4165,A Great Day in Harlem,1,0
+4166,Maurice,1,0
+4167,Champions Carry On,1,0
+4168,High Grass Circus,1,0
+4169,Beach Red,1,0
+4170,A Prophet,1,0
+4171,Sexy Beast,1,0
+4172,Violet,1,1
+4173,Curse of the Golden Flower,1,0
+4174,Incredibles 2,1,0
+4175,"Toot, Whistle, Plunk and Boom",1,1
+4176,Back to the Future Part II,1,0
+4177,Kitty,1,0
+4178,The Cooler,1,0
+4179,Raffles,1,0
+4180,Not as a Stranger,1,0
+4181,The Disaster Artist,1,0
+4182,Block-Heads,1,0
+4183,Other Voices,1,0
+4184,The Times of Harvey Milk,1,1
+4185,When Time Ran Out,1,0
+4186,La Carte Postale (The Postcard),1,0
+4187,The Son of Monte Cristo,1,0
+4188,The Silent Revolution,1,0
+4189,Frankenweenie,1,0
+4190,Journey for Survival,1,0
+4191,Alaska Wilderness Lake,1,0
+4192,Ghost World,1,0
+4193,The Mayor of 44th Street,1,0
+4194,Puss Gets the Boot,1,0
+4195,Seconds,1,0
+4196,The Last Bomb,1,0
+4197,Daughter of the Bride,1,0
+4198,Hellboy II: The Golden Army,1,0
+4199,Way Down South,1,0
+4200,Balseros,1,0
+4201,Daens,1,0
+4202,Frank Film,1,1
+4203,Beverly Hills Cop II,1,0
+4204,Sky over Holland,1,0
+4205,Captain Caution,1,0
+4206,Agatha,1,0
+4207,The Court-Martial of Billy Mitchell,1,0
+4208,Last Year at Marienbad,1,0
+4209,Planet Ocean,1,0
+4210,So This Is Washington,1,0
+4211,Portia on Trial,1,0
+4212,Happy Feet,1,1
+4213,The Voice That Thrilled the World,1,0
+4214,Reason and Emotion,1,0
+4215,Doctor De Soto,1,0
+4216,Tunes of Glory,1,0
+4217,The Dot and the Line,1,1
+4218,The Fog of War,1,1
+4219,Mediterraneo,1,1
+4220,Downfall,1,0
+4221,The Dove;,1,1
+4222,A Chance to Live,1,1
+4223,The Little Ark,1,0
+4224,Johnny Eager,1,1
+4225,Truant Officer Donald,1,0
+4226,William Shakespeare's Romeo & Juliet,1,0
+4227,Vesuvius Express,1,0
+4228,Festival,1,0
+4229,They're Always Caught,1,0
+4230,The Children's Storefront,1,0
+4231,Irene,1,0
+4232,Inside Moves,1,0
+4233,Hundertwasser's Rainy Day,1,0
+4234,Art Is...,1,0
+4235,La Grande Olimpiade (Olympic Games 1960),1,0
+4236,Oscar and Lucinda,1,0
+4237,Kentucky,1,1
+4238,The Pied Piper of Guadalupe,1,0
+4239,A Better Life,1,0
+4240,Alice,1,0
+4241,Baptism of Fire,1,0
+4242,Rembrandt: A Self-Portrait,1,0
+4243,Adam's Rib,1,0
+4244,The Conscience of Nhem En,1,0
+4245,"Jacob, the Liar",1,0
+4246,Mr. Gardenia Jones,1,0
+4247,Trio,1,0
+4248,The Rehearsal,1,0
+4249,Canary Row,1,0
+4250,The Yanks Are Coming,1,0
+4251,Flight for Freedom,1,0
+4252,To the People of the United States,1,0
+4253,We Can't Live without Cosmos,1,0
+4254,Mr. Hublot,1,1
+4255,Saving Mr. Banks,1,0
+4256,Dream Wife,1,0
+4257,8 Mile,1,1
+4258,Precious Images,1,1
+4259,Austin Powers: The Spy Who Shagged Me,1,0
+4260,Ridicule,1,0
+4261,Chapter Two,1,0
+4262,Solly's Diner,1,0
+4263,Exit,1,0
+4264,Tin Toy,1,1
+4265,Strikes and Spares,1,0
+4266,Tammy and the Bachelor,1,0
+4267,Mickey and the Seal,1,0
+4268,Dimanche/Sunday,1,0
+4269,Nine from Little Rock,1,1
+4270,Operation Blue Jay,1,0
+4271,My Wild Irish Rose,1,0
+4272,Alibi;,1,0
+4273,The Public Pays,1,1
+4274,Schtonk!,1,0
+4275,Jacqueline Susann's Once Is Not Enough,1,0
+4276,Educating Peter,1,1
+4277,Spielzeugland (Toyland),1,1
+4278,Lavatory - Lovestory,1,0
+4279,Let's Get Lost,1,0
+4280,Heart Like a Wheel,1,0
+4281,There Goes My Heart,1,0
+4282,Deep South,1,0
+4283,Desperate Journey,1,0
+4284,Four Days in November,1,0
+4285,Big Hero 6,1,1
+4286,The Hobbit: The Battle of the Five Armies,1,0
+4287,The Road to the Wall,1,0
+4288,Instead of Abracadabra,1,0
+4289,Hiss and Yell,1,0
+4290,Freedom on My Mind,1,0
+4291,Adam and Dog,1,0
+4292,Wings over Mt. Everest,1,1
+4293,"Dog, Cat and Canary",1,0
+4294,Mr. Blabbermouth!,1,0
+4295,Dae,1,0
+4296,Caesar and Cleopatra,1,0
+4297,12,1,0
+4298,Balance,1,1
+4299,The Winning Strain,1,0
+4300,Paw,1,0
+4301,Angry Harvest,1,0
+4302,Ennemis Intérieurs,1,0
+4303,Everything Will Be Okay (Alles Wird Gut),1,0
+4304,Waco: The Rules of Engagement,1,0
+4305,The Five Cities of June,1,0
+4306,Luxo Jr.,1,0
+4307,Dear John,1,0
+4308,The Creation of Woman,1,0
+4309,You Don't Have to Die,1,1
+4310,The Lover,1,0
+4311,Chitty Chitty Bang Bang,1,0
+4312,The Tender Trap,1,0
+4313,Detainment,1,0
+4314,The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table,1,1
+4315,Light in the Window: The Art of Vermeer,1,1
+4316,The Eleven O'Clock,1,0
+4317,I Wanted Wings,1,1
+4318,Grease,1,0
+4319,The Cathedral,1,0
+4320,Lilo & Stitch,1,0
+4321,Blaze,1,0
+4322,Asylum,1,0
+4323,One Hour with You,1,0
+4324,Thin Ice,1,0
+4325,The House That Jack Built,1,0
+4326,The Woman in Red,1,1
+4327,The Inn of the Sixth Happiness,1,0
+4328,Day of Battle,1,0
+4329,Hardwood,1,0
+4330,Der Fuehrer's Face,1,1
+4331,Snow Carnival,1,0
+4332,The Impossible,1,0
+4333,The Bachelor and the Bobby-Soxer,1,1
+4334,Sully,1,0
+4335,Daughter from Danang,1,0
+4336,Before Midnight,1,0
+4337,Romance of Transportation,1,0
+4338,Pearl,1,0
+4339,Gone Baby Gone,1,0
+4340,How to Train Your Dragon 2,1,0
+4341,Graffiti,1,0
+4342,Alone Yet Not Alone,1,0
+4343,Children at Work (Paisti Ag Obair),1,0
+4344,The Tsunami and the Cherry Blossom,1,0
+4345,Madame Tutli-Putli,1,0
+4346,Inja (Dog),1,0
+4347,Lolita,1,0
+4348,The Tin Drum,1,1
+4349,The Lady Eve,1,0
+4350,Arms and the Man,1,0
+4351,The Red Turtle,1,0
+4352,Divorce American Style,1,0
+4353,Wabash Avenue,1,0
+4354,Another Year,1,0
+4355,"Roman J. Israel, Esq.",1,0
+4356,Mother India,1,0
+4357,The Act of Killing,1,0
+4358,The Mark of the Maker,1,0
+4359,To Live Again,1,0
+4360,Midnight Lace,1,0
+4361,Lagaan,1,0
+4362,Sari's Mother,1,0
+4363,Creature Comforts,1,1
+4364,My Love (Moya Lyubov),1,0
+4365,War Clouds in the Pacific,1,0
+4366,The Weather Underground,1,0
+4367,Street Smart,1,0
+4368,Their Own Desire,1,0
+4369,You'll Find Out,1,0
+4370,Tangled,1,0
+4371,the accountant,1,1
+4372,Aquel No Era Yo (That Wasn't Me),1,0
+4373,Seven Days to Noon,1,1
+4374,La Vieille Dame et les Pigeons (The Old Lady and the Pigeons),1,0
+4375,Notes on the Popular Arts,1,0
+4376,The Pursuit of Happyness,1,0
+4377,The Addams Family,1,0
+4378,The Price of Victory,1,0
+4379,The Lost World: Jurassic Park,1,0
+4380,The Elementary School,1,0
+4381,The Outlaw Josey Wales,1,0
+4382,Unconquered,1,0
+4383,Tabu,1,1
+4384,Face/Off,1,0
+4385,White Christmas,1,0
+4386,Charly,1,1
+4387,Artists and Orphans: A True Drama,1,0
+4388,Mighty Times: The Children's March,1,1
+4389,Miracle of Fatima,1,0
+4390,Hell and Back Again,1,0
+4391,El Crimen del Padre Amaro,1,0
+4392,Norman Rockwell's World...An American Dream,1,1
+4393,The Bolshoi Ballet,1,0
+4394,Couples and Robbers,1,0
+4395,The Texas Rangers,1,0
+4396,Board and Care,1,1
+4397,Wee Willie Winkie,1,0
+4398,Straw Dogs,1,0
+4399,For Love of Ivy,1,0
+4400,The Quiet American,1,0
+4401,Starman,1,0
+4402,Flying Down to Rio,1,0
+4403,Big Mama,1,1
+4404,Trial,1,0
+4405,An American Tail,1,0
+4406,The Red Violin,1,1
+4407,Charlie Wilson's War,1,0
+4408,The Bear,1,0
+4409,The Island at the Top of the World,1,0
+4410,Mona Lisa,1,0
+4411,White Shadows in the South Seas,1,1
+4412,Granny O'Grimm's Sleeping Beauty,1,0
+4413,The Divided Trail: A Native American Odyssey,1,0
+4414,Klondike Fury,1,0
+4415,The Childeater,1,0
+4416,Blood on the Sun,1,1
+4417,Beauty and the Bull,1,0
+4418,The Violinist,1,0
+4419,The Fight for Life,1,0
+4420,Lars and the Real Girl,1,0
+4421,Exploratorium,1,0
+4422,Joy of Living,1,0
+4423,Pathfinder,1,0
+4424,If a Tree Falls: A Story of the Earth Liberation Front,1,0
+4425,Hellfire: A Journey from Hiroshima,1,0
+4426,White Heat,1,0
+4427,Urge to Build,1,0
+4428,My Boy Johnny,1,0
+4429,Service with the Colors,1,0
+4430,9,1,0
+4431,Waltzing Regitze,1,0
+4432,Belle Epoque,1,1
+4433,Our Curse,1,0
+4434,The Counterfeiters,1,1
+4435,The War Game,1,1
+4436,À Nous la Liberté,1,0
+4437,Odd Man Out,1,0
+4438,Going the Distance,1,0
+4439,Winter Paradise,1,0
+4440,Kokoda Front Line!,1,1
+4441,Twenty-One Miles,1,0
+4442,Paradise,1,0
+4443,Snow White and the Seven Dwarfs,1,0
+4444,Antonia: A Portrait of the Woman,1,0
+4445,Poltergeist II: The Other Side,1,0
+4446,When Father Was Away on Business,1,0
+4447,Because You're Mine,1,0
+4448,Killing Joe,1,0
+4449,Curtain Call,1,0
+4450,Along the Rainbow Trail,1,0
+4451,Hollywood in Uniform,1,0
+4452,Betty Blue,1,0
+4453,G-Men,1,0
+4454,Diner,1,0
+4455,American Factory,1,1
+4456,Shoeshine,1,0
+4457,The Battle of Russia,1,0
+4458,Twin Sisters,1,0
+4459,"Madagascar, carnet de voyage (Madagascar, a Journey Diary)",1,0
+4460,Madame Rosa,1,1
+4461,For the Boys,1,0
+4462,Eat Drink Man Woman,1,0
+4463,Children of Darkness,1,0
+4464,Broken Rainbow,1,1
+4465,The Whales of August,1,0
+4466,In a Better World,1,1
+4467,First Contact,1,0
+4468,Jesus Camp,1,0
+4469,Amazon Diary,1,0
+4470,The Gay Deception,1,0
+4471,Ludwig,1,0
+4472,The Warriors of Qiugang,1,0
+4473,The Girl Said No,1,0
+4474,Paddle to the Sea,1,0
+4475,Silence,1,0
+4476,Gone Nutty,1,0
+4477,Who Killed Vincent Chin?,1,0
+4478,Excalibur,1,0
+4479,The Last Voyage,1,0
+4480,102 Dalmatians,1,0
+4481,The Bicycle Thief,1,0
+4482,The Story of Time,1,0
+4483,Blaze Busters,1,0
+4484,Mighty Times: The Legacy of Rosa Parks,1,0
+4485,Crac,1,1
+4486,Velvet Goldmine,1,0
+4487,Indiscretion of an American Wife,1,0
+4488,The House of Rothschild,1,0
+4489,The Living Stone,1,0
+4490,You Are Free  (Ihr Zent Frei),1,0
+4491,Fortress of Peace,1,0
+4492,Straight from the Heart,1,0
+4493,Deep Waters,1,0
+4494,A Yank in the R.A.F.,1,0
+4495,The Pride of St. Louis,1,0
+4496,Make a Wish,1,0
+4497,With Byrd at the South Pole,1,1
+4498,Blood Ties: The Life and Work of Sally Mann,1,0
+4499,Period. End of Sentence.,1,1
+4500,Strangers No More,1,1
+4501,La Vérité,1,0
+4502,Two Hands,1,0
+4503,God Sleeps in Rwanda,1,0
+4504,Twin Sisters of Kyoto,1,0
+4505,Summer Storm,1,0
+4506,The Greatest Showman,1,0
+4507,This Tiny World,1,1
+4508,Heureux Anniversaire (Happy Anniversary),1,1
+4509,Swing High,1,0
+4510,Penny Wisdom,1,1
+4511,Traffic with the Devil,1,0
+4512,Second Class Mail,1,0
+4513,Ave Maria,1,0
+4514,Town without Pity,1,0
+4515,The Last of Mrs. Cheyney,1,0
+4516,Sundae in New York,1,1
+4517,Symposium on Popular Songs,1,0
+4518,Thirteen,1,0
+4519,Women on the Verge of a Nervous Breakdown,1,0
+4520,"Women--for America, for the World",1,1
+4521,Batman Begins,1,0
+4522,Black Fury,1,0
+4523,The Boy and the Eagle,1,0
+4524,Limelight,1,1
+4525,Squash,1,0
+4526,An Occurrence at Owl Creek Bridge,1,1
+4527,Crazy Mixed Up Pup,1,0
+4528,Mulan,1,0
+4529,45 Years,1,0
+4530,The Spiral Staircase,1,0
+4531,Spirit: Stallion of the Cimarron,1,0
+4532,Late Afternoon,1,0
+4533,Friendly Enemies,1,0
+4534,The Window,1,0
+4535,"The 5,000 Fingers of Dr. T",1,0
+4536,Pacific Liner,1,0
+4537,Thunderball,1,1
+4538,Hide-Out,1,0
+4539,Reunion in Vienna,1,0
+4540,Burning Down Tomorrow,1,0
+4541,Who Killed Cock Robin?,1,0
+4542,The Shore,1,1
+4543,The Hidden World,1,0
+4544,Lies My Father Told Me,1,0
+4545,Beyond the Walls,1,0
+4546,Tlayucan,1,0
+4547,Stairway to Light,1,1
+4548,The Tonto Woman,1,0
+4549,Mirror Mirror,1,0
+4550,Between Heaven and Hell,1,0
+4551,Regret to Inform,1,0
+4552,La Cucaracha,1,1
+4553,Burma VJ,1,0
+4554,"Wanted, a Master",1,0
+4555,The Door,1,0
+4556,The Lives of Others,1,1
+4557,Anne Frank Remembered,1,1
+4558,The Secret in Their Eyes,1,1
+4559,The Gay Parisian,1,0
+4560,Yesterday,1,0
+4561,The Shepherd,1,0
+4562,Youth on Parade,1,0
+4563,The Emperor's New Groove,1,0
+4564,The Leopard,1,0
+4565,Action in the North Atlantic,1,0
+4566,Far from the Madding Crowd,1,0
+4567,A Close Shave,1,1
+4568,The Salesman,1,1
+4569,Sitting Pretty,1,0
+4570,Geronimo: An American Legend,1,0
+4571,Easter Parade,1,1
+4572,Birch Street Gym,1,0
+4573,The Challenge...A Tribute to Modern Art,1,0
+4574,Isadora,1,0
+4575,The Absent-Minded Waiter,1,0
+4576,Border,1,0
+4577,Ridin' on a Rainbow,1,0
+4578,Sunflower,1,0
+4579,One Droopy Knight,1,0
+4580,Paisan,1,0
+4581,Titus,1,0
+4582,The Night before Christmas,1,0
+4583,The Electric Horseman,1,0
+4584,Inside Fighting China,1,0
+4585,The Stripper,1,0
+4586,Black Rider (Schwarzfahrer),1,1
+4587,Ben and Me,1,0
+4588,The Flight of the Eagle,1,0
+4589,I'll Wait for the Next One... (J'Attendrai Le Suivant...),1,0
+4590,Pink and Blue Blues,1,0
+4591,La Guerre Est Finie,1,0
+4592,Three Brothers,1,0
+4593,Mustang,1,0
+4594,Stop the World--I Want to Get Off,1,0
+4595,The Ruling Class,1,0
+4596,The Hole,1,1
+4597,Jasper and the Beanstalk,1,0
+4598,Conquest of Light,1,0
+4599,Hitler Lives?,1,1
+4600,Key Largo,1,1
+4601,The Client,1,0
+4602,Leo Beuerman,1,0
+4603,Spaceborne,1,0
+4604,Starship Troopers,1,0
+4605,The Sheep Has Five Legs,1,0
+4606,What on Earth!,1,0
+4607,Good Scouts,1,0
+4608,Hearts and Minds,1,1
+4609,Mickey's Orphans,1,0
+4610,"My Country, My Country",1,0
+4611,The Stairs,1,0
+4612,The Village on the River,1,0
+4613,The Strip,1,0
+4614,"South Park: Bigger, Longer & Uncut",1,0
+4615,Leviathan,1,0
+4616,Grand Illusion,1,0
+4617,Where Love Has Gone,1,0
+4618,The Miracle of Morgan's Creek,1,0
+4619,The Resurrection of Broncho Billy,1,1
+4620,The Man without a Past,1,0
+4621,American Splendor,1,0
+4622,Begin Again,1,0
+4623,Tweetie Pie,1,1
+4624,Brotherhood,1,0
+4625,Theeb,1,0
+4626,In the Absence,1,0
+4627,"Teddy, the Rough Rider",1,1
+4628,Mt. Head,1,0
+4629,The Sorrow and the Pity,1,0
+4630,The Wedding Banquet,1,0
+4631,Birdnesters of Thailand (aka 'Shadow Hunters'),1,0
+4632,The Lady and the Reaper (La Dama y la Muerte),1,0
+4633,Misery,1,1
+4634,Corpus Christi,1,0
+4635,After the Wedding,1,0
+4636,Sing,1,1
+4637,Union Pacific,1,0
+4638,Jolly Roger,1,0
+4639,Common Threads: Stories from the Quilt,1,1
+4640,Information Please,1,0
+4641,Artie Shaw: Time Is All You've Got,1,1
+4642,Alien 3,1,0
+4643,Norway in Revolt,1,0
+4644,Isaac in America: A Journey with Isaac Bashevis Singer,1,0
+4645,Birth of the Blues,1,0
+4646,Remember Me,1,0
+4647,The Egyptian,1,0
+4648,Still Kicking: The Fabulous Palm Springs Follies,1,0
+4649,A Ship Is Born,1,0
+4650,Heaven Is a Traffic Jam on the 405,1,1
+4651,Finding Vivian Maier,1,0
+4652,The Poet and Peasant,1,0
+4653,Franz Kafka's It's a Wonderful Life,1,1
+4654,The 100-Year-Old Man Who Climbed out the Window and Disappeared,1,0
+4655,Last Breeze of Summer,1,0
+4656,Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,1,0
+4657,Last Summer,1,0
+4658,Water Trix,1,0
+4659,The Crunch Bird,1,1
+4660,Death Becomes Her,1,1
+4661,Of Men and Demons,1,0
+4662,Let's Make Love,1,0
+4663,Millions of Years Ahead of Man,1,0
+4664,Solomon and Gaenor,1,0
+4665,Quiet Please!,1,1
+4666,Prophet without Honor,1,0
+4667,The Ghost and the Darkness,1,1
+4668,Eternally Yours,1,0
+4669,Cow Dog,1,0
+4670,A Few Notes on Our Food Problem,1,0
+4671,Lady on a Train,1,0
+4672,Kapo,1,0
+4673,Saving Face,1,1
+4674,The Model and the Marriage Broker,1,0
+4675,"Maggie Simpson in ""The Longest Daycare""",1,0
+4676,The Anderson Platoon,1,1
+4677,Guardians of the Galaxy Vol. 2,1,0
+4678,The Sea around Us,1,1
+4679,Now Hear This,1,0
+4680,Men against the Arctic,1,1
+4681,On Hope,1,0
+4682,The Mambo Kings,1,0
+4683,Maestro,1,0
+4684,My Son John,1,0
+4685,Mother Is a Freshman,1,0
+4686,Fait D'Hiver,1,0
+4687,Curfew,1,1
+4688,Free Solo,1,1
+4689,Bull Durham,1,0
+4690,Lou,1,0
+4691,Four Days in September,1,0
+4692,Mickey's Christmas Carol,1,0
+4693,Letter from Home,1,0
+4694,The Dollar Bottom,1,1
+4695,Captain America: The Winter Soldier,1,0
+4696,The Merry Monahans,1,0
+4697,Kong: Skull Island,1,0
+4698,Just Imagine,1,0
+4699,Marjoe,1,1
+4700,I Was a Communist for the F.B.I.,1,0
+4701,"Harlan County, U.S.A.",1,1
+4702,The Firemen's Ball,1,0
+4703,Boogie Woogie Bugle Boy of Company B,1,0
+4704,Let It Be,1,1
+4705,Stagecoach to Fury,1,0
+4706,Day & Night,1,0
+4707,Building Bombs,1,0
+4708,Ulee's Gold,1,0
+4709,Dream Doll,1,0
+4710,Noah's Ark,1,0
+4711,The Virgin Queen,1,0
+4712,Claudine,1,0
+4713,Of Fathers and Sons,1,0
+4714,Children of Fate,1,0
+4715,Oktapodi,1,0
+4716,Wonder,1,0
+4717,The Living Desert,1,1
+4718,Youth,1,0
+4719,Harp of Burma,1,0
+4720,Requiem for a Dream,1,0
+4721,The Shetland Experience,1,0
+4722,"Henry Browne, Farmer",1,0
+4723,The Proud and the Beautiful,1,0
+4724,The Broadcast Tapes of Dr. Peter,1,0
+4725,Amores Perros,1,0
+4726,Gervaise,1,0
+4727,Min and Bill,1,1
+4728,The Hunting Ground,1,0
+4729,White Earth,1,0
+4730,Flatliners,1,0
+4731,Louisiana Story,1,0
+4732,Snow Falling on Cedars,1,0
+4733,The Noose,1,0
+4734,The Roman Spring of Mrs. Stone,1,0
+4735,A Hole in the Head,1,1
+4736,Popular Science J-7-1,1,0
+4737,Mouse Wreckers,1,0
+4738,Sophie Scholl - The Final Days,1,0
+4739,Days of Thunder,1,0
+4740,Meet Me in Las Vegas,1,0
+4741,The Grain That Built a Hemisphere,1,0
+4742,The 400 Blows,1,0
+4743,Harlem Nights,1,0
+4744,Streetwise,1,0
+4745,Screen Snapshots' 25th Anniversary,1,0
+4746,The Star,1,0
+4747,This Land Is Mine,1,1
+4748,Trouble the Water,1,0
+4749,The Big Pond,1,0
+4750,Honeysuckle Rose,1,0
+4751,The Strawberry Blonde,1,0
+4752,The Battle of Neretva,1,0
+4753,Wish 143,1,0
+4754,Extremis,1,0
+4755,Cain and Mabel,1,0
+4756,Le Ciel et la Boue (Sky Above and Mud Beneath),1,1
+4757,Old Mill Pond,1,0
+4758,The Dawn Patrol,1,1
+4759,Tales of Meeting and Parting,1,0
+4760,At Eternity's Gate,1,0
+4761,Return to Oz,1,0
+4762,The Music Box,1,1
+4763,Don't,1,1
+4764,Kolya,1,1
+4765,Logan,1,0
+4766,Main Street Today,1,0
+4767,Dylan Thomas,1,1
+4768,Dear Diary,1,1
+4769,Ape and Super-Ape,1,0
+4770,The Fight: Science against Cancer,1,0
+4771,The Angry Silence,1,0
+4772,The Captain of Kopenick,1,0
+4773,G. I. Honeymoon,1,0
+4774,Remo Williams: The Adventure Begins,1,0
+4775,Symphony of a City,1,1
+4776,The Blue Lagoon,1,0
+4777,Antarctic Crossing,1,0
+4778,The Lovers' Wind,1,0
+4779,"sex, lies, and videotape",1,0
+4780,Louisa,1,0
+4781,Dr. Cyclops,1,0
+4782,Minding the Gap,1,0
+4783,Loving Vincent,1,0
+4784,Special Delivery,1,1
+4785,Quiero Ser (I want to be...),1,1
+4786,Paris Blues,1,0
+4787,The Apostle,1,0
+4788,Jenny Is a Good Thing,1,0
+4789,The Good Shepherd,1,0
+4790,Trail of the Lonesome Pine,1,0
+4791,Tea for Two Hundred,1,0
+4792,Abacus: Small Enough to Jail,1,0
+4793,Neptune's Daughter,1,1
+4794,Ray's Male Heterosexual Dance Hall,1,1
+4795,The Moon and the Son: An Imagined Conversation,1,1
+4796,The Cadillac,1,0
+4797,Foothold on Antarctica,1,0
+4798,My Grandmother Ironed the King's Shirts,1,0
+4799,Glorious Betsy,1,0
+4800,Wing and a Prayer,1,0
+4801,Dancer in the Dark,1,0
+4802,Marlene,1,0
+4803,Primrose Path,1,0
+4804,The Power and the Prize,1,0
+4805,Elling,1,0
+4806,It's the Same World,1,0
+4807,Super Chief: The Life and Legacy of Earl Warren,1,0
+4808,A Soccer Story (Uma Historia de Futebol),1,0
+4809,The Ladykillers,1,0
+4810,Session Man,1,1
+4811,Prisoner of the Mountains,1,0
+4812,The Morning After,1,0
+4813,Flowers and Trees,1,1
+4814,The Green Goddess,1,0
+4815,Europa Europa,1,0
+4816,The Titan: Story of Michelangelo,1,1
+4817,Wordless,1,0
+4818,An Impression of John Steinbeck: Writer,1,0
+4819,Flight Command,1,0
+4820,Tron: Legacy,1,0
+4821,The Wild Thornberrys Movie,1,0
+4822,The Private Life of Helen of Troy,1,0
+4823,The Dolly Sisters,1,0
+4824,Six Shooter,1,1
+4825,The Hill Farm,1,0
+4826,In the Shadow of the Stars,1,1
+4827,"Once More, My Darling",1,0
+4828,The Preacher's Wife,1,0
+4829,Forbidden Planet,1,0
+4830,Conquer by the Clock,1,0
+4831,The Children of Soong Ching Ling,1,0
+4832,Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965,1,0
