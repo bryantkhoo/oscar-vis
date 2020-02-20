@@ -12,8 +12,8 @@ export default class ChartWrapper extends Component {
 		return false
 	}
 
-	componentWillReceiveProps(nextProps) {
-		this.state.chart.update()
+	UNSAFE_componentWillReceiveProps(nextProps) {
+		this.state.chart.update(nextProps.topic)
 	}
 	
 	render() {

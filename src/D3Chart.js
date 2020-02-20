@@ -1,5 +1,6 @@
 import * as d3 from 'd3'
-import oscar_data from "./datasets/awarded_films.csv";
+import nominated_films_data from "./datasets/nominated_films.csv";
+import awarded_films_data from "./datasets/awarded_only_films.csv";
 
 const MARGIN = { TOP: 10, BOTTOM: 50, LEFT: 160, RIGHT: 10 }
 const WIDTH = 800 - MARGIN.LEFT - MARGIN.RIGHT;
@@ -40,131 +41,299 @@ export default class D3Chart {
 			
 
 		vis.yAxisGroup = vis.svg.append("g")
-		console.log('start promise')
 
-		d3.csv(oscar_data)
+		d3.csv(nominated_films_data)
 			.then(function(dataset){
 				dataset = dataset.slice(0,10)
 				console.log(dataset)
 				dataset.forEach(function(d) {
-					d.nominated = +d.count_x;
-					d.won = +d.count_y;
+					d.nominated = +d.nominated;
+					d.won = +d.won;
 				});
 				vis.nomineeData = dataset
-				vis.update()
+				vis.update("nominated")
 			})
-		  
+		d3.csv(awarded_films_data)
+			.then(function(dataset){
+				dataset = dataset.slice(0,10)
+				console.log(dataset)
+				dataset.forEach(function(d) {
+					d.won = +d.won;
+				});
+				vis.awardeeData = dataset
+			})
 	}
 
-	update() {
+	update(topic) {
 		const vis = this
 
-		vis.data = vis.nomineeData;
-		vis.xLabel.text(`Number of Awards/Nominations`)
-		vis.yLabel.text(`Films`)
-			.transition().duration(500)
-			.attr("y", -100)
+		if (topic === "nominated"){
+			vis.data = vis.nomineeData;
+			vis.xLabel.text(`Number of Awards/Nominations`)
+			vis.yLabel.text(`Films`)
+				.transition().duration(500)
+				.attr("y", -100)
 
-		// update the axis scales for transition
-		const x = d3.scaleLinear()
-			.domain([
-				0, 
-				d3.max(vis.data, d =>  d.nominated)
-			])
-			.range([0, WIDTH])
+			// update the axis scales for transition
+			const x = d3.scaleLinear()
+				.domain([
+					0, 
+					d3.max(vis.data, d =>  d.nominated)
+				])
+				.range([0, WIDTH])
 
-		const y = d3.scaleBand()
-			.domain(vis.data.map(d => d.film))
-			.range([0, HEIGHT])
-			.padding(0.4)
-		
-		const xAxisCall = d3.axisBottom(x)
-		vis.xAxisGroup.attr("transform",`translate(0,${HEIGHT})`)
-			.transition().duration(500).call(xAxisCall)
+			const y = d3.scaleBand()
+				.domain(vis.data.map(d => d.film))
+				.range([0, HEIGHT])
+				.padding(0.4)
+			
+			const xAxisCall = d3.axisBottom(x)
+			vis.xAxisGroup.attr("transform",`translate(0,${HEIGHT})`)
+				.transition().duration(500).call(xAxisCall)
 
-		const yAxisCall = d3.axisLeft(y)
-		vis.yAxisGroup
-			.transition().duration(500).call(yAxisCall)
-			.selectAll("text")  
-			.style("text-anchor", "end")
-			.attr("dx", "-.8em")
-			.attr("dy", ".15em")
-			.attr("transform", "rotate(-30)");
-		
-		// DATA JOIN
-		const rectsNominated = vis.svg.selectAll("rect.nomRect")
-			.data(vis.data)
+			const yAxisCall = d3.axisLeft(y)
+			vis.yAxisGroup
+				.transition().duration(500).call(yAxisCall)
+				.selectAll("text")  
+				.style("text-anchor", "end")
+				.attr("dx", "-.8em")
+				.attr("dy", ".15em")
+				.attr("transform", "rotate(-30)");
+			
+			// DATA JOIN
+			const rectsNominated = vis.svg.selectAll("rect.nomRect")
+				.data(vis.data)
 
-		// EXIT
-		rectsNominated.exit()
-			.transition().duration(500)
-				.attr("height", 0)
-				.attr("width", 0)
-				.remove()
+			// EXIT
+			rectsNominated.exit()
+				.transition().duration(500)
+					.attr("height", 0)
+					.attr("width", 0)
+					.remove()
 
-		// UPDATE
-		rectsNominated.transition().duration(500)
-			.attr("class", "nomRect")
-			.attr("x", 0)
-			.attr("y", d => y(d.film))
-			.attr("height", y.bandwidth)
-			.attr("width", d => x(d.nominated))
-			.attr("fill", "#96a0d6")
-
-		// ENTER
-		rectsNominated.enter().append("rect")
-			.transition().duration(500)
+			// UPDATE
+			rectsNominated.transition().duration(500)
 				.attr("class", "nomRect")
 				.attr("x", 0)
-				.attr("width", d =>  x(d.nominated))
 				.attr("y", d => y(d.film))
 				.attr("height", y.bandwidth)
-				.attr("fill", "#96a0d6")
-		
-		// DATA JOIN
-		const rectsWon = vis.svg.selectAll("rect.oscarRect")
-			.data(vis.data)
+				.attr("width", d => x(d.nominated))
+				.attr("fill", "#bddbc5")
 
-		// EXIT
-		rectsWon.exit()
-			.transition().duration(500)
-				.attr("height", 0)
-				.attr("width", 0)
-				.remove()		
+			// ENTER
+			rectsNominated.enter().append("rect")
+				.transition().duration(500)
+					.attr("class", "nomRect")
+					.attr("x", 0)
+					.attr("width", d =>  x(d.nominated))
+					.attr("y", d => y(d.film))
+					.attr("height", y.bandwidth)
+					.attr("fill", "#bddbc5")
+			
+			// DATA JOIN
+			const rectsWon = vis.svg.selectAll("rect.oscarRect")
+				.data(vis.data)
 
-		// UPDATE
-		rectsWon.transition().duration(500)
-			.attr("class", "oscarRect")
-			.attr("x", 0)
-			.attr("y", d => y(d.film))
-			.attr("height", y.bandwidth)
-			.attr("width", d => x(d.won))
-			.attr("fill", "#4454a6")
+			// EXIT
+			rectsWon.exit()
+				.transition().duration(500)
+					.attr("height", 0)
+					.attr("width", 0)
+					.remove()		
 
-		// ENTER
-		rectsWon.enter().append("rect")
-			.transition().duration(500)
+			// UPDATE
+			rectsWon.transition().duration(500)
 				.attr("class", "oscarRect")
 				.attr("x", 0)
-				.attr("width", d =>  x(d.won))
 				.attr("y", d => y(d.film))
 				.attr("height", y.bandwidth)
-				.attr("fill", "#4454a6")
-		
-		const rects = vis.svg.selectAll("rect")
-		rects.on('mousemove', function(event){
-			vis.tooltip.style("top", (d3.event.pageY - 51) + "px")
-				.style("left", (d3.event.pageX - 51) + "px")
-		}).on("mouseover", function(d) {		
-					vis.tooltip.transition()		
-						.duration(200)		
-						.style("opacity", .9);		
-					vis.tooltip.html(`<p>Nomnated:${d.nominated}</br>Won: ${d.won}<p>`)	
-						.style("left", (d3.event.pageX) + "px")		
-						.style("top", (d3.event.pageY - 28) + "px");	
-				}).on("mouseout", function(d) {		
-					vis.tooltip.transition()	
+				.attr("width", d => x(d.won))
+				.attr("fill", "#72ad82")
+
+			// ENTER
+			rectsWon.enter().append("rect")
+				.transition().duration(500)
+					.attr("class", "oscarRect")
+					.attr("x", 0)
+					.attr("width", d =>  x(d.won))
+					.attr("y", d => y(d.film))
+					.attr("height", y.bandwidth)
+					.attr("fill", "#72ad82")
+			
+			const rects = vis.svg.selectAll("rect")
+			rects.on('mousemove', function(event){
+				vis.tooltip.style("top", (d3.event.pageY - 51) + "px")
+					.style("left", (d3.event.pageX - 51) + "px")
+			}).on("mouseover", function(d) {
+				if (!d.nominated){
+					return
+				}
+				vis.tooltip.transition()		
+					.duration(200)		
+					.style("opacity", .9);		
+				vis.tooltip.html(`Nomnated:${d.nominated}</br>Won: ${d.won}`)	
+					.style("left", (d3.event.pageX) + "px")		
+					.style("top", (d3.event.pageY - 28) + "px");	
+			}).on("mouseout", function(d) {		
+				vis.tooltip.transition()	
 						.style("opacity", 0);	
-				});
+			});
+
+			vis.svg.selectAll(".mydots").remove()
+			vis.svg.selectAll(".mylabels").remove()
+
+			// create a list of keys
+			let keys = ["Awarded", "Nominated"]
+
+			// Usually you have a color scale in your chart already
+			let color = d3.scaleOrdinal()
+			.domain(keys)
+			.range(["#72ad82","#bddbc5"]);
+
+			// Add one dot in the legend for each name.
+			let size = 20
+			vis.svg.selectAll("mydots")
+			.data(keys)
+			.enter()
+			.append("rect")
+				.attr("class", "mydots")
+				.attr("x", WIDTH - 100)
+				.attr("y", function(d,i){ return HEIGHT - 100 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
+				.attr("width", size)
+				.attr("height", size)
+				.style("fill", function(d){ return color(d)})
+
+			// Add one dot in the legend for each name.
+			vis.svg.selectAll("mylabels")
+			.data(keys)
+			.enter()
+			.append("text")
+				.attr("class", "mylabels")
+				.attr("x", WIDTH - 100 + size*1.2)
+				.attr("y", function(d,i){ return HEIGHT - 100 + i*(size+5) + (size/2)}) // 100 is where the first dot appears. 25 is the distance between dots
+				.style("fill", function(d){ return color(d)})
+				.text(function(d){ return d})
+				.attr("text-anchor", "left")
+				.style("alignment-baseline", "middle")
+		}
+		else if (topic === "awarded")
+		{
+			vis.data = vis.awardeeData;
+			vis.xLabel.text(`Number of Awards/Nominations`)
+			vis.yLabel.text(`Films`)
+				.transition().duration(500)
+				.attr("y", -100)
+
+			// update the axis scales for transition
+			const x = d3.scaleLinear()
+				.domain([
+					0, 
+					d3.max(vis.data, d =>  d.won)
+				])
+				.range([0, WIDTH])
+
+			const y = d3.scaleBand()
+				.domain(vis.data.map(d => d.film))
+				.range([0, HEIGHT])
+				.padding(0.4)
+			
+			const xAxisCall = d3.axisBottom(x)
+			vis.xAxisGroup.attr("transform",`translate(0,${HEIGHT})`)
+				.transition().duration(500).call(xAxisCall)
+
+			const yAxisCall = d3.axisLeft(y)
+			vis.yAxisGroup
+				.transition().duration(500).call(yAxisCall)
+				.selectAll("text")  
+				.style("text-anchor", "end")
+				.attr("dx", "-.8em")
+				.attr("dy", ".15em")
+				.attr("transform", "rotate(-30)");
+			
+			
+			// DATA JOIN
+			const rectsWon = vis.svg.selectAll("rect")
+				.data(vis.data)
+
+			// EXIT
+			rectsWon.exit()
+				.transition().duration(500)
+					.attr("height", 0)
+					.attr("width", 0)
+					.remove()		
+
+			// UPDATE
+			rectsWon.transition().duration(500)
+				.attr("x", 0)
+				.attr("y", d => y(d.film))
+				.attr("height", y.bandwidth)
+				.attr("width", d => x(d.won))
+				.attr("fill", "#72ad82")
+
+			// ENTER
+			rectsWon.enter().append("rect")
+				.transition().duration(500)
+					.attr("x", 0)
+					.attr("width", d =>  x(d.won))
+					.attr("y", d => y(d.film))
+					.attr("height", y.bandwidth)
+					.attr("fill", "#72ad82")
+			
+			const rects = vis.svg.selectAll("rect")
+			rects.on('mousemove', function(event){
+				vis.tooltip.style("top", (d3.event.pageY - 51) + "px")
+					.style("left", (d3.event.pageX - 51) + "px")
+			}).on("mouseover", function(d) {
+				if (!d.won){
+					return
+				}
+				vis.tooltip.transition()		
+					.duration(200)		
+					.style("opacity", .9);		
+				vis.tooltip.html(`Won: ${d.won}`)	
+					.style("left", (d3.event.pageX) + "px")		
+					.style("top", (d3.event.pageY - 28) + "px");	
+			}).on("mouseout", function(d) {		
+				vis.tooltip.transition()	
+						.style("opacity", 0);	
+			});
+
+			vis.svg.selectAll(".mydots").remove()
+			vis.svg.selectAll(".mylabels").remove()
+
+			// create a list of keys
+			let keys = ["Awarded"]
+
+			// Usually you have a color scale in your chart already
+			let color = d3.scaleOrdinal()
+			.domain(keys)
+			.range(["#72ad82"]);
+
+			// Add one dot in the legend for each name.
+			let size = 20
+			vis.svg.selectAll("mydots")
+			.data(keys)
+			.enter()
+			.append("rect")
+				.attr("class", "mydots")	
+				.attr("x", WIDTH - 100)
+				.attr("y", function(d,i){ return HEIGHT - 100 + i*(size+5)}) // 100 is where the first dot appears. 25 is the distance between dots
+				.attr("width", size)
+				.attr("height", size)
+				.style("fill", function(d){ return color(d)})
+
+			// Add one dot in the legend for each name.
+			vis.svg.selectAll("mylabels")
+			.data(keys)
+			.enter()
+			.append("text")
+				.attr("class", "mylabels")
+				.attr("x", WIDTH - 100 + size*1.2)
+				.attr("y", function(d,i){ return HEIGHT - 100 + i*(size+5) + (size/2)}) // 100 is where the first dot appears. 25 is the distance between dots
+				.style("fill", function(d){ return color(d)})
+				.text(function(d){ return d})
+				.attr("text-anchor", "left")
+				.style("alignment-baseline", "middle")
+		}
 	}
 }

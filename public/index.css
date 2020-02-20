@@ -1,31 +1,49 @@
 html {
-    background-image: url(logo.png);
     background-repeat: repeat-x; 
   }
 
 body {
     margin:0;
-    background-color:#E1E8ED;
+    background-color:white;
+}
+
+
+::selection {
+    background: #62c4c7; /* WebKit/Blink Browsers */
 }
 
 /* Header/Blog Title */
 .header {
     margin-top: 50px;
-    padding: 30px;
     text-align: left;
     background: white;
-    font-family: painting-with-choc-font;
-    font-weight: black;
-    font-size: 4vw;
+    font-family: "grad", serif;
+    font-weight: 700;
+    font-size: calc(14px + 3vw);
 }
 
 /* Header/Blog Title */
 .subheader {
     text-align: left;
     background: white;
-    font-family: painting-with-choc-font;
+    font-family: cursive;;
     font-weight: black;
-    font-size: 2vw;
+    font-size: calc(10px + 1vw);
+}
+
+.text-content {
+    font-family: "mr-eaves-xl-sans", sans-serif;
+    font-size: calc(10px + .5vw);
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.query-content {
+    font-family: "grad", serif;
+    font-size: calc(12px + 1vw);
+    line-height: 1.8;
+    text-align: justify;
+    font-weight: 700;
 }
 
 .vis-center-container {
@@ -36,11 +54,10 @@ body {
 }
 
 .float{
-	position:fixed;
+    margin-top :20px;
+    margin-left : 50px;
 	width:45px;
 	height:45px;
-	bottom:20px;
-	right:20px;
 	background-color:rgb(56, 133, 146);
 	color:rgb(64, 101, 221);
 	border-radius:50px;
@@ -49,23 +66,11 @@ body {
     outline:none;
 }
 
-@font-face {
-    font-family: 'chopinscript-font';
-    src: url('assets/chopinscript-font/Chopinscript-gxXE.ttf')  format('opentype'),
-         url('assets/chopinscript-font/Chopinscript-jWKj.otf') format('opentype');
-}
-
-@font-face {
-font-family: 'painting-with-choc-font';
-src: url('assets/Paintingwithchocolate-K5mo.ttf')  format('opentype');
-}
-
 .tooltip {		
-    display: flex;
+    display: block;
+    height: auto;
     justify-content: center;
-    align-items: center;		
-    width: 100px;					
-    height: 45px;					
+    align-items: center;						
     padding: 4px;				
     font: 12px sans-serif;		
     background: lightsteelblue;	
@@ -76,4 +81,6 @@ src: url('assets/Paintingwithchocolate-K5mo.ttf')  format('opentype');
 
 .svg-content-responsive {
     display: inline-block;
+    margin-top:30px;
+    margin-bottom:30px;
   }
