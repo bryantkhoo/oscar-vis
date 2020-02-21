@@ -1,0 +1,154 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+236,1932,1933,6,DIRECTING,Little Women,Little Women,False
+242,1932,1933,6,OUTSTANDING PRODUCTION,Little Women,Little Women,False
+261,1932,1933,6,WRITING (Adaptation),Little Women,Little Women,True
+276,1934,1935,7,ASSISTANT DIRECTOR,Cleopatra,Cleopatra,False
+280,1934,1935,7,CINEMATOGRAPHY,Cleopatra,Cleopatra,True
+285,1934,1935,7,FILM EDITING,Cleopatra,Cleopatra,False
+295,1934,1935,7,OUTSTANDING PRODUCTION,Cleopatra,Cleopatra,False
+316,1934,1935,7,SOUND RECORDING,Cleopatra,Cleopatra,False
+330,1935,1936,8,ACTOR,Clark Gable,Mutiny on the Bounty,False
+331,1935,1936,8,ACTOR,Charles Laughton,Mutiny on the Bounty,False
+334,1935,1936,8,ACTOR,Franchot Tone,Mutiny on the Bounty,False
+362,1935,1936,8,DIRECTING,Mutiny on the Bounty,Mutiny on the Bounty,False
+368,1935,1936,8,FILM EDITING,Mutiny on the Bounty,Mutiny on the Bounty,False
+371,1935,1936,8,MUSIC (Scoring),Mutiny on the Bounty,Mutiny on the Bounty,False
+384,1935,1936,8,OUTSTANDING PRODUCTION,Mutiny on the Bounty,Mutiny on the Bounty,True
+413,1935,1936,8,WRITING (Screenplay),Mutiny on the Bounty,Mutiny on the Bounty,False
+523,1937,1938,10,ACTOR,Fredric March,A Star Is Born,False
+534,1937,1938,10,ACTRESS,Janet Gaynor,A Star Is Born,False
+558,1937,1938,10,ASSISTANT DIRECTOR,A Star Is Born,A Star Is Born,False
+573,1937,1938,10,DIRECTING,A Star Is Born,A Star Is Born,False
+607,1937,1938,10,OUTSTANDING PRODUCTION,A Star Is Born,A Star Is Born,False
+634,1937,1938,10,WRITING (Original Story),A Star Is Born,A Star Is Born,True
+639,1937,1938,10,WRITING (Screenplay),A Star Is Born,A Star Is Born,False
+785,1939,1940,12,ACTOR,Clark Gable,Gone with the Wind,False
+798,1939,1940,12,ACTRESS,Vivien Leigh,Gone with the Wind,True
+799,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Olivia de Havilland,Gone with the Wind,False
+801,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,Gone with the Wind,True
+807,1939,1940,12,ART DIRECTION,Gone with the Wind,Gone with the Wind,True
+829,1939,1940,12,CINEMATOGRAPHY (Color),Gone with the Wind,Gone with the Wind,True
+833,1939,1940,12,DIRECTING,Gone with the Wind,Gone with the Wind,True
+838,1939,1940,12,FILM EDITING,Gone with the Wind,Gone with the Wind,True
+846,1939,1940,12,MUSIC (Original Score),Gone with the Wind,Gone with the Wind,False
+873,1939,1940,12,OUTSTANDING PRODUCTION,Gone with the Wind,Gone with the Wind,True
+894,1939,1940,12,SOUND RECORDING,Gone with the Wind,Gone with the Wind,False
+904,1939,1940,12,SPECIAL EFFECTS,Gone with the Wind,Gone with the Wind,False
+916,1939,1940,12,WRITING (Screenplay),Gone with the Wind,Gone with the Wind,True
+2309,1949,1950,22,ART DIRECTION (Color),Little Women,Little Women,True
+2318,1949,1950,22,CINEMATOGRAPHY (Color),Little Women,Little Women,False
+2405,1950,1951,23,ACTOR IN A SUPPORTING ROLE,George Sanders,All about Eve,True
+2407,1950,1951,23,ACTRESS,Anne Baxter,All about Eve,False
+2408,1950,1951,23,ACTRESS,Bette Davis,All about Eve,False
+2413,1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,All about Eve,False
+2416,1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,All about Eve,False
+2417,1950,1951,23,ART DIRECTION (Black-and-White),All about Eve,All about Eve,False
+2423,1950,1951,23,CINEMATOGRAPHY (Black-and-White),All about Eve,All about Eve,False
+2433,1950,1951,23,COSTUME DESIGN (Black-and-White),All about Eve,All about Eve,True
+2439,1950,1951,23,DIRECTING,All about Eve,All about Eve,True
+2449,1950,1951,23,FILM EDITING,All about Eve,All about Eve,False
+2454,1950,1951,23,MUSIC (Music Score of a Dramatic or Comedy Picture),All about Eve,All about Eve,False
+2469,1950,1951,23,BEST MOTION PICTURE,All about Eve,All about Eve,True
+2483,1950,1951,23,SOUND RECORDING,All about Eve,All about Eve,True
+2495,1950,1951,23,WRITING (Screenplay),All about Eve,All about Eve,True
+2630,1952,1953,25,ACTOR,José Ferrer,Moulin Rouge,False
+2644,1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Colette Marchand,Moulin Rouge,False
+2654,1952,1953,25,ART DIRECTION (Color),Moulin Rouge,Moulin Rouge,True
+2675,1952,1953,25,COSTUME DESIGN (Color),Moulin Rouge,Moulin Rouge,True
+2680,1952,1953,25,DIRECTING,Moulin Rouge,Moulin Rouge,False
+2693,1952,1953,25,FILM EDITING,Moulin Rouge,Moulin Rouge,False
+2712,1952,1953,25,BEST MOTION PICTURE,Moulin Rouge,Moulin Rouge,False
+2780,1953,1954,26,ART DIRECTION (Black-and-White),Titanic,Titanic,False
+2879,1953,1954,26,WRITING (Story and Screenplay),Titanic,Titanic,True
+2888,1954,1955,27,ACTOR,James Mason,A Star Is Born,False
+2896,1954,1955,27,ACTRESS,Judy Garland,A Star Is Born,False
+2913,1954,1955,27,ART DIRECTION (Color),A Star Is Born,A Star Is Born,False
+2933,1954,1955,27,COSTUME DESIGN (Color),A Star Is Born,A Star Is Born,False
+2958,1954,1955,27,MUSIC (Scoring of a Musical Picture),A Star Is Born,A Star Is Born,False
+2963,1954,1955,27,MUSIC (Song),A Star Is Born,A Star Is Born,False
+3865,1962,1963,35,ART DIRECTION (Color),Mutiny on the Bounty,Mutiny on the Bounty,False
+3876,1962,1963,35,CINEMATOGRAPHY (Color),Mutiny on the Bounty,Mutiny on the Bounty,False
+3902,1962,1963,35,FILM EDITING,Mutiny on the Bounty,Mutiny on the Bounty,False
+3910,1962,1963,35,MUSIC (Music Score--substantially original),Mutiny on the Bounty,Mutiny on the Bounty,False
+3919,1962,1963,35,MUSIC (Song),Mutiny on the Bounty,Mutiny on the Bounty,False
+3926,1962,1963,35,BEST PICTURE,Mutiny on the Bounty,Mutiny on the Bounty,False
+3944,1962,1963,35,SPECIAL EFFECTS,Mutiny on the Bounty,Mutiny on the Bounty,False
+3958,1963,1964,36,ACTOR,Rex Harrison,Cleopatra,False
+3982,1963,1964,36,ART DIRECTION (Color),Cleopatra,Cleopatra,True
+3992,1963,1964,36,CINEMATOGRAPHY (Color),Cleopatra,Cleopatra,True
+4002,1963,1964,36,COSTUME DESIGN (Color),Cleopatra,Cleopatra,True
+4021,1963,1964,36,FILM EDITING,Cleopatra,Cleopatra,False
+4030,1963,1964,36,MUSIC (Music Score--substantially original),Cleopatra,Cleopatra,False
+4046,1963,1964,36,BEST PICTURE,Cleopatra,Cleopatra,False
+4062,1963,1964,36,SOUND,Cleopatra,Cleopatra,False
+4068,1963,1964,36,SPECIAL EFFECTS,Cleopatra,Cleopatra,True
+5434,1976,1977,49,CINEMATOGRAPHY,A Star Is Born,A Star Is Born,False
+5472,1976,1977,49,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),A Star Is Born,A Star Is Born,False
+5476,1976,1977,49,MUSIC (Original Song),A Star Is Born,A Star Is Born,True
+5495,1976,1977,49,SOUND,A Star Is Born,A Star Is Born,False
+7338,1994,1995,67,ACTRESS IN A LEADING ROLE,Winona Ryder,Little Women,False
+7357,1994,1995,67,COSTUME DESIGN,Little Women,Little Women,False
+7391,1994,1995,67,MUSIC (Original Score),Little Women,Little Women,False
+7682,1997,1998,70,ACTRESS IN A LEADING ROLE,Kate Winslet,Titanic,False
+7687,1997,1998,70,ACTRESS IN A SUPPORTING ROLE,Gloria Stuart,Titanic,False
+7692,1997,1998,70,ART DIRECTION,Titanic,Titanic,True
+7696,1997,1998,70,CINEMATOGRAPHY,Titanic,Titanic,True
+7701,1997,1998,70,COSTUME DESIGN,Titanic,Titanic,True
+7707,1997,1998,70,DIRECTING,Titanic,Titanic,True
+7722,1997,1998,70,FILM EDITING,Titanic,Titanic,True
+7730,1997,1998,70,MAKEUP,Titanic,Titanic,False
+7735,1997,1998,70,MUSIC (Original Dramatic Score),Titanic,Titanic,True
+7745,1997,1998,70,MUSIC (Original Song),Titanic,Titanic,True
+7750,1997,1998,70,BEST PICTURE,Titanic,Titanic,True
+7765,1997,1998,70,SOUND,Titanic,Titanic,True
+7768,1997,1998,70,SOUND EFFECTS EDITING,Titanic,Titanic,True
+7771,1997,1998,70,VISUAL EFFECTS,Titanic,Titanic,True
+8124,2001,2002,74,ACTOR IN A SUPPORTING ROLE,Ian McKellen,The Lord of the Rings: The Fellowship of the Ring,False
+8128,2001,2002,74,ACTRESS IN A LEADING ROLE,Nicole Kidman,Moulin Rouge,False
+8142,2001,2002,74,ART DIRECTION,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
+8143,2001,2002,74,ART DIRECTION,Moulin Rouge,Moulin Rouge,True
+8146,2001,2002,74,CINEMATOGRAPHY,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,True
+8148,2001,2002,74,CINEMATOGRAPHY,Moulin Rouge,Moulin Rouge,False
+8152,2001,2002,74,COSTUME DESIGN,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
+8153,2001,2002,74,COSTUME DESIGN,Moulin Rouge,Moulin Rouge,True
+8157,2001,2002,74,DIRECTING,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
+8169,2001,2002,74,FILM EDITING,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
+8171,2001,2002,74,FILM EDITING,Moulin Rouge,Moulin Rouge,False
+8178,2001,2002,74,MAKEUP,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,True
+8179,2001,2002,74,MAKEUP,Moulin Rouge,Moulin Rouge,False
+8183,2001,2002,74,MUSIC (Original Score),The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,True
+8186,2001,2002,74,MUSIC (Original Song),The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
+8193,2001,2002,74,BEST PICTURE,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
+8194,2001,2002,74,BEST PICTURE,Moulin Rouge,Moulin Rouge,False
+8207,2001,2002,74,SOUND,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
+8208,2001,2002,74,SOUND,Moulin Rouge,Moulin Rouge,False
+8213,2001,2002,74,VISUAL EFFECTS,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,True
+8218,2001,2002,74,WRITING (Screenplay Based on Material Previously Produced or Published),The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,False
+9891,2016,2017,89,ACTOR IN A LEADING ROLE,Ryan Gosling,La La Land,False
+9902,2016,2017,89,ACTRESS IN A LEADING ROLE,Emma Stone,La La Land,True
+9915,2016,2017,89,CINEMATOGRAPHY,La La Land,La La Land,True
+9923,2016,2017,89,COSTUME DESIGN,La La Land,La La Land,False
+9926,2016,2017,89,DIRECTING,La La Land,La La Land,True
+9942,2016,2017,89,FILM EDITING,La La Land,La La Land,False
+9953,2016,2017,89,MUSIC (Original Score),La La Land,La La Land,True
+9957,2016,2017,89,MUSIC (Original Song),La La Land,La La Land,False
+9959,2016,2017,89,MUSIC (Original Song),La La Land,La La Land,True
+9967,2016,2017,89,BEST PICTURE,La La Land,La La Land,False
+9974,2016,2017,89,PRODUCTION DESIGN,La La Land,La La Land,True
+9989,2016,2017,89,SOUND EDITING,La La Land,La La Land,False
+9993,2016,2017,89,SOUND MIXING,La La Land,La La Land,False
+10007,2016,2017,89,WRITING (Original Screenplay),La La Land,La La Land,False
+10143,2018,2019,91,ACTOR IN A LEADING ROLE,Bradley Cooper,A Star Is Born,False
+10149,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Sam Elliott,A Star Is Born,False
+10155,2018,2019,91,ACTRESS IN A LEADING ROLE,Lady Gaga,A Star Is Born,False
+10171,2018,2019,91,CINEMATOGRAPHY,A Star Is Born,A Star Is Born,False
+10213,2018,2019,91,MUSIC (Original Song),A Star Is Born,A Star Is Born,True
+10221,2018,2019,91,BEST PICTURE,A Star Is Born,A Star Is Born,False
+10247,2018,2019,91,SOUND MIXING,A Star Is Born,A Star Is Born,False
+10257,2018,2019,91,WRITING (Adapted Screenplay),A Star Is Born,A Star Is Born,False
+10279,2019,2020,92,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Little Women,False
+10285,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Florence Pugh,Little Women,False
+10300,2019,2020,92,COSTUME DESIGN,Little Women,Little Women,True
+10333,2019,2020,92,MUSIC (Original Score),Little Women,Little Women,False
+10346,2019,2020,92,BEST PICTURE,Little Women,Little Women,False
+10384,2019,2020,92,WRITING (Adapted Screenplay),Little Women,Little Women,False

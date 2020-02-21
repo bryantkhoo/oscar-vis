@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/oscar-vis/static/js/main.8d2e7526.chunk.js",
+    "main.js.map": "/oscar-vis/static/js/main.8d2e7526.chunk.js.map",
+    "runtime-main.js": "/oscar-vis/static/js/runtime-main.0298544a.js",
+    "runtime-main.js.map": "/oscar-vis/static/js/runtime-main.0298544a.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/oscar-vis/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.7da5f6b6.chunk.js": "/oscar-vis/static/js/2.7da5f6b6.chunk.js",
+    "static/js/2.7da5f6b6.chunk.js.map": "/oscar-vis/static/js/2.7da5f6b6.chunk.js.map",
+    "index.html": "/oscar-vis/index.html",
+    "precache-manifest.8c413c3b6c8c2f7fee5eb24e103bbace.js": "/oscar-vis/precache-manifest.8c413c3b6c8c2f7fee5eb24e103bbace.js",
+    "service-worker.js": "/oscar-vis/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/oscar-vis/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.7da5f6b6.chunk.js.LICENSE.txt": "/oscar-vis/static/js/2.7da5f6b6.chunk.js.LICENSE.txt",
+    "static/media/awarded_only_films.csv": "/oscar-vis/static/media/awarded_only_films.09a00128.csv",
+    "static/media/nominated_films.csv": "/oscar-vis/static/media/nominated_films.68fa43f3.csv",
+    "static/media/top_10_awarded.csv": "/oscar-vis/static/media/top_10_awarded.5e5fab46.csv",
+    "static/media/top_10_nominated.csv": "/oscar-vis/static/media/top_10_nominated.702880db.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0298544a.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.7da5f6b6.chunk.js",
+    "static/js/main.8d2e7526.chunk.js"
+  ]
+}
