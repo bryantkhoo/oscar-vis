@@ -1,17 +1,17 @@
 [
-    {
-        "text": "The Academy Awards, also more popularly known as the Oscars, are awards for merit in the film industry. The dataset used for the following visualisations is obtained from the Kaggle, and contains past Oscar Nominations and Award winners."
-    },
-    {
-        "query": "1. Which films have had the most nominations and awards over the years?",
-        "text": ""
-    },
-    {
-        "query": "2. Which actors and actresses have had the most awards?",
-        "text": ""
-    },
-    {
-        "query": "3. Who were the award winners for each of the main categories from 1927 to 2020?",
-        "text": ""
-    }
+  {
+    "text": "The Academy Awards, also more popularly known as the Oscars, are awards for merit in the film industry. The dataset used for the following visualisations is obtained from Kaggle, and contains past Oscar Nominations and Award winners. The following queries are explored using the visualisation below."
+  },
+  {
+    "query": "1. Which films have received the most nominations, and how many awards did they receive? From which categories were they nominated for?",
+    "text": ""
+  },
+  {
+    "query": "2. Which films have been awarded the most times, and for which categories?",
+    "text": ""
+  },
+  {
+    "query": "3. Who were the award winners for each of the main categories from 1927 to 2020?",
+    "text": ""
+  }
 ]
