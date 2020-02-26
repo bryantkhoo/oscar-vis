@@ -69,14 +69,15 @@ td {
 .float {
   margin-top: 20px;
   margin-left: 50px;
-  width: 45px;
-  height: 45px;
-  background-color: #84aaf5;
+  width: calc(15px + 1vw);
+  height: calc(15px + 1vw);
+  background-color: #7298ad;
   color: white;
   border-radius: 50px;
   text-align: center;
   box-shadow: 2px 2px 3px #999;
   outline: none;
+  font-size: calc(3px + 1vw);
 }
 .float:focus {
   outline: none;
@@ -89,7 +90,7 @@ td {
   align-items: center;
   padding: 4px;
   font: 12px sans-serif;
-  background: #e4e8f0;
+  background: #dce4e8;
   border: 0px;
   border-radius: 6px;
   pointer-events: none;

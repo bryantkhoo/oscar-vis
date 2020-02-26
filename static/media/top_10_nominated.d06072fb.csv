@@ -1,0 +1,134 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+785,1939,1940,12,ACTOR,Clark Gable,Gone with the Wind (1939),False
+798,1939,1940,12,ACTRESS,Vivien Leigh,Gone with the Wind (1939),True
+799,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Olivia de Havilland,Gone with the Wind (1939),False
+801,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,Gone with the Wind (1939),True
+807,1939,1940,12,ART DIRECTION,Gone with the Wind,Gone with the Wind (1939),True
+829,1939,1940,12,CINEMATOGRAPHY (Color),Gone with the Wind,Gone with the Wind (1939),True
+833,1939,1940,12,DIRECTING,Gone with the Wind,Gone with the Wind (1939),True
+838,1939,1940,12,FILM EDITING,Gone with the Wind,Gone with the Wind (1939),True
+846,1939,1940,12,MUSIC (Original Score),Gone with the Wind,Gone with the Wind (1939),False
+873,1939,1940,12,OUTSTANDING PRODUCTION,Gone with the Wind,Gone with the Wind (1939),True
+894,1939,1940,12,SOUND RECORDING,Gone with the Wind,Gone with the Wind (1939),False
+904,1939,1940,12,SPECIAL EFFECTS,Gone with the Wind,Gone with the Wind (1939),False
+916,1939,1940,12,WRITING (Screenplay),Gone with the Wind,Gone with the Wind (1939),True
+2405,1950,1951,23,ACTOR IN A SUPPORTING ROLE,George Sanders,All about Eve (1950),True
+2407,1950,1951,23,ACTRESS,Anne Baxter,All about Eve (1950),False
+2408,1950,1951,23,ACTRESS,Bette Davis,All about Eve (1950),False
+2413,1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,All about Eve (1950),False
+2416,1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,All about Eve (1950),False
+2417,1950,1951,23,ART DIRECTION (Black-and-White),All about Eve,All about Eve (1950),False
+2423,1950,1951,23,CINEMATOGRAPHY (Black-and-White),All about Eve,All about Eve (1950),False
+2433,1950,1951,23,COSTUME DESIGN (Black-and-White),All about Eve,All about Eve (1950),True
+2439,1950,1951,23,DIRECTING,All about Eve,All about Eve (1950),True
+2449,1950,1951,23,FILM EDITING,All about Eve,All about Eve (1950),False
+2454,1950,1951,23,MUSIC (Music Score of a Dramatic or Comedy Picture),All about Eve,All about Eve (1950),False
+2469,1950,1951,23,BEST MOTION PICTURE,All about Eve,All about Eve (1950),True
+2483,1950,1951,23,SOUND RECORDING,All about Eve,All about Eve (1950),True
+2495,1950,1951,23,WRITING (Screenplay),All about Eve,All about Eve (1950),True
+4090,1964,1965,37,ACTRESS,Julie Andrews,Mary Poppins (1964),True
+4106,1964,1965,37,ART DIRECTION (Color),Mary Poppins,Mary Poppins (1964),False
+4117,1964,1965,37,CINEMATOGRAPHY (Color),Mary Poppins,Mary Poppins (1964),False
+4126,1964,1965,37,COSTUME DESIGN (Color),Mary Poppins,Mary Poppins (1964),False
+4132,1964,1965,37,DIRECTING,Mary Poppins,Mary Poppins (1964),False
+4148,1964,1965,37,FILM EDITING,Mary Poppins,Mary Poppins (1964),True
+4158,1964,1965,37,MUSIC (Music Score--substantially original),Mary Poppins,Mary Poppins (1964),True
+4161,1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),Mary Poppins,Mary Poppins (1964),False
+4165,1964,1965,37,MUSIC (Song),Mary Poppins,Mary Poppins (1964),True
+4172,1964,1965,37,BEST PICTURE,Mary Poppins,Mary Poppins (1964),False
+4184,1964,1965,37,SOUND,Mary Poppins,Mary Poppins (1964),False
+4189,1964,1965,37,SPECIAL VISUAL EFFECTS,Mary Poppins,Mary Poppins (1964),True
+4193,1964,1965,37,WRITING (Screenplay--based on material from another medium),Mary Poppins,Mary Poppins (1964),False
+4328,1966,1967,39,ACTOR,Richard Burton,Who's Afraid of Virginia Woolf? (1966),False
+4335,1966,1967,39,ACTOR IN A SUPPORTING ROLE,George Segal,Who's Afraid of Virginia Woolf? (1966),False
+4341,1966,1967,39,ACTRESS,Elizabeth Taylor,Who's Afraid of Virginia Woolf? (1966),True
+4342,1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Sandy Dennis,Who's Afraid of Virginia Woolf? (1966),True
+4351,1966,1967,39,ART DIRECTION (Black-and-White),Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),True
+4361,1966,1967,39,CINEMATOGRAPHY (Black-and-White),Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),True
+4371,1966,1967,39,COSTUME DESIGN (Black-and-White),Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),True
+4381,1966,1967,39,DIRECTING,Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),False
+4396,1966,1967,39,FILM EDITING,Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),False
+4406,1966,1967,39,MUSIC (Original Music Score),Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),False
+4421,1966,1967,39,BEST PICTURE,Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),False
+4432,1966,1967,39,SOUND,Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),False
+4441,1966,1967,39,WRITING (Screenplay--based on material from another medium),Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf? (1966),False
+7326,1994,1995,67,ACTOR IN A LEADING ROLE,Tom Hanks,Forrest Gump (1994),True
+7334,1994,1995,67,ACTOR IN A SUPPORTING ROLE,Gary Sinise,Forrest Gump (1994),False
+7346,1994,1995,67,ART DIRECTION,Forrest Gump,Forrest Gump (1994),False
+7350,1994,1995,67,CINEMATOGRAPHY,Forrest Gump,Forrest Gump (1994),False
+7361,1994,1995,67,DIRECTING,Forrest Gump,Forrest Gump (1994),True
+7375,1994,1995,67,FILM EDITING,Forrest Gump,Forrest Gump (1994),True
+7386,1994,1995,67,MAKEUP,Forrest Gump,Forrest Gump (1994),False
+7388,1994,1995,67,MUSIC (Original Score),Forrest Gump,Forrest Gump (1994),False
+7398,1994,1995,67,BEST PICTURE,Forrest Gump,Forrest Gump (1994),True
+7414,1994,1995,67,SOUND,Forrest Gump,Forrest Gump (1994),False
+7419,1994,1995,67,SOUND EFFECTS EDITING,Forrest Gump,Forrest Gump (1994),False
+7421,1994,1995,67,VISUAL EFFECTS,Forrest Gump,Forrest Gump (1994),True
+7424,1994,1995,67,WRITING (Screenplay Based on Material Previously Produced or Published),Forrest Gump,Forrest Gump (1994),True
+7682,1997,1998,70,ACTRESS IN A LEADING ROLE,Kate Winslet,Titanic (1997),False
+7687,1997,1998,70,ACTRESS IN A SUPPORTING ROLE,Gloria Stuart,Titanic (1997),False
+7692,1997,1998,70,ART DIRECTION,Titanic,Titanic (1997),True
+7696,1997,1998,70,CINEMATOGRAPHY,Titanic,Titanic (1997),True
+7701,1997,1998,70,COSTUME DESIGN,Titanic,Titanic (1997),True
+7707,1997,1998,70,DIRECTING,Titanic,Titanic (1997),True
+7722,1997,1998,70,FILM EDITING,Titanic,Titanic (1997),True
+7730,1997,1998,70,MAKEUP,Titanic,Titanic (1997),False
+7735,1997,1998,70,MUSIC (Original Dramatic Score),Titanic,Titanic (1997),True
+7745,1997,1998,70,MUSIC (Original Song),Titanic,Titanic (1997),True
+7750,1997,1998,70,BEST PICTURE,Titanic,Titanic (1997),True
+7765,1997,1998,70,SOUND,Titanic,Titanic (1997),True
+7768,1997,1998,70,SOUND EFFECTS EDITING,Titanic,Titanic (1997),True
+7771,1997,1998,70,VISUAL EFFECTS,Titanic,Titanic (1997),True
+8124,2001,2002,74,ACTOR IN A SUPPORTING ROLE,Ian McKellen,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8142,2001,2002,74,ART DIRECTION,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8146,2001,2002,74,CINEMATOGRAPHY,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),True
+8152,2001,2002,74,COSTUME DESIGN,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8157,2001,2002,74,DIRECTING,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8169,2001,2002,74,FILM EDITING,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8178,2001,2002,74,MAKEUP,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),True
+8183,2001,2002,74,MUSIC (Original Score),The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),True
+8186,2001,2002,74,MUSIC (Original Song),The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8193,2001,2002,74,BEST PICTURE,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8207,2001,2002,74,SOUND,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8213,2001,2002,74,VISUAL EFFECTS,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),True
+8218,2001,2002,74,WRITING (Screenplay Based on Material Previously Produced or Published),The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring (2001),False
+8908,2008,2009,81,ACTOR IN A LEADING ROLE,Brad Pitt,The Curious Case of Benjamin Button (2008),False
+8923,2008,2009,81,ACTRESS IN A SUPPORTING ROLE,Taraji P. Henson,The Curious Case of Benjamin Button (2008),False
+8929,2008,2009,81,ART DIRECTION,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),True
+8934,2008,2009,81,CINEMATOGRAPHY,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),False
+8939,2008,2009,81,COSTUME DESIGN,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),False
+8943,2008,2009,81,DIRECTING,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),False
+8957,2008,2009,81,FILM EDITING,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),False
+8967,2008,2009,81,MAKEUP,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),True
+8970,2008,2009,81,MUSIC (Original Score),The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),False
+8978,2008,2009,81,BEST PICTURE,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),False
+8998,2008,2009,81,SOUND MIXING,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),False
+9003,2008,2009,81,VISUAL EFFECTS,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),True
+9006,2008,2009,81,WRITING (Adapted Screenplay),The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (2008),False
+9891,2016,2017,89,ACTOR IN A LEADING ROLE,Ryan Gosling,La La Land (2016),False
+9902,2016,2017,89,ACTRESS IN A LEADING ROLE,Emma Stone,La La Land (2016),True
+9915,2016,2017,89,CINEMATOGRAPHY,La La Land,La La Land (2016),True
+9923,2016,2017,89,COSTUME DESIGN,La La Land,La La Land (2016),False
+9926,2016,2017,89,DIRECTING,La La Land,La La Land (2016),True
+9942,2016,2017,89,FILM EDITING,La La Land,La La Land (2016),False
+9953,2016,2017,89,MUSIC (Original Score),La La Land,La La Land (2016),True
+9957,2016,2017,89,MUSIC (Original Song),La La Land,La La Land (2016),False
+9959,2016,2017,89,MUSIC (Original Song),La La Land,La La Land (2016),True
+9967,2016,2017,89,BEST PICTURE,La La Land,La La Land (2016),False
+9974,2016,2017,89,PRODUCTION DESIGN,La La Land,La La Land (2016),True
+9989,2016,2017,89,SOUND EDITING,La La Land,La La Land (2016),False
+9993,2016,2017,89,SOUND MIXING,La La Land,La La Land (2016),False
+10007,2016,2017,89,WRITING (Original Screenplay),La La Land,La La Land (2016),False
+10022,2017,2018,90,ACTOR IN A SUPPORTING ROLE,Richard Jenkins,The Shape of Water (2017),False
+10025,2017,2018,90,ACTRESS IN A LEADING ROLE,Sally Hawkins,The Shape of Water (2017),False
+10034,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,The Shape of Water (2017),False
+10044,2017,2018,90,CINEMATOGRAPHY,The Shape of Water,The Shape of Water (2017),False
+10048,2017,2018,90,COSTUME DESIGN,The Shape of Water,The Shape of Water (2017),False
+10054,2017,2018,90,DIRECTING,The Shape of Water,The Shape of Water (2017),True
+10068,2017,2018,90,FILM EDITING,The Shape of Water,The Shape of Water (2017),False
+10080,2017,2018,90,MUSIC (Original Score),The Shape of Water,The Shape of Water (2017),True
+10095,2017,2018,90,BEST PICTURE,The Shape of Water,The Shape of Water (2017),True
+10101,2017,2018,90,PRODUCTION DESIGN,The Shape of Water,The Shape of Water (2017),True
+10115,2017,2018,90,SOUND EDITING,The Shape of Water,The Shape of Water (2017),False
+10120,2017,2018,90,SOUND MIXING,The Shape of Water,The Shape of Water (2017),False
+10135,2017,2018,90,WRITING (Original Screenplay),The Shape of Water,The Shape of Water (2017),False
