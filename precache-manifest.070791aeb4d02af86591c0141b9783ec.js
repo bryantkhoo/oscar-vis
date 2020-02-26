@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5237756b4198e5d0510acdcff9e12681",
+    "revision": "352d7f60c2b688998123ac6c5bd67025",
     "url": "/oscar-vis/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oscar-vis/static/js/2.6efc8aec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83a37f436a44d0813718",
-    "url": "/oscar-vis/static/js/main.6f5f66f2.chunk.js"
+    "revision": "3415bccedf809a2051ef",
+    "url": "/oscar-vis/static/js/main.6c3ee4c5.chunk.js"
   },
   {
     "revision": "52d1e499d26625663d47",
