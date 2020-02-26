@@ -276,7 +276,7 @@ export default class D3Chart {
         .style("alignment-baseline", "middle");
     } else if (topic === 2) {
       vis.data = vis.awardeeData;
-      vis.xLabel.text(`Number of Awards/Nominations`);
+      vis.xLabel.text(`Number of Awards`);
       vis.yLabel
         .text(`Films`)
         .transition()
