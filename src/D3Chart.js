@@ -4,7 +4,7 @@ import awarded_films_data from "./datasets/awarded_only_films.csv";
 import awarded_details_data from "./datasets/top_10_awarded.csv";
 import nominated_details_data from "./datasets/top_10_nominated.csv";
 
-const MARGIN = { TOP: 10, BOTTOM: 50, LEFT: 160, RIGHT: 10 };
+const MARGIN = { TOP: 10, BOTTOM: 50, LEFT: 300, RIGHT: 100 };
 const WIDTH = 800 - MARGIN.LEFT - MARGIN.RIGHT;
 const HEIGHT = 500 - MARGIN.TOP - MARGIN.BOTTOM;
 
@@ -56,7 +56,7 @@ export default class D3Chart {
         d.won = +d.won;
       });
       vis.nomineeData = dataset;
-      vis.update("nominated");
+      vis.update(1);
     });
 
     d3.csv(awarded_films_data).then(function(dataset) {
@@ -88,14 +88,14 @@ export default class D3Chart {
   update(topic) {
     const vis = this;
 
-    if (topic === "nominated") {
+    if (topic === 1) {
       vis.data = vis.nomineeData;
       vis.xLabel.text(`Number of Awards/Nominations`);
       vis.yLabel
         .text(`Films`)
         .transition()
         .duration(500)
-        .attr("y", -100);
+        .attr("y", -150);
 
       // update the axis scales for transition
       const x = d3
@@ -116,16 +116,18 @@ export default class D3Chart {
         .duration(500)
         .call(xAxisCall);
 
-      const yAxisCall = d3.axisLeft(y);
+	  const yAxisCall = d3.axisLeft(y)
+		  .ticks(8);
+		  
       vis.yAxisGroup
         .transition()
         .duration(500)
         .call(yAxisCall)
-        .selectAll("text")
-        .style("text-anchor", "end")
+		.selectAll("text")
+		.style("text-anchor", "end")
         .attr("dx", "-.8em")
         .attr("dy", ".15em")
-        .attr("transform", "rotate(-30)");
+		.attr("transform", "rotate(-20)");
 
       // DATA JOIN
       const rectsNominated = vis.svg.selectAll("rect.nomRect").data(vis.data);
@@ -148,7 +150,7 @@ export default class D3Chart {
         .attr("y", d => y(d.film))
         .attr("height", y.bandwidth)
         .attr("width", d => x(d.nominated))
-        .attr("fill", "#bddbc5");
+        .attr("fill", "#c3dce0");
 
       // ENTER
       rectsNominated
@@ -161,7 +163,7 @@ export default class D3Chart {
         .attr("width", d => x(d.nominated))
         .attr("y", d => y(d.film))
         .attr("height", y.bandwidth)
-        .attr("fill", "#bddbc5");
+        .attr("fill", "#c3dce0");
 
       // DATA JOIN
       const rectsWon = vis.svg.selectAll("rect.oscarRect").data(vis.data);
@@ -184,7 +186,7 @@ export default class D3Chart {
         .attr("y", d => y(d.film))
         .attr("height", y.bandwidth)
         .attr("width", d => x(d.won))
-        .attr("fill", "#72ad82");
+        .attr("fill", "#78a5ad");
 
       // ENTER
       rectsWon
@@ -197,7 +199,7 @@ export default class D3Chart {
         .attr("width", d => x(d.won))
         .attr("y", d => y(d.film))
         .attr("height", y.bandwidth)
-        .attr("fill", "#72ad82");
+        .attr("fill", "#78a5ad");
 
       const rects = vis.svg.selectAll("rect");
       rects
@@ -233,7 +235,7 @@ export default class D3Chart {
       let color = d3
         .scaleOrdinal()
         .domain(keys)
-        .range(["#72ad82", "#bddbc5"]);
+        .range(["#78a5ad", "#c3dce0"]);
 
       // Add one dot in the legend for each name.
       let size = 20;
@@ -243,7 +245,7 @@ export default class D3Chart {
         .enter()
         .append("rect")
         .attr("class", "mydots")
-        .attr("x", WIDTH - 100)
+        .attr("x", WIDTH)
         .attr("y", function(d, i) {
           return HEIGHT - 100 + i * (size + 5);
         }) // 100 is where the first dot appears. 25 is the distance between dots
@@ -260,7 +262,7 @@ export default class D3Chart {
         .enter()
         .append("text")
         .attr("class", "mylabels")
-        .attr("x", WIDTH - 100 + size * 1.2)
+        .attr("x", WIDTH + size * 1.2)
         .attr("y", function(d, i) {
           return HEIGHT - 100 + i * (size + 5) + size / 2;
         }) // 100 is where the first dot appears. 25 is the distance between dots
@@ -272,14 +274,14 @@ export default class D3Chart {
         })
         .attr("text-anchor", "left")
         .style("alignment-baseline", "middle");
-    } else if (topic === "awarded") {
+    } else if (topic === 2) {
       vis.data = vis.awardeeData;
       vis.xLabel.text(`Number of Awards/Nominations`);
       vis.yLabel
         .text(`Films`)
         .transition()
         .duration(500)
-        .attr("y", -100);
+        .attr("y", -150);
 
       // update the axis scales for transition
       const x = d3
@@ -300,7 +302,9 @@ export default class D3Chart {
         .duration(500)
         .call(xAxisCall);
 
-      const yAxisCall = d3.axisLeft(y);
+	  const yAxisCall = d3.axisLeft(y)
+		  .ticks(8);
+		  
       vis.yAxisGroup
         .transition()
         .duration(500)
@@ -309,7 +313,7 @@ export default class D3Chart {
         .style("text-anchor", "end")
         .attr("dx", "-.8em")
         .attr("dy", ".15em")
-        .attr("transform", "rotate(-30)");
+		.attr("transform", "rotate(-20)");
 
       // DATA JOIN
       const rectsWon = vis.svg.selectAll("rect").data(vis.data);
@@ -331,7 +335,7 @@ export default class D3Chart {
         .attr("y", d => y(d.film))
         .attr("height", y.bandwidth)
         .attr("width", d => x(d.won))
-        .attr("fill", "#72ad82");
+        .attr("fill", "#78a5ad");
 
       // ENTER
       rectsWon
@@ -343,7 +347,7 @@ export default class D3Chart {
         .attr("width", d => x(d.won))
         .attr("y", d => y(d.film))
         .attr("height", y.bandwidth)
-        .attr("fill", "#72ad82");
+        .attr("fill", "#78a5ad");
 
       const rects = vis.svg.selectAll("rect");
       rects
@@ -379,7 +383,7 @@ export default class D3Chart {
       let color = d3
         .scaleOrdinal()
         .domain(keys)
-        .range(["#72ad82"]);
+        .range(["#78a5ad"]);
 
       // Add one dot in the legend for each name.
       let size = 20;
@@ -389,7 +393,7 @@ export default class D3Chart {
         .enter()
         .append("rect")
         .attr("class", "mydots")
-        .attr("x", WIDTH - 100)
+        .attr("x", WIDTH )
         .attr("y", function(d, i) {
           return HEIGHT - 100 + i * (size + 5);
         }) // 100 is where the first dot appears. 25 is the distance between dots
@@ -406,7 +410,7 @@ export default class D3Chart {
         .enter()
         .append("text")
         .attr("class", "mylabels")
-        .attr("x", WIDTH - 100 + size * 1.2)
+        .attr("x", WIDTH + size * 1.2)
         .attr("y", function(d, i) {
           return HEIGHT - 100 + i * (size + 5) + size / 2;
         }) // 100 is where the first dot appears. 25 is the distance between dots
@@ -428,7 +432,7 @@ export default class D3Chart {
       console.log(data.film + " and " + name);
       if (data.film === name) {
         if (data.winner === "True") {
-          html += '<tr bgcolor="#adc3f0">';
+          html += '<tr bgcolor="#b8cad4">';
         } else {
           html += "<tr>";
         }

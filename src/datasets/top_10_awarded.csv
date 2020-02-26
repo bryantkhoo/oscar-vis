@@ -1,116 +1,115 @@
 ,year_film,year_ceremony,ceremony,category,name,film,winner
-2758,1953,1954,26,ACTOR,Montgomery Clift,From Here to Eternity,False
-2760,1953,1954,26,ACTOR,Burt Lancaster,From Here to Eternity,False
-2764,1953,1954,26,ACTOR IN A SUPPORTING ROLE,Frank Sinatra,From Here to Eternity,True
-2769,1953,1954,26,ACTRESS,Deborah Kerr,From Here to Eternity,False
-2774,1953,1954,26,ACTRESS IN A SUPPORTING ROLE,Donna Reed,From Here to Eternity,True
-2780,1953,1954,26,ART DIRECTION (Black-and-White),Titanic,Titanic,False
-2787,1953,1954,26,CINEMATOGRAPHY (Black-and-White),From Here to Eternity,From Here to Eternity,True
-2798,1953,1954,26,COSTUME DESIGN (Black-and-White),From Here to Eternity,From Here to Eternity,False
-2806,1953,1954,26,DIRECTING,From Here to Eternity,From Here to Eternity,True
-2820,1953,1954,26,FILM EDITING,From Here to Eternity,From Here to Eternity,True
-2825,1953,1954,26,MUSIC (Music Score of a Dramatic or Comedy Picture),From Here to Eternity,From Here to Eternity,False
-2839,1953,1954,26,BEST MOTION PICTURE,From Here to Eternity,From Here to Eternity,True
-2860,1953,1954,26,SOUND RECORDING,From Here to Eternity,From Here to Eternity,True
-2871,1953,1954,26,WRITING (Screenplay),From Here to Eternity,From Here to Eternity,True
-2879,1953,1954,26,WRITING (Story and Screenplay),Titanic,Titanic,True
-3385,1958,1959,31,ART DIRECTION,Gigi,Gigi,True
-3394,1958,1959,31,CINEMATOGRAPHY (Color),Gigi,Gigi,True
-3400,1958,1959,31,COSTUME DESIGN,Gigi,Gigi,True
-3404,1958,1959,31,DIRECTING,Gigi,Gigi,True
-3419,1958,1959,31,FILM EDITING,Gigi,Gigi,True
-3433,1958,1959,31,MUSIC (Scoring of a Musical Picture),Gigi,Gigi,True
-3438,1958,1959,31,MUSIC (Song),Gigi,Gigi,True
-3444,1958,1959,31,BEST MOTION PICTURE,Gigi,Gigi,True
-3462,1958,1959,31,WRITING (Screenplay--based on material from another medium),Gigi,Gigi,True
-3474,1959,1960,32,ACTOR,Charlton Heston,Ben-Hur,True
-3478,1959,1960,32,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Ben-Hur,True
-3498,1959,1960,32,ART DIRECTION (Color),Ben-Hur,Ben-Hur,True
-3508,1959,1960,32,CINEMATOGRAPHY (Color),Ben-Hur,Ben-Hur,True
-3518,1959,1960,32,COSTUME DESIGN (Color),Ben-Hur,Ben-Hur,True
-3523,1959,1960,32,DIRECTING,Ben-Hur,Ben-Hur,True
-3534,1959,1960,32,FILM EDITING,Ben-Hur,Ben-Hur,True
-3543,1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Ben-Hur,Ben-Hur,True
-3559,1959,1960,32,BEST MOTION PICTURE,Ben-Hur,Ben-Hur,True
-3572,1959,1960,32,SOUND,Ben-Hur,Ben-Hur,True
-3577,1959,1960,32,SPECIAL EFFECTS,Ben-Hur,Ben-Hur,True
-3580,1959,1960,32,WRITING (Screenplay--based on material from another medium),Ben-Hur,Ben-Hur,False
-3719,1961,1962,34,ACTOR IN A SUPPORTING ROLE,George Chakiris,West Side Story,True
-3733,1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Rita Moreno,West Side Story,True
-3743,1961,1962,34,ART DIRECTION (Color),West Side Story,West Side Story,True
-3753,1961,1962,34,CINEMATOGRAPHY (Color),West Side Story,West Side Story,True
-3763,1961,1962,34,COSTUME DESIGN (Color),West Side Story,West Side Story,True
-3768,1961,1962,34,DIRECTING,West Side Story,West Side Story,True
-3780,1961,1962,34,FILM EDITING,West Side Story,West Side Story,True
-3795,1961,1962,34,MUSIC (Scoring of a Musical Picture),West Side Story,West Side Story,True
-3805,1961,1962,34,BEST MOTION PICTURE,West Side Story,West Side Story,True
-3820,1961,1962,34,SOUND,West Side Story,West Side Story,True
-3827,1961,1962,34,WRITING (Screenplay--based on material from another medium),West Side Story,West Side Story,False
-6038,1982,1983,55,ACTOR IN A LEADING ROLE,Ben Kingsley,Gandhi,True
-6059,1982,1983,55,ART DIRECTION,Gandhi,Gandhi,True
-6064,1982,1983,55,CINEMATOGRAPHY,Gandhi,Gandhi,True
-6067,1982,1983,55,COSTUME DESIGN,Gandhi,Gandhi,True
-6074,1982,1983,55,DIRECTING,Gandhi,Gandhi,True
-6089,1982,1983,55,FILM EDITING,Gandhi,Gandhi,True
-6097,1982,1983,55,MAKEUP,Gandhi,Gandhi,False
-6100,1982,1983,55,MUSIC (Original Score),Gandhi,Gandhi,False
-6113,1982,1983,55,BEST PICTURE,Gandhi,Gandhi,True
-6127,1982,1983,55,SOUND,Gandhi,Gandhi,False
-6143,1982,1983,55,WRITING (Screenplay Written Directly for the Screen),Gandhi,Gandhi,True
-6252,1984,1985,57,ACTOR IN A LEADING ROLE,F. Murray Abraham,Amadeus,True
-6255,1984,1985,57,ACTOR IN A LEADING ROLE,Tom Hulce,Amadeus,False
-6272,1984,1985,57,ART DIRECTION,Amadeus,Amadeus,True
-6277,1984,1985,57,CINEMATOGRAPHY,Amadeus,Amadeus,False
-6282,1984,1985,57,COSTUME DESIGN,Amadeus,Amadeus,True
-6287,1984,1985,57,DIRECTING,Amadeus,Amadeus,True
-6302,1984,1985,57,FILM EDITING,Amadeus,Amadeus,False
-6312,1984,1985,57,MAKEUP,Amadeus,Amadeus,True
-6328,1984,1985,57,BEST PICTURE,Amadeus,Amadeus,True
-6339,1984,1985,57,SOUND,Amadeus,Amadeus,True
-6347,1984,1985,57,WRITING (Screenplay Based on Material from Another Medium),Amadeus,Amadeus,True
-6598,1987,1988,60,ART DIRECTION,The Last Emperor,The Last Emperor,True
-6604,1987,1988,60,CINEMATOGRAPHY,The Last Emperor,The Last Emperor,True
-6608,1987,1988,60,COSTUME DESIGN,The Last Emperor,The Last Emperor,True
-6613,1987,1988,60,DIRECTING,The Last Emperor,The Last Emperor,True
-6629,1987,1988,60,FILM EDITING,The Last Emperor,The Last Emperor,True
-6640,1987,1988,60,MUSIC (Original Score),The Last Emperor,The Last Emperor,True
-6651,1987,1988,60,BEST PICTURE,The Last Emperor,The Last Emperor,True
-6660,1987,1988,60,SOUND,The Last Emperor,The Last Emperor,True
-6669,1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),The Last Emperor,The Last Emperor,True
-7554,1996,1997,69,ACTOR IN A LEADING ROLE,Ralph Fiennes,The English Patient,False
-7566,1996,1997,69,ACTRESS IN A LEADING ROLE,Kristin Scott Thomas,The English Patient,False
-7570,1996,1997,69,ACTRESS IN A SUPPORTING ROLE,Juliette Binoche,The English Patient,True
-7574,1996,1997,69,ART DIRECTION,The English Patient,The English Patient,True
-7578,1996,1997,69,CINEMATOGRAPHY,The English Patient,The English Patient,True
-7585,1996,1997,69,COSTUME DESIGN,The English Patient,The English Patient,True
-7588,1996,1997,69,DIRECTING,The English Patient,The English Patient,True
-7603,1996,1997,69,FILM EDITING,The English Patient,The English Patient,True
-7616,1996,1997,69,MUSIC (Original Dramatic Score),The English Patient,The English Patient,True
-7631,1996,1997,69,BEST PICTURE,The English Patient,The English Patient,True
-7645,1996,1997,69,SOUND,The English Patient,The English Patient,True
-7657,1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),The English Patient,The English Patient,False
-7682,1997,1998,70,ACTRESS IN A LEADING ROLE,Kate Winslet,Titanic,False
-7687,1997,1998,70,ACTRESS IN A SUPPORTING ROLE,Gloria Stuart,Titanic,False
-7692,1997,1998,70,ART DIRECTION,Titanic,Titanic,True
-7696,1997,1998,70,CINEMATOGRAPHY,Titanic,Titanic,True
-7701,1997,1998,70,COSTUME DESIGN,Titanic,Titanic,True
-7707,1997,1998,70,DIRECTING,Titanic,Titanic,True
-7722,1997,1998,70,FILM EDITING,Titanic,Titanic,True
-7730,1997,1998,70,MAKEUP,Titanic,Titanic,False
-7735,1997,1998,70,MUSIC (Original Dramatic Score),Titanic,Titanic,True
-7745,1997,1998,70,MUSIC (Original Song),Titanic,Titanic,True
-7750,1997,1998,70,BEST PICTURE,Titanic,Titanic,True
-7765,1997,1998,70,SOUND,Titanic,Titanic,True
-7768,1997,1998,70,SOUND EFFECTS EDITING,Titanic,Titanic,True
-7771,1997,1998,70,VISUAL EFFECTS,Titanic,Titanic,True
-8366,2003,2004,76,ART DIRECTION,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8376,2003,2004,76,COSTUME DESIGN,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8380,2003,2004,76,DIRECTING,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8394,2003,2004,76,FILM EDITING,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8402,2003,2004,76,MAKEUP,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8409,2003,2004,76,MUSIC (Original Score),The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8411,2003,2004,76,MUSIC (Original Song),The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8415,2003,2004,76,BEST PICTURE,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8434,2003,2004,76,SOUND MIXING,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8438,2003,2004,76,VISUAL EFFECTS,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
-8443,2003,2004,76,WRITING (Adapted Screenplay),The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,True
+785,1939,1940,12,ACTOR,Clark Gable,Gone with the Wind (1939),False
+798,1939,1940,12,ACTRESS,Vivien Leigh,Gone with the Wind (1939),True
+799,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Olivia de Havilland,Gone with the Wind (1939),False
+801,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,Gone with the Wind (1939),True
+807,1939,1940,12,ART DIRECTION,Gone with the Wind,Gone with the Wind (1939),True
+829,1939,1940,12,CINEMATOGRAPHY (Color),Gone with the Wind,Gone with the Wind (1939),True
+833,1939,1940,12,DIRECTING,Gone with the Wind,Gone with the Wind (1939),True
+838,1939,1940,12,FILM EDITING,Gone with the Wind,Gone with the Wind (1939),True
+846,1939,1940,12,MUSIC (Original Score),Gone with the Wind,Gone with the Wind (1939),False
+873,1939,1940,12,OUTSTANDING PRODUCTION,Gone with the Wind,Gone with the Wind (1939),True
+894,1939,1940,12,SOUND RECORDING,Gone with the Wind,Gone with the Wind (1939),False
+904,1939,1940,12,SPECIAL EFFECTS,Gone with the Wind,Gone with the Wind (1939),False
+916,1939,1940,12,WRITING (Screenplay),Gone with the Wind,Gone with the Wind (1939),True
+3385,1958,1959,31,ART DIRECTION,Gigi,Gigi (1958),True
+3394,1958,1959,31,CINEMATOGRAPHY (Color),Gigi,Gigi (1958),True
+3400,1958,1959,31,COSTUME DESIGN,Gigi,Gigi (1958),True
+3404,1958,1959,31,DIRECTING,Gigi,Gigi (1958),True
+3419,1958,1959,31,FILM EDITING,Gigi,Gigi (1958),True
+3433,1958,1959,31,MUSIC (Scoring of a Musical Picture),Gigi,Gigi (1958),True
+3438,1958,1959,31,MUSIC (Song),Gigi,Gigi (1958),True
+3444,1958,1959,31,BEST MOTION PICTURE,Gigi,Gigi (1958),True
+3462,1958,1959,31,WRITING (Screenplay--based on material from another medium),Gigi,Gigi (1958),True
+3474,1959,1960,32,ACTOR,Charlton Heston,Ben-Hur (1959),True
+3478,1959,1960,32,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Ben-Hur (1959),True
+3498,1959,1960,32,ART DIRECTION (Color),Ben-Hur,Ben-Hur (1959),True
+3508,1959,1960,32,CINEMATOGRAPHY (Color),Ben-Hur,Ben-Hur (1959),True
+3518,1959,1960,32,COSTUME DESIGN (Color),Ben-Hur,Ben-Hur (1959),True
+3523,1959,1960,32,DIRECTING,Ben-Hur,Ben-Hur (1959),True
+3534,1959,1960,32,FILM EDITING,Ben-Hur,Ben-Hur (1959),True
+3543,1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Ben-Hur,Ben-Hur (1959),True
+3559,1959,1960,32,BEST MOTION PICTURE,Ben-Hur,Ben-Hur (1959),True
+3572,1959,1960,32,SOUND,Ben-Hur,Ben-Hur (1959),True
+3577,1959,1960,32,SPECIAL EFFECTS,Ben-Hur,Ben-Hur (1959),True
+3580,1959,1960,32,WRITING (Screenplay--based on material from another medium),Ben-Hur,Ben-Hur (1959),False
+3719,1961,1962,34,ACTOR IN A SUPPORTING ROLE,George Chakiris,West Side Story (1961),True
+3733,1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Rita Moreno,West Side Story (1961),True
+3743,1961,1962,34,ART DIRECTION (Color),West Side Story,West Side Story (1961),True
+3753,1961,1962,34,CINEMATOGRAPHY (Color),West Side Story,West Side Story (1961),True
+3763,1961,1962,34,COSTUME DESIGN (Color),West Side Story,West Side Story (1961),True
+3768,1961,1962,34,DIRECTING,West Side Story,West Side Story (1961),True
+3780,1961,1962,34,FILM EDITING,West Side Story,West Side Story (1961),True
+3795,1961,1962,34,MUSIC (Scoring of a Musical Picture),West Side Story,West Side Story (1961),True
+3805,1961,1962,34,BEST MOTION PICTURE,West Side Story,West Side Story (1961),True
+3820,1961,1962,34,SOUND,West Side Story,West Side Story (1961),True
+3827,1961,1962,34,WRITING (Screenplay--based on material from another medium),West Side Story,West Side Story (1961),False
+4081,1964,1965,37,ACTOR,Rex Harrison,My Fair Lady (1964),True
+4086,1964,1965,37,ACTOR IN A SUPPORTING ROLE,Stanley Holloway,My Fair Lady (1964),False
+4095,1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,My Fair Lady (1964),False
+4107,1964,1965,37,ART DIRECTION (Color),My Fair Lady,My Fair Lady (1964),True
+4118,1964,1965,37,CINEMATOGRAPHY (Color),My Fair Lady,My Fair Lady (1964),True
+4127,1964,1965,37,COSTUME DESIGN (Color),My Fair Lady,My Fair Lady (1964),True
+4133,1964,1965,37,DIRECTING,My Fair Lady,My Fair Lady (1964),True
+4149,1964,1965,37,FILM EDITING,My Fair Lady,My Fair Lady (1964),False
+4162,1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),My Fair Lady,My Fair Lady (1964),True
+4173,1964,1965,37,BEST PICTURE,My Fair Lady,My Fair Lady (1964),True
+4185,1964,1965,37,SOUND,My Fair Lady,My Fair Lady (1964),True
+4194,1964,1965,37,WRITING (Screenplay--based on material from another medium),My Fair Lady,My Fair Lady (1964),False
+6252,1984,1985,57,ACTOR IN A LEADING ROLE,F. Murray Abraham,Amadeus (1984),True
+6255,1984,1985,57,ACTOR IN A LEADING ROLE,Tom Hulce,Amadeus (1984),False
+6272,1984,1985,57,ART DIRECTION,Amadeus,Amadeus (1984),True
+6277,1984,1985,57,CINEMATOGRAPHY,Amadeus,Amadeus (1984),False
+6282,1984,1985,57,COSTUME DESIGN,Amadeus,Amadeus (1984),True
+6287,1984,1985,57,DIRECTING,Amadeus,Amadeus (1984),True
+6302,1984,1985,57,FILM EDITING,Amadeus,Amadeus (1984),False
+6312,1984,1985,57,MAKEUP,Amadeus,Amadeus (1984),True
+6328,1984,1985,57,BEST PICTURE,Amadeus,Amadeus (1984),True
+6339,1984,1985,57,SOUND,Amadeus,Amadeus (1984),True
+6347,1984,1985,57,WRITING (Screenplay Based on Material from Another Medium),Amadeus,Amadeus (1984),True
+6598,1987,1988,60,ART DIRECTION,The Last Emperor,The Last Emperor (1987),True
+6604,1987,1988,60,CINEMATOGRAPHY,The Last Emperor,The Last Emperor (1987),True
+6608,1987,1988,60,COSTUME DESIGN,The Last Emperor,The Last Emperor (1987),True
+6613,1987,1988,60,DIRECTING,The Last Emperor,The Last Emperor (1987),True
+6629,1987,1988,60,FILM EDITING,The Last Emperor,The Last Emperor (1987),True
+6640,1987,1988,60,MUSIC (Original Score),The Last Emperor,The Last Emperor (1987),True
+6651,1987,1988,60,BEST PICTURE,The Last Emperor,The Last Emperor (1987),True
+6660,1987,1988,60,SOUND,The Last Emperor,The Last Emperor (1987),True
+6669,1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),The Last Emperor,The Last Emperor (1987),True
+7554,1996,1997,69,ACTOR IN A LEADING ROLE,Ralph Fiennes,The English Patient (1996),False
+7566,1996,1997,69,ACTRESS IN A LEADING ROLE,Kristin Scott Thomas,The English Patient (1996),False
+7570,1996,1997,69,ACTRESS IN A SUPPORTING ROLE,Juliette Binoche,The English Patient (1996),True
+7574,1996,1997,69,ART DIRECTION,The English Patient,The English Patient (1996),True
+7578,1996,1997,69,CINEMATOGRAPHY,The English Patient,The English Patient (1996),True
+7585,1996,1997,69,COSTUME DESIGN,The English Patient,The English Patient (1996),True
+7588,1996,1997,69,DIRECTING,The English Patient,The English Patient (1996),True
+7603,1996,1997,69,FILM EDITING,The English Patient,The English Patient (1996),True
+7616,1996,1997,69,MUSIC (Original Dramatic Score),The English Patient,The English Patient (1996),True
+7631,1996,1997,69,BEST PICTURE,The English Patient,The English Patient (1996),True
+7645,1996,1997,69,SOUND,The English Patient,The English Patient (1996),True
+7657,1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),The English Patient,The English Patient (1996),False
+7682,1997,1998,70,ACTRESS IN A LEADING ROLE,Kate Winslet,Titanic (1997),False
+7687,1997,1998,70,ACTRESS IN A SUPPORTING ROLE,Gloria Stuart,Titanic (1997),False
+7692,1997,1998,70,ART DIRECTION,Titanic,Titanic (1997),True
+7696,1997,1998,70,CINEMATOGRAPHY,Titanic,Titanic (1997),True
+7701,1997,1998,70,COSTUME DESIGN,Titanic,Titanic (1997),True
+7707,1997,1998,70,DIRECTING,Titanic,Titanic (1997),True
+7722,1997,1998,70,FILM EDITING,Titanic,Titanic (1997),True
+7730,1997,1998,70,MAKEUP,Titanic,Titanic (1997),False
+7735,1997,1998,70,MUSIC (Original Dramatic Score),Titanic,Titanic (1997),True
+7745,1997,1998,70,MUSIC (Original Song),Titanic,Titanic (1997),True
+7750,1997,1998,70,BEST PICTURE,Titanic,Titanic (1997),True
+7765,1997,1998,70,SOUND,Titanic,Titanic (1997),True
+7768,1997,1998,70,SOUND EFFECTS EDITING,Titanic,Titanic (1997),True
+7771,1997,1998,70,VISUAL EFFECTS,Titanic,Titanic (1997),True
+8366,2003,2004,76,ART DIRECTION,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8376,2003,2004,76,COSTUME DESIGN,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8380,2003,2004,76,DIRECTING,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8394,2003,2004,76,FILM EDITING,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8402,2003,2004,76,MAKEUP,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8409,2003,2004,76,MUSIC (Original Score),The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8411,2003,2004,76,MUSIC (Original Song),The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8415,2003,2004,76,BEST PICTURE,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8434,2003,2004,76,SOUND MIXING,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8438,2003,2004,76,VISUAL EFFECTS,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True
+8443,2003,2004,76,WRITING (Adapted Screenplay),The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King (2003),True

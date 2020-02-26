@@ -4,10 +4,11 @@ import content from "./content/content";
 
 class App extends Component {
   state = {
-    topic: "nominated"
+    topic: 1
   };
 
   toggleNomineeAwards = topic => this.setState({ topic });
+  
 
   render() {
     return (
@@ -27,22 +28,22 @@ class App extends Component {
         </div>
         <div className="article">
           <div className="row">
-            <div className="col-xs-offset-2 col-xs-6">
+            <div className="col-xs-offset-2 col-xs-8">
               <p className="text-content">{content[0].text}</p>
             </div>
           </div>
           <div className="row">
-            <div className="col-xs-offset-1 col-xs-7">
+            <div className="col-xs-offset-1 col-xs-9">
               <ChartWrapper
                 className="vis-center-container"
                 topic={this.state.topic}
               />
             </div>
-            <div className="col-xs-1">
+            <div className="col-xs-2">
               <div className="row">
                 <button
                   className="float"
-                  onClick={() => this.toggleNomineeAwards("nominated")}
+                  onClick={() => this.toggleNomineeAwards(1)}
                 >
                   1
                 </button>
@@ -50,7 +51,7 @@ class App extends Component {
               <div className="row">
                 <button
                   className="float"
-                  onClick={() => this.toggleNomineeAwards("awarded")}
+                  onClick={() => this.toggleNomineeAwards(2)}
                 >
                   2
                 </button>
@@ -58,13 +59,8 @@ class App extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="col-xs-offset-2 col-xs-6">
-              <p className="query-content">{content[1].query}</p>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-xs-offset-2 col-xs-6">
-              <p className="query-content">{content[2].query}</p>
+            <div className="col-xs-offset-2 col-xs-8">
+              <p className="query-content">{content[this.state.topic].query}</p>
             </div>
           </div>
         </div>
