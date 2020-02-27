@@ -1,13 +1,13 @@
 [
   {
-    "text": "The Academy Awards, also more popularly known as the Oscars, are awards for merit in the film industry. The dataset used for the following visualisations is obtained from Kaggle, and contains past Oscar Nominations and Award winners. The following queries are explored using the visualisation below."
+    "text": "The Academy Awards, also more popularly known as the Oscars, are awards for merit in the film industry. The dataset used for the following visualisations is obtained from Kaggle (https://www.kaggle.com/unanimad/the-oscar-award), and contains past Oscar Nominations and Award winners. A tutorial on how to build this visualisation is on (https://bryantkhoo.github.io/oscar-vis-tutorial/). Click on the buttons on the right to switch between visualisations."
   },
   {
-    "query": "1. Which films have received the most nominations, and how many awards did they receive? From which categories were they nominated for?",
+    "query": "1. Which are the top 10 films over the years? \n2. Out of those nominations how many awards did those films receive?\n3. For which categories were these nominations for? And which of these were won?",
     "text": ""
   },
   {
-    "query": "2. Which films have been awarded the most times, and for which categories?",
+    "query": "1. Which are the top 10 most awarded films over the years?\n2. How many awards did they win?\n 3. For what categories were they nominated for and which were won?",
     "text": ""
   },
   {
