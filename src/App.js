@@ -60,7 +60,17 @@ class App extends Component {
           </div>
           <div className="row">
             <div className="col-xs-offset-2 col-xs-8">
-              <p className="query-content">{content[this.state.topic].query}</p>
+              <p className="query-content">{content[this.state.topic].query[0]}</p>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-xs-offset-2 col-xs-8">
+              <p className="query-content">{content[this.state.topic].query[1]}</p>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-xs-offset-2 col-xs-8">
+              <p className="query-content">{content[this.state.topic].query[2]}</p>
             </div>
           </div>
         </div>
