@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/oscar-vis/static/js/main.6c3ee4c5.chunk.js",
-    "main.js.map": "/oscar-vis/static/js/main.6c3ee4c5.chunk.js.map",
+    "main.js": "/oscar-vis/static/js/main.e854ff63.chunk.js",
+    "main.js.map": "/oscar-vis/static/js/main.e854ff63.chunk.js.map",
     "runtime-main.js": "/oscar-vis/static/js/runtime-main.0298544a.js",
     "runtime-main.js.map": "/oscar-vis/static/js/runtime-main.0298544a.js.map",
     "static/css/2.47e06e2e.chunk.css": "/oscar-vis/static/css/2.47e06e2e.chunk.css",
     "static/js/2.6efc8aec.chunk.js": "/oscar-vis/static/js/2.6efc8aec.chunk.js",
     "static/js/2.6efc8aec.chunk.js.map": "/oscar-vis/static/js/2.6efc8aec.chunk.js.map",
     "index.html": "/oscar-vis/index.html",
-    "precache-manifest.070791aeb4d02af86591c0141b9783ec.js": "/oscar-vis/precache-manifest.070791aeb4d02af86591c0141b9783ec.js",
+    "precache-manifest.f8e5a8fbfb937df6598e65ead80557ec.js": "/oscar-vis/precache-manifest.f8e5a8fbfb937df6598e65ead80557ec.js",
     "service-worker.js": "/oscar-vis/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/oscar-vis/static/css/2.47e06e2e.chunk.css.map",
     "static/js/2.6efc8aec.chunk.js.LICENSE.txt": "/oscar-vis/static/js/2.6efc8aec.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.0298544a.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.6efc8aec.chunk.js",
-    "static/js/main.6c3ee4c5.chunk.js"
+    "static/js/main.e854ff63.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oscar-vis/precache-manifest.070791aeb4d02af86591c0141b9783ec.js"
+  "/oscar-vis/precache-manifest.f8e5a8fbfb937df6598e65ead80557ec.js"
 );
 
 self.addEventListener('message', (event) => {
