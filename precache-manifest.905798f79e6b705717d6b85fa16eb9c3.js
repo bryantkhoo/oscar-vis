@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27978f6c1f8d43d2d08bc266338c18f4",
+    "revision": "4099fbf1e594bcaa6cfa0912092a1209",
     "url": "/oscar-vis/index.html"
   },
   {
-    "revision": "4b59e46f202f423fde25",
+    "revision": "adf3fc89b055d2231efa",
     "url": "/oscar-vis/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "4b59e46f202f423fde25",
-    "url": "/oscar-vis/static/js/2.6efc8aec.chunk.js"
+    "revision": "adf3fc89b055d2231efa",
+    "url": "/oscar-vis/static/js/2.a4d651db.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/oscar-vis/static/js/2.6efc8aec.chunk.js.LICENSE.txt"
+    "url": "/oscar-vis/static/js/2.a4d651db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9779c23789362b1750bf",
-    "url": "/oscar-vis/static/js/main.c48a1e94.chunk.js"
+    "revision": "7040578acfacc125adee",
+    "url": "/oscar-vis/static/js/main.3110b7d2.chunk.js"
   },
   {
     "revision": "52d1e499d26625663d47",
